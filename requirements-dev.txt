@@ -1,0 +1,5 @@
+# data pipeline (src/) and tests, on top of the app runtime
+-r requirements.txt
+scikit-learn>=1.5,<1.8
+matplotlib>=3.9
+pytest>=8

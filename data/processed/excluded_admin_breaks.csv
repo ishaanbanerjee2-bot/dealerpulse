@@ -1,0 +1,17 @@
+office_code,l12_units,p12_units,months_reported_24,r6,r9,admin_break,special_office,state_name,office_name
+AP326,377.0,268.0,24.0,1.65,1.72,True,False,Andhra Pradesh,Kavali Uo
+AS29,286.0,125.0,24.0,1.74,1.74,True,False,Assam,Majuli
+AS8,333.0,283.0,24.0,1.65,1.71,True,False,Assam,Dima Hasao
+CH1,5299.0,6090.0,24.0,0.64,0.65,True,False,Chandigarh,Chandigarh Ut (Rla And Sta)
+GJ12,3516.0,5048.0,24.0,0.48,0.5,True,False,Gujarat,Kachchh
+HR38,3447.0,5452.0,24.0,0.51,0.47,True,False,Haryana,"Rta, Faridabad"
+HR55,9808.0,9088.0,24.0,0.65,0.59,True,False,Haryana,"Rta, Gurgaon"
+HR74,511.0,178.0,24.0,2.35,2.01,True,False,Haryana,"Rta, Nuh"
+LA2,1075.0,1267.0,24.0,0.57,0.63,True,False,Ladakh,Leh Arto
+MN1,1494.0,3476.0,24.0,0.41,0.31,True,False,Manipur,Imphal West
+OR22,784.0,692.0,24.0,2.06,1.87,True,False,Odisha,Bhadrak Rto
+PB91,764.0,1660.0,24.0,0.02,0.02,True,False,Punjab,Sdm Ludhiana East
+RJ24,702.0,913.0,24.0,0.57,0.58,True,False,Rajasthan,Sirohi Dto
+UP321,6793.0,6915.0,24.0,0.6,0.61,True,False,Uttar Pradesh,Mahanagar Arto Lucknow (Up321)
+WB35,947.0,890.0,24.0,1.7,1.67,True,False,West Bengal,Kharagpur Arto
+WB78,342.0,337.0,24.0,0.55,0.57,True,False,West Bengal,Kalimpong Rto

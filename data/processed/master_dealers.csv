@@ -1,0 +1,910 @@
+dealer_id,zone,state_name,office_code,office_name,units_l12m,units_p12m,sales_growth_yoy,car_market_l12m,market_growth_yoy,share_l12m,share_p12m,share_change_pp,growth_vs_market_pp,top_competitor_gainer,top_competitor_gain_pp,state_share_l12m,headroom_units,growth_last6m_yoy,sales_cv_24m,share_trend_pp_per_yr,quadrant
+MS-AN-001,South,Andaman And Nicobar Islands,AN1,Port Blair Dto,323,294,0.0986,2381,0.0653,0.1357,0.1315,0.4114,3.3315,Toyota,12.4052,0.1357,0.0,-0.2819,0.6943,5.0363,Healthy: growing & gaining share
+MS-AP-001,South,Andhra Pradesh,AP103,Tirupati Rta,1192,1205,-0.0108,4336,0.1078,0.2749,0.3079,-3.2961,-11.8606,Mahindra,5.3251,0.3404,284.0,-0.0755,0.1559,-4.6865,Clear decline: falling & losing share
+MS-AP-002,South,Andhra Pradesh,AP105,Rajahmundry Rta,1331,1387,-0.0404,3933,0.0787,0.3384,0.3804,-4.1998,-11.9091,Mahindra,4.0296,0.3404,8.0,-0.1132,0.2441,-4.0716,Clear decline: falling & losing share
+MS-AP-003,South,Andhra Pradesh,AP116,Gudiwada Rta,538,555,-0.0306,1473,0.1227,0.3652,0.423,-5.7777,-15.3344,Mahindra,4.4264,0.3404,0.0,-0.0757,0.2903,-3.239,Clear decline: falling & losing share
+MS-AP-004,South,Andhra Pradesh,AP121,Nandyal Rta,563,478,0.1778,2169,0.1562,0.2596,0.2548,0.4769,2.1641,Mahindra,4.5291,0.3404,175.0,0.0435,0.2638,-3.7764,Healthy: growing & gaining share
+MS-AP-005,South,Andhra Pradesh,AP127,Chirala Uo,449,379,0.1847,1207,0.3747,0.372,0.4317,-5.9666,-19.0019,Tata Motors,8.9396,0.3404,0.0,-0.0693,0.3097,-7.3446,Hidden risk: growing but losing share
+MS-AP-006,South,Andhra Pradesh,AP131,Anakapalli Rta,1277,1337,-0.0449,2840,0.0856,0.4496,0.5111,-6.1438,-13.0504,Mahindra,3.5602,0.3404,0.0,0.0397,0.5786,-8.8302,Clear decline: falling & losing share
+MS-AP-007,South,Andhra Pradesh,AP135,Parvathipuram Rto Office,468,451,0.0377,836,0.1841,0.5598,0.6388,-7.9002,-14.6442,Mahindra,10.1207,0.3404,0.0,0.0969,0.258,-11.9088,Hidden risk: growing but losing share
+MS-AP-008,South,Andhra Pradesh,AP137,Bhimavaram Rta,517,523,-0.0115,2030,0.1166,0.2547,0.2877,-3.2999,-12.8084,Tata Motors,3.5712,0.3404,174.0,0.0736,0.2135,-5.8985,Clear decline: falling & losing share
+MS-AP-009,South,Andhra Pradesh,AP16,Vijayawada Rta,2478,3003,-0.1748,7521,-0.0491,0.3295,0.3797,-5.0217,-12.5767,Tata Motors,2.5327,0.3404,82.0,-0.2484,0.2341,-7.2293,Clear decline: falling & losing share
+MS-AP-010,South,Andhra Pradesh,AP2,Anantapur Rta,482,427,0.1288,2254,0.0392,0.2138,0.1969,1.6977,8.9617,Mahindra,5.8418,0.3404,285.0,0.1085,0.3033,0.3607,Healthy: growing & gaining share
+MS-AP-011,South,Andhra Pradesh,AP204,Proddutur Rta,291,234,0.2436,1110,0.2542,0.2622,0.2644,-0.2245,-1.0648,Mahindra,7.4011,0.3404,87.0,0.1624,0.4134,-4.3642,Hidden risk: growing but losing share
+MS-AP-012,South,Andhra Pradesh,AP205,Amalapuram Rta,451,473,-0.0465,1246,0.0073,0.362,0.3824,-2.0418,-5.3787,Toyota,3.3539,0.3404,0.0,-0.0386,0.334,-1.1761,Clear decline: falling & losing share
+MS-AP-013,South,Andhra Pradesh,AP207,Bapatla Mvi Office,352,358,-0.0168,1098,0.0765,0.3206,0.351,-3.0398,-9.323,Tata Motors,6.4936,0.3404,22.0,0.0057,0.3454,-4.768,Clear decline: falling & losing share
+MS-AP-014,South,Andhra Pradesh,AP21,Kurnool Rta,646,521,0.2399,2656,0.1424,0.2432,0.2241,1.9137,9.7558,Toyota,1.837,0.3404,258.0,0.1713,0.4053,-1.5941,Healthy: growing & gaining share
+MS-AP-015,South,Andhra Pradesh,AP216,Rta Machilipatnam,496,574,-0.1359,1228,0.0302,0.4039,0.4815,-7.7635,-16.609,Mahindra,4.2695,0.3404,0.0,-0.2226,0.2675,-9.3227,Clear decline: falling & losing share
+MS-AP-016,South,Andhra Pradesh,AP226,Gudur Rta,267,261,0.023,871,0.2014,0.3065,0.36,-5.3456,-17.8391,Mahindra,10.6487,0.3404,29.0,-0.2231,0.327,-8.4494,Hidden risk: growing but losing share
+MS-AP-017,South,Andhra Pradesh,AP231,Gajuwaka Rta,928,1008,-0.0794,2422,0.0306,0.3832,0.4289,-4.5782,-11.0003,Mahindra,5.2249,0.3404,0.0,-0.0913,0.2405,-6.1481,Clear decline: falling & losing share
+MS-AP-018,South,Andhra Pradesh,AP26,Nellore Rta,1488,1599,-0.0694,4787,0.1169,0.3108,0.3731,-6.2233,-18.6311,Mahindra,8.5206,0.3404,142.0,-0.1667,0.1633,-9.4305,Clear decline: falling & losing share
+MS-AP-019,South,Andhra Pradesh,AP27,Prakasam Rta,741,692,0.0708,2395,0.0926,0.3094,0.3157,-0.6299,-2.18,Mahindra,4.466,0.3404,74.0,-0.0312,0.2939,-3.7105,Hidden risk: growing but losing share
+MS-AP-020,South,Andhra Pradesh,AP3,Chittoor Rta,583,603,-0.0332,2004,0.1239,0.2909,0.3382,-4.7276,-15.7116,Mahindra,10.885,0.3404,99.0,-0.0901,0.197,-4.7818,Clear decline: falling & losing share
+MS-AP-021,South,Andhra Pradesh,AP30,Srikakulam Rta,1712,1817,-0.0578,3517,0.1258,0.4868,0.5816,-9.4848,-18.3588,Mahindra,4.81,0.3404,0.0,-0.2106,0.3057,-10.7228,Clear decline: falling & losing share
+MS-AP-022,South,Andhra Pradesh,AP305,Unit Office Kathipudi,269,227,0.185,526,0.1955,0.5114,0.5159,-0.4502,-1.0433,Tata Motors,5.5107,0.3404,0.0,-0.0315,0.2236,-3.2791,Hidden risk: growing but losing share
+MS-AP-023,South,Andhra Pradesh,AP31,Vishakapatnam Rta,3835,4452,-0.1386,10577,-0.0116,0.3626,0.416,-5.3457,-12.7002,Toyota,3.0732,0.3404,0.0,-0.2987,0.3015,-6.519,Clear decline: falling & losing share
+MS-AP-024,South,Andhra Pradesh,AP316,Nandigama Rta,274,297,-0.0774,838,0.0182,0.327,0.3609,-3.3906,-9.5667,Mahindra,3.9899,0.3404,11.0,-0.1914,0.2543,-6.4014,Clear decline: falling & losing share
+MS-AP-025,South,Andhra Pradesh,AP35,Vizianagaram Rta,1618,1697,-0.0466,3207,0.0715,0.5045,0.567,-6.2468,-11.8053,Mahindra,6.1579,0.3404,0.0,-0.2465,0.3063,-8.3225,Clear decline: falling & losing share
+MS-AP-026,South,Andhra Pradesh,AP37,Rta Eluru,852,894,-0.047,2696,0.0174,0.316,0.3374,-2.1335,-6.4338,Toyota,2.4746,0.3404,66.0,-0.0346,0.2568,-3.9204,Clear decline: falling & losing share
+MS-AP-027,South,Andhra Pradesh,AP4,Cuddapah Rta,610,597,0.0218,2398,0.0629,0.2544,0.2646,-1.0249,-4.1168,Mahindra,3.9333,0.3404,206.0,-0.1384,0.2668,-4.8009,Hidden risk: growing but losing share
+MS-AP-028,South,Andhra Pradesh,AP41,Paderu Rta,363,319,0.1379,593,0.2432,0.6121,0.6688,-5.6621,-10.5256,Mahindra,6.5955,0.3404,0.0,-0.0944,0.3164,-7.4224,Hidden risk: growing but losing share
+MS-AP-029,South,Andhra Pradesh,AP416,Nuzvid Uo,279,295,-0.0542,553,0.0972,0.5045,0.5853,-8.0797,-15.146,Tata Motors,6.8917,0.3404,0.0,-0.1497,0.3153,-10.4757,Clear decline: falling & losing share
+MS-AP-030,South,Andhra Pradesh,AP5,Rta Kakinada,1468,1574,-0.0673,4115,0.0505,0.3567,0.4018,-4.5095,-11.7893,Toyota,3.4301,0.3404,0.0,-0.2035,0.3388,-5.022,Clear decline: falling & losing share
+MS-AP-031,South,Andhra Pradesh,AP504,Rayachoti Mvi Office,358,343,0.0437,1532,0.2496,0.2337,0.2798,-4.609,-20.586,Mahindra,8.473,0.3404,164.0,-0.1818,0.3008,-4.9599,Hidden risk: growing but losing share
+MS-AP-032,South,Andhra Pradesh,AP516,Vuyyuru Uo,567,625,-0.0928,1489,0.0813,0.3808,0.4539,-7.3093,-17.4136,Tata Motors,2.5855,0.3404,0.0,-0.0525,0.3456,-9.4527,Clear decline: falling & losing share
+MS-AP-033,South,Andhra Pradesh,AP7,Guntur Rta,1550,1799,-0.1384,5569,0.0476,0.2783,0.3384,-6.0086,-18.6002,Tata Motors,3.6363,0.3404,346.0,-0.1742,0.2315,-6.8043,Clear decline: falling & losing share
+MS-AP-034,South,Andhra Pradesh,AP705,Ravulapalem Uo,266,309,-0.1392,716,0.0751,0.3715,0.464,-9.2456,-21.4234,Hyundai,5.2745,0.3404,0.0,-0.1538,0.3009,-9.7948,Clear decline: falling & losing share
+MS-AP-035,South,Andhra Pradesh,AP707,Tenali Uo,330,365,-0.0959,1062,0.2014,0.3107,0.4129,-10.2161,-29.7248,Tata Motors,16.5028,0.3404,32.0,-0.0636,0.2038,-10.0911,Clear decline: falling & losing share
+MS-AR-001,North-East,Arunachal Pradesh,AR1,Itanagar Capital Region,2525,1759,0.4355,8263,0.2523,0.3056,0.2666,3.8983,18.3126,Skoda-VW,0.7981,0.3242,153.0,0.5155,0.2454,3.7624,Healthy: growing & gaining share
+MS-AR-002,North-East,Arunachal Pradesh,AR2,Yupia,374,231,0.619,901,0.142,0.4151,0.2928,12.2319,47.7096,Mahindra,2.2296,0.3242,0.0,0.5935,0.4205,10.6286,Healthy: growing & gaining share
+MS-AR-003,North-East,Arunachal Pradesh,AR20,Namsai,420,321,0.3084,1060,0.3135,0.3962,0.3978,-0.1543,-0.5096,Tata Motors,4.2443,0.3242,0.0,0.1224,0.3113,2.4416,Hidden risk: growing but losing share
+MS-AR-004,North-East,Arunachal Pradesh,AR9,East Siang,318,218,0.4587,996,0.1141,0.3193,0.2438,7.5429,34.4622,Hyundai,2.5201,0.3242,5.0,0.3661,0.3532,5.6781,Healthy: growing & gaining share
+MS-AS-001,North-East,Assam,AS1,Kamrup,18060,16291,0.1086,42526,0.0395,0.4247,0.3982,2.6476,6.9112,Mahindra,1.853,0.4269,93.0,0.0237,0.1607,2.5629,Healthy: growing & gaining share
+MS-AS-002,North-East,Assam,AS10,Karimganj,794,857,-0.0735,1307,0.0678,0.6075,0.7002,-9.2665,-14.1323,Hyundai,3.7697,0.4269,0.0,-0.2362,0.2566,-13.9929,Clear decline: falling & losing share
+MS-AS-003,North-East,Assam,AS11,Cachar,2669,1909,0.3981,6152,0.2056,0.4338,0.3741,5.9749,19.2549,Kia,1.959,0.4269,0.0,0.6927,0.6938,4.4361,Healthy: growing & gaining share
+MS-AS-004,North-East,Assam,AS12,Sonitpur,2203,2245,-0.0187,5373,-0.0206,0.41,0.4092,0.079,0.189,Tata Motors,4.5273,0.4269,91.0,-0.0905,0.126,0.9349,Market-driven dip: falling but holding share
+MS-AS-005,North-East,Assam,AS13,Darrang,283,545,-0.4807,1095,-0.098,0.2584,0.4489,-19.0482,-38.2711,Tata Motors,14.547,0.4269,184.0,-0.4405,0.4249,-17.9375,Clear decline: falling & losing share
+MS-AS-006,North-East,Assam,AS15,Barpeta,693,813,-0.1476,1687,-0.0674,0.4108,0.4494,-3.8631,-8.0161,Mahindra,3.8706,0.4269,27.0,-0.2132,0.2406,-5.3889,Clear decline: falling & losing share
+MS-AS-007,North-East,Assam,AS16,Kokrajhar,821,591,0.3892,1974,0.2605,0.4159,0.3774,3.8512,12.8634,Tata Motors,0.954,0.4269,22.0,0.3508,0.2221,2.7447,Healthy: growing & gaining share
+MS-AS-008,North-East,Assam,AS17,Dhubri,475,421,0.1283,1024,-0.0657,0.4639,0.3841,7.9743,19.3959,Toyota,0.4163,0.4269,0.0,0.0881,0.2506,8.7497,Healthy: growing & gaining share
+MS-AS-009,North-East,Assam,AS18,Goalpara,566,565,0.0018,1681,0.1282,0.3367,0.3792,-4.249,-12.6418,Tata Motors,5.1743,0.4269,152.0,-0.1594,0.2078,-3.4102,Hidden risk: growing but losing share
+MS-AS-010,North-East,Assam,AS19,Bongaigaon,885,819,0.0806,2690,0.0662,0.329,0.3246,0.4383,1.4395,Tata Motors,4.6546,0.4269,263.0,0.4293,0.6213,-0.4527,Healthy: growing & gaining share
+MS-AS-011,North-East,Assam,AS2,Nagaon,2596,2672,-0.0284,6561,-0.0708,0.3957,0.3784,1.7255,4.2368,Tata Motors,2.6178,0.4269,205.0,-0.0417,0.1551,1.3694,Market-driven dip: falling but holding share
+MS-AS-012,North-East,Assam,AS21,Morigaon,563,640,-0.1203,1184,-0.0279,0.4755,0.5255,-4.9945,-9.2398,Tata Motors,9.4525,0.4269,0.0,-0.2156,0.2417,-5.5609,Clear decline: falling & losing share
+MS-AS-013,North-East,Assam,AS23,Tinsukia,1937,2008,-0.0354,6235,-0.0736,0.3107,0.2984,1.23,3.8193,Toyota,1.677,0.4269,725.0,-0.1485,0.2279,1.4124,Market-driven dip: falling but holding share
+MS-AS-014,North-East,Assam,AS24,Hailakandi,423,393,0.0763,758,0.1213,0.558,0.5814,-2.3313,-4.4966,Mahindra,5.4402,0.4269,0.0,-0.1974,0.2873,-6.9225,Hidden risk: growing but losing share
+MS-AS-015,North-East,Assam,AS3,Jorhat,2854,2646,0.0786,6163,-0.0749,0.4631,0.3972,6.5908,15.3512,Toyota,1.8297,0.4269,0.0,0.0923,0.1442,4.0804,Healthy: growing & gaining share
+MS-AS-016,North-East,Assam,AS31,Hojai,523,725,-0.2786,1088,-0.2912,0.4807,0.4723,0.8386,1.2585,Tata Motors,9.8431,0.4269,0.0,-0.3724,0.2323,-0.8969,Market-driven dip: falling but holding share
+MS-AS-017,North-East,Assam,AS32,Biswanath Chariali,842,727,0.1582,1812,-0.0346,0.4647,0.3873,7.736,19.2814,Kia,1.8422,0.4269,0.0,0.1061,0.2654,6.5927,Healthy: growing & gaining share
+MS-AS-018,North-East,Assam,AS33,Charaideo,484,278,0.741,1182,0.0944,0.4095,0.2574,15.2068,64.6563,Kia,0.3511,0.4269,21.0,0.3333,0.4669,16.9882,Healthy: growing & gaining share
+MS-AS-019,North-East,Assam,AS4,Sivasagar,2083,2025,0.0286,4262,-0.1307,0.4887,0.413,7.5725,15.9378,Toyota,1.147,0.4269,0.0,-0.0047,0.1861,6.9618,Healthy: growing & gaining share
+MS-AS-020,North-East,Assam,AS5,Golaghat,2018,1634,0.235,4116,0.1568,0.4903,0.4592,3.1035,7.8176,Mahindra,1.7587,0.4269,0.0,0.0556,0.2386,2.1157,Healthy: growing & gaining share
+MS-AS-021,North-East,Assam,AS6,Dibrugarh,2993,3372,-0.1124,6881,-0.0834,0.435,0.4492,-1.4215,-2.9007,Tata Motors,1.4595,0.4269,0.0,-0.2108,0.1812,-1.812,Clear decline: falling & losing share
+MS-AS-022,North-East,Assam,AS7,Lakhimpur,2410,2428,-0.0074,5347,-0.0193,0.4507,0.4453,0.5379,1.1845,Tata Motors,0.4839,0.4269,0.0,0.0243,0.1716,1.1249,Market-driven dip: falling but holding share
+MS-AS-023,North-East,Assam,AS9,Karbi Anglong,1025,885,0.1582,1817,0.1449,0.5641,0.5577,0.6461,1.3265,Hyundai,5.3959,0.4269,0.0,0.1178,0.2186,-0.3215,Healthy: growing & gaining share
+MS-BR-001,East,Bihar,BR1,Patna,11801,11023,0.0706,36137,0.0709,0.3266,0.3267,-0.0103,-0.0337,Mahindra,2.7733,0.3031,0.0,0.0294,0.1919,0.2005,Hidden risk: growing but losing share
+MS-BR-002,East,Bihar,BR10,Bhagalpur,951,1042,-0.0873,3555,-0.1336,0.2675,0.254,1.355,4.6229,Tata Motors,3.9764,0.3031,126.0,-0.1276,0.3004,3.1324,Market-driven dip: falling but holding share
+MS-BR-003,East,Bihar,BR11,Purnea,1754,1734,0.0115,6247,-0.0723,0.2808,0.2575,2.3276,8.3854,Toyota,1.3519,0.3031,139.0,-0.0665,0.2381,2.317,Healthy: growing & gaining share
+MS-BR-004,East,Bihar,BR2,Gaya,1701,1802,-0.056,4958,-0.0192,0.3431,0.3565,-1.3397,-3.686,Kia,1.6589,0.3031,0.0,-0.0935,0.252,-0.9262,Clear decline: falling & losing share
+MS-BR-005,East,Bihar,BR21,Nalanda,272,359,-0.2423,855,-0.0991,0.3181,0.3783,-6.0164,-14.3288,Tata Motors,3.2509,0.3031,0.0,-0.0863,0.3579,-8.6115,Clear decline: falling & losing share
+MS-BR-006,East,Bihar,BR24,Rohtas,563,422,0.3341,2501,0.4398,0.2251,0.2429,-1.7838,-10.5716,Tata Motors,12.4804,0.3031,195.0,0.4324,0.3367,-4.9685,Hidden risk: growing but losing share
+MS-BR-007,East,Bihar,BR26,Aurangabad,355,145,1.4483,1607,0.0388,0.2209,0.0937,12.7179,140.9491,Tata Motors,2.2329,0.3031,132.0,1.4118,0.5586,11.3674,Healthy: growing & gaining share
+MS-BR-008,East,Bihar,BR28,Gopalganj,408,383,0.0653,2245,0.4531,0.1817,0.2479,-6.6159,-38.78,Tata Motors,21.4084,0.3031,272.0,0.2371,0.2738,-5.5674,Hidden risk: growing but losing share
+MS-BR-009,East,Bihar,BR29,Siwan,477,597,-0.201,1802,-0.0801,0.2647,0.3047,-4.0041,-12.0862,Hyundai,2.5201,0.3031,69.0,-0.1672,0.2648,-1.8995,Clear decline: falling & losing share
+MS-BR-010,East,Bihar,BR3,Bhojpur,316,343,-0.0787,1725,0.5265,0.1832,0.3035,-12.0351,-60.5266,Tata Motors,26.9132,0.3031,207.0,-0.1868,0.2693,-9.5182,Clear decline: falling & losing share
+MS-BR-011,East,Bihar,BR31,Vaishali,506,732,-0.3087,1626,-0.2982,0.3112,0.3159,-0.4733,-1.0513,Tata Motors,7.6646,0.3031,0.0,-0.2209,0.3042,2.8122,Clear decline: falling & losing share
+MS-BR-012,East,Bihar,BR32,Madhubani,296,222,0.3333,926,0.1692,0.3197,0.2803,3.9351,16.4141,Toyota,4.4443,0.3031,0.0,0.264,0.3808,2.9388,Healthy: growing & gaining share
+MS-BR-013,East,Bihar,BR37,Kishanganj,367,284,0.2923,1071,0.1191,0.3427,0.2968,4.591,17.3131,Hyundai,1.3356,0.3031,0.0,0.1221,0.3629,9.1352,Healthy: growing & gaining share
+MS-BR-014,East,Bihar,BR38,Araria,473,366,0.2923,1433,0.1529,0.3301,0.2944,3.5628,13.9494,Tata Motors,3.0809,0.3031,0.0,0.339,0.323,4.112,Healthy: growing & gaining share
+MS-BR-015,East,Bihar,BR4,Chapara,330,495,-0.3333,1215,-0.2054,0.2716,0.3237,-5.2136,-12.797,Tata Motors,5.5447,0.3031,38.0,-0.2846,0.3582,-2.2967,Clear decline: falling & losing share
+MS-BR-016,East,Bihar,BR5,Motihari,585,572,0.0227,2526,0.0235,0.2316,0.2318,-0.0175,-0.0774,Tata Motors,2.0328,0.3031,181.0,0.0173,0.2861,0.3762,Hidden risk: growing but losing share
+MS-BR-017,East,Bihar,BR50,Supaul,307,277,0.1083,1192,-0.1044,0.2576,0.2081,4.9436,21.2736,Hyundai,2.9323,0.3031,54.0,0.058,0.2833,4.8921,Healthy: growing & gaining share
+MS-BR-018,East,Bihar,BR6,Muzaffarpur,3474,3693,-0.0593,10291,-0.0679,0.3376,0.3345,0.3096,0.8627,Tata Motors,4.4762,0.3031,0.0,-0.0379,0.1947,0.5208,Market-driven dip: falling but holding share
+MS-BR-019,East,Bihar,BR7,Darbhanga,914,958,-0.0459,3455,-0.0427,0.2645,0.2654,-0.0903,-0.3258,Toyota,1.1683,0.3031,133.0,-0.0452,0.2462,1.589,Clear decline: falling & losing share
+MS-BR-020,East,Bihar,BR9,Begusarai,984,1141,-0.1376,3170,-0.0072,0.3104,0.3573,-4.6934,-13.0395,Skoda-VW,2.4647,0.3031,0.0,-0.1536,0.1885,-5.6091,Clear decline: falling & losing share
+MS-CG-001,Central,Chhattisgarh,CG10,Bilaspur Rto,2692,2482,0.0846,9141,0.2416,0.2945,0.3371,-4.2639,-15.7037,Tata Motors,7.3346,0.3338,359.0,0.0801,0.2337,-3.895,Hidden risk: growing but losing share
+MS-CG-002,Central,Chhattisgarh,CG11,Janjgir Champa Dto,1530,1194,0.2814,3262,0.1307,0.469,0.4139,5.5173,15.0731,Toyota,0.6366,0.3338,0.0,0.3145,0.2978,5.4305,Healthy: growing & gaining share
+MS-CG-003,Central,Chhattisgarh,CG12,Korba Dto,1739,1368,0.2712,5148,0.1194,0.3378,0.2975,4.0345,15.1825,Toyota,0.3257,0.3338,0.0,0.2236,0.2689,3.221,Healthy: growing & gaining share
+MS-CG-004,Central,Chhattisgarh,CG13,Raigarh Dto,1959,1655,0.1837,5300,0.162,0.3696,0.3629,0.6764,2.166,Toyota,0.8809,0.3338,0.0,0.216,0.2187,-0.1576,Healthy: growing & gaining share
+MS-CG-005,Central,Chhattisgarh,CG14,Jashpur Dto,396,312,0.2692,1028,0.2723,0.3852,0.3861,-0.0925,-0.3046,Toyota,1.5039,0.3338,0.0,0.3041,0.263,0.2433,Hidden risk: growing but losing share
+MS-CG-006,Central,Chhattisgarh,CG15,Ambikapur Rto,894,804,0.1119,3426,0.2431,0.2609,0.2917,-3.0781,-13.1166,Tata Motors,8.232,0.3338,250.0,0.0847,0.2233,-3.5699,Hidden risk: growing but losing share
+MS-CG-007,Central,Chhattisgarh,CG16,Baikunthpur Dto,461,434,0.0622,1111,0.0335,0.4149,0.4037,1.1221,2.8724,Mahindra,2.4325,0.3338,0.0,0.0963,0.3291,-0.6878,Healthy: growing & gaining share
+MS-CG-008,Central,Chhattisgarh,CG17,Jagdalpur Rto,681,493,0.3813,2237,0.3732,0.3044,0.3026,0.1786,0.8104,Mahindra,11.0618,0.3338,66.0,0.246,0.3046,-0.6453,Healthy: growing & gaining share
+MS-CG-009,Central,Chhattisgarh,CG19,Kanker Dto,438,309,0.4175,1171,0.2122,0.374,0.3199,5.4164,20.526,Mahindra,0.0704,0.3338,0.0,0.3688,0.4127,4.7352,Healthy: growing & gaining share
+MS-CG-010,Central,Chhattisgarh,CG22,Baloda Bazar Dto,817,628,0.301,2097,0.3114,0.3896,0.3927,-0.3141,-1.0489,Tata Motors,1.5253,0.3338,0.0,0.5169,0.3561,-1.8464,Hidden risk: growing but losing share
+MS-CG-011,Central,Chhattisgarh,CG24,Balod Dto,271,238,0.1387,755,0.0414,0.3589,0.3283,3.0665,9.7276,Hyundai,1.6406,0.3338,0.0,-0.0093,0.4969,0.2251,Healthy: growing & gaining share
+MS-CG-012,Central,Chhattisgarh,CG25,Bemetara Dto,316,281,0.1246,757,0.0529,0.4174,0.3908,2.6617,7.1704,Tata Motors,1.4959,0.3338,0.0,0.0846,0.4433,-0.5666,Healthy: growing & gaining share
+MS-CG-013,Central,Chhattisgarh,CG27,Kondagaon Dto,363,272,0.3346,962,0.2965,0.3773,0.3666,1.0762,3.8063,Mahindra,3.7806,0.3338,0.0,0.4427,0.3773,0.4508,Healthy: growing & gaining share
+MS-CG-014,Central,Chhattisgarh,CG28,Mungeli Dto,335,343,-0.0233,682,0.0134,0.4912,0.5097,-1.8456,-3.6697,Hyundai,1.2608,0.3338,0.0,0.1605,0.4039,-2.2304,Clear decline: falling & losing share
+MS-CG-015,Central,Chhattisgarh,CG29,Surajpur Dto,588,478,0.2301,1292,0.1875,0.4551,0.4393,1.577,4.2626,Hyundai,1.311,0.3338,0.0,0.1015,0.3312,1.7126,Healthy: growing & gaining share
+MS-CG-016,Central,Chhattisgarh,CG30,Balrampur Dto,328,251,0.3068,758,0.1573,0.4327,0.3832,4.9512,14.9521,Tata Motors,1.4109,0.3338,0.0,0.3546,0.3944,3.656,Healthy: growing & gaining share
+MS-CG-017,Central,Chhattisgarh,CG4,Raipur Rto,7571,7699,-0.0166,24438,-0.0665,0.3098,0.2941,1.5714,4.9878,Toyota,1.4491,0.3338,586.0,-0.1611,0.3448,1.5799,Market-driven dip: falling but holding share
+MS-CG-018,Central,Chhattisgarh,CG5,Dhamtari Dto,444,368,0.2065,1674,0.213,0.2652,0.2667,-0.1434,-0.6522,Toyota,2.5414,0.3338,115.0,0.4545,0.3999,-1.9051,Hidden risk: growing but losing share
+MS-CG-019,Central,Chhattisgarh,CG6,Mahasamund Dto,972,689,0.4107,2064,0.2608,0.4709,0.4209,5.0038,14.9897,Tata Motors,1.1275,0.3338,0.0,0.73,0.4268,3.45,Healthy: growing & gaining share
+MS-CG-020,Central,Chhattisgarh,CG7,Durg Rto,2664,2443,0.0905,9168,0.1772,0.2906,0.3137,-2.3112,-8.6733,Mahindra,4.9132,0.3338,396.0,0.1935,0.2724,-2.1088,Hidden risk: growing but losing share
+MS-CG-021,Central,Chhattisgarh,CG8,Rajnandgaon Arto,1205,983,0.2258,3714,0.1705,0.3244,0.3098,1.4647,5.5338,Hyundai,1.055,0.3338,35.0,0.3448,0.2604,1.027,Healthy: growing & gaining share
+MS-CG-022,Central,Chhattisgarh,CG9,Kawardha Dto,507,372,0.3629,1216,0.2124,0.4169,0.3709,4.6053,15.054,Toyota,1.2678,0.3338,0.0,0.3931,0.3699,4.7922,Healthy: growing & gaining share
+MS-DD-001,West,Dadra Nagar Haveli And Daman Diu,DD1,Silvassa,1222,1222,0.0,5517,0.1532,0.2215,0.2554,-3.3938,-15.3219,Toyota,1.5093,0.2482,147.0,0.0435,0.1869,-4.0008,Hidden risk: growing but losing share
+MS-DD-002,West,Dadra Nagar Haveli And Daman Diu,DD3,Daman,634,624,0.016,1962,0.2186,0.3231,0.3876,-6.4438,-20.2608,Mahindra,2.6433,0.2482,0.0,0.0192,0.1363,-6.2875,Hidden risk: growing but losing share
+MS-DL-001,North,Delhi,DL1,Mall Road,2878,2573,0.1185,9530,-0.0245,0.302,0.2634,3.861,14.3004,Toyota,2.3816,0.2979,0.0,-0.1966,0.2779,2.5074,Healthy: growing & gaining share
+MS-DL-002,North,Delhi,DL10,Rajouri Garden,5019,4797,0.0463,23447,0.2553,0.2141,0.2568,-4.2769,-20.9048,Tata Motors,19.1649,0.2979,1967.0,-0.1571,0.222,-3.5784,Hidden risk: growing but losing share
+MS-DL-003,North,Delhi,DL11,Rohini,1755,2585,-0.3211,8150,0.0341,0.2153,0.328,-11.2667,-35.5216,Tata Motors,8.0526,0.2979,673.0,-0.1272,0.3114,-7.2204,Clear decline: falling & losing share
+MS-DL-004,North,Delhi,DL12,Vasant Vihar,3912,4052,-0.0346,16619,0.0119,0.2354,0.2467,-1.1319,-4.6424,Toyota,2.2655,0.2979,1039.0,-0.0497,0.1881,-0.2374,Clear decline: falling & losing share
+MS-DL-005,North,Delhi,DL13,Surajmal Vihar,4356,4275,0.0189,13183,0.1169,0.3304,0.3622,-3.1771,-9.7972,Tata Motors,8.9247,0.2979,0.0,0.0083,0.1956,-3.2361,Hidden risk: growing but losing share
+MS-DL-006,North,Delhi,DL3,South Delhi,7473,7202,0.0376,24464,-0.0294,0.3055,0.2857,1.9732,6.7027,Mahindra,1.7198,0.2979,0.0,0.1383,0.1525,1.907,Healthy: growing & gaining share
+MS-DL-007,North,Delhi,DL4,Janakpuri,2794,1957,0.4277,11671,0.1596,0.2394,0.1944,4.4961,26.8133,Mahindra,7.1492,0.2979,683.0,0.2975,0.2931,5.1492,Healthy: growing & gaining share
+MS-DL-008,North,Delhi,DL5,Loni Road,4873,5618,-0.1326,10851,-0.0796,0.4491,0.4765,-2.7422,-5.2966,Mahindra,3.9614,0.2979,0.0,-0.1707,0.2653,-2.4144,Clear decline: falling & losing share
+MS-DL-009,North,Delhi,DL6,Sarai Kale Khan,458,811,-0.4353,1646,0.0879,0.2783,0.536,-25.7771,-52.317,Mahindra,28.0502,0.2979,32.0,-0.5679,0.4681,-26.2628,Clear decline: falling & losing share
+MS-DL-010,North,Delhi,DL7,Mayur Vihar,5922,4160,0.4236,14604,0.139,0.4055,0.3244,8.1063,28.4578,Mahindra,1.5941,0.2979,0.0,0.3611,0.3181,6.4086,Healthy: growing & gaining share
+MS-DL-011,North,Delhi,DL8,Wazirpur,6844,5463,0.2528,21186,0.1515,0.323,0.2969,2.6109,10.1253,Tata Motors,3.4062,0.2979,0.0,0.1042,0.2171,1.4784,Healthy: growing & gaining share
+MS-GA-001,West,Goa,GA10,Canacona Rto,356,184,0.9348,576,0.5738,0.6181,0.5027,11.5323,36.1012,Honda Cars,0.3216,0.5171,0.0,0.1949,0.5115,10.6299,Healthy: growing & gaining share
+MS-GA-002,West,Goa,GA11,Pernem Rto,1076,1339,-0.1964,1553,-0.1095,0.6929,0.7678,-7.4923,-8.6897,Toyota,2.3497,0.5171,0.0,-0.575,0.7524,-0.08,Clear decline: falling & losing share
+MS-GA-003,West,Goa,GA3,Mapusa Rto,3695,3484,0.0606,7150,0.0951,0.5168,0.5336,-1.6836,-3.4552,Toyota,1.9167,0.5171,2.0,-0.0685,0.2557,-2.9991,Hidden risk: growing but losing share
+MS-GA-004,West,Goa,GA5,Ponda Rto,1086,898,0.2094,2254,0.1424,0.4818,0.4551,2.6666,6.6931,Mahindra,0.9397,0.5171,80.0,0.1389,0.3032,1.0571,Healthy: growing & gaining share
+MS-GA-005,West,Goa,GA6,Vasco Rto,1270,1109,0.1452,2475,0.1317,0.5131,0.5071,0.6044,1.3489,Hyundai,2.0129,0.5171,10.0,0.0263,0.266,0.0057,Healthy: growing & gaining share
+MS-GA-006,West,Goa,GA7,Panaji Rto,1801,1523,0.1825,4143,0.1407,0.4347,0.4193,1.5381,4.1841,Toyota,1.9235,0.5171,341.0,0.1268,0.2159,0.3039,Healthy: growing & gaining share
+MS-GA-007,West,Goa,GA8,Margao Rto,2884,2401,0.2012,5551,0.1436,0.5195,0.4946,2.4902,5.7573,Mahindra,1.3118,0.5171,0.0,0.128,0.1837,0.4153,Healthy: growing & gaining share
+MS-GA-008,West,Goa,GA9,Quepem Rto,742,663,0.1192,1265,0.1438,0.5866,0.5995,-1.2896,-2.4606,Tata Motors,2.0097,0.5171,0.0,-0.0262,0.2538,-3.4865,Hidden risk: growing but losing share
+MS-GJ-001,West,Gujarat,GJ1,Ahmedabad,14524,14518,0.0004,52835,0.0262,0.2749,0.282,-0.7075,-2.5748,Toyota,1.8928,0.3725,5157.0,-0.0704,0.1805,-0.4733,Hidden risk: growing but losing share
+MS-GJ-002,West,Gujarat,GJ10,Jamnagar,3073,2628,0.1693,8328,0.0932,0.369,0.345,2.4024,7.613,Toyota,1.1727,0.3725,29.0,0.1337,0.2486,1.5349,Healthy: growing & gaining share
+MS-GJ-003,West,Gujarat,GJ11,Junagadh,1918,1565,0.2256,5156,0.2241,0.372,0.3716,0.0436,0.1438,Mahindra,6.8425,0.3725,3.0,0.1527,0.2887,0.3597,Healthy: growing & gaining share
+MS-GJ-004,West,Gujarat,GJ13,Surendranagar,3747,3548,0.0561,7923,0.0705,0.4729,0.4794,-0.6468,-1.4443,Toyota,0.8457,0.3725,0.0,0.0006,0.1772,-1.5109,Hidden risk: growing but losing share
+MS-GJ-005,West,Gujarat,GJ14,Amreli,1349,1312,0.0282,3290,0.0454,0.41,0.4169,-0.6875,-1.7239,Tata Motors,1.6761,0.3725,0.0,0.0657,0.2075,-1.7723,Hidden risk: growing but losing share
+MS-GJ-006,West,Gujarat,GJ15,Valsad,5770,5932,-0.0273,13769,0.0316,0.4191,0.4444,-2.5387,-5.8927,Tata Motors,3.7912,0.3725,0.0,-0.0935,0.2301,-2.2213,Clear decline: falling & losing share
+MS-GJ-007,West,Gujarat,GJ16,Bharuch,5766,5317,0.0844,13950,0.0826,0.4133,0.4126,0.0715,0.1876,Hyundai,3.1408,0.3725,0.0,0.0507,0.2193,-0.4208,Healthy: growing & gaining share
+MS-GJ-008,West,Gujarat,GJ17,Panchmahal,2806,2738,0.0248,5224,0.0207,0.5371,0.535,0.2162,0.4124,Hyundai,1.1198,0.3725,0.0,0.0168,0.2354,-0.2428,Healthy: growing & gaining share
+MS-GJ-009,West,Gujarat,GJ18,Gandhinagar,8732,8183,0.0671,23205,0.0138,0.3763,0.3575,1.8806,5.3329,Toyota,1.0485,0.3725,0.0,-0.0496,0.1954,0.7122,Healthy: growing & gaining share
+MS-GJ-010,West,Gujarat,GJ19,Bardoli,2935,2809,0.0449,7657,0.0573,0.3833,0.3879,-0.4567,-1.2449,Mahindra,1.5766,0.3725,0.0,0.0015,0.2497,-0.8816,Hidden risk: growing but losing share
+MS-GJ-011,West,Gujarat,GJ2,Mehsana,6385,5755,0.1095,14319,0.1168,0.4459,0.4489,-0.2962,-0.737,Mahindra,1.8867,0.3725,0.0,-0.0409,0.2212,-1.0185,Hidden risk: growing but losing share
+MS-GJ-012,West,Gujarat,GJ20,Dahod,1906,1541,0.2369,4706,0.2526,0.405,0.4102,-0.5153,-1.5736,Mahindra,3.898,0.3725,0.0,0.2444,0.3198,-1.7658,Hidden risk: growing but losing share
+MS-GJ-013,West,Gujarat,GJ21,Navsari,3367,3324,0.0129,8318,0.08,0.4048,0.4316,-2.6791,-6.7043,Tata Motors,2.0426,0.3725,0.0,-0.0665,0.2543,-3.6527,Hidden risk: growing but losing share
+MS-GJ-014,West,Gujarat,GJ22,Narmada,994,921,0.0793,1801,0.0682,0.5519,0.5463,0.5652,1.1053,Mahindra,1.6099,0.3725,0.0,-0.0441,0.271,-0.9528,Healthy: growing & gaining share
+MS-GJ-015,West,Gujarat,GJ23,Anand,4387,4337,0.0115,9601,0.029,0.4569,0.4648,-0.7913,-1.7517,Hyundai,2.2292,0.3725,0.0,-0.0651,0.2289,-1.9169,Hidden risk: growing but losing share
+MS-GJ-016,West,Gujarat,GJ24,Patan,2402,2223,0.0805,4952,0.0763,0.4851,0.4832,0.1901,0.4234,Hyundai,1.7596,0.3725,0.0,-0.0616,0.2494,0.4861,Healthy: growing & gaining share
+MS-GJ-017,West,Gujarat,GJ25,Porbandar,589,486,0.2119,1683,0.2421,0.35,0.3587,-0.8701,-3.0132,Mahindra,3.1427,0.3725,38.0,0.1564,0.2928,-2.3328,Hidden risk: growing but losing share
+MS-GJ-018,West,Gujarat,GJ26,Tapi,1485,1446,0.027,3733,0.115,0.3978,0.4319,-3.4096,-8.8023,Tata Motors,2.8987,0.3725,0.0,0.0497,0.1989,-4.0417,Hidden risk: growing but losing share
+MS-GJ-019,West,Gujarat,GJ27,Ahmedabad East,7674,7631,0.0056,22030,0.0544,0.3483,0.3652,-1.6899,-4.8785,Mahindra,2.3031,0.3725,532.0,-0.1339,0.2002,-1.7698,Hidden risk: growing but losing share
+MS-GJ-020,West,Gujarat,GJ3,Rajkot,9629,8689,0.1082,26454,0.0919,0.364,0.3586,0.5356,1.6306,Toyota,2.0237,0.3725,225.0,-0.0443,0.291,-0.4387,Healthy: growing & gaining share
+MS-GJ-021,West,Gujarat,GJ30,Aahwa,342,246,0.3902,586,0.2657,0.5836,0.5313,5.23,12.4585,Tata Motors,1.5517,0.3725,0.0,0.0805,0.415,7.0772,Healthy: growing & gaining share
+MS-GJ-022,West,Gujarat,GJ31,Modasa,2476,2139,0.1576,4889,0.1786,0.5064,0.5157,-0.9227,-2.109,Hyundai,2.1483,0.3725,0.0,0.0692,0.2384,-1.7532,Hidden risk: growing but losing share
+MS-GJ-023,West,Gujarat,GJ32,Veraval,1458,1073,0.3588,3561,0.2108,0.4094,0.3648,4.4594,14.7994,Mahindra,0.4584,0.3725,0.0,0.3102,0.2978,4.1794,Healthy: growing & gaining share
+MS-GJ-024,West,Gujarat,GJ33,Botad,921,977,-0.0573,2016,0.0301,0.4568,0.4992,-4.2388,-8.7467,Tata Motors,4.4523,0.3725,0.0,-0.1327,0.265,-6.8853,Clear decline: falling & losing share
+MS-GJ-025,West,Gujarat,GJ34,Chhotaudaipur,876,1022,-0.1429,2030,0.0247,0.4315,0.5159,-8.4374,-16.7592,Hyundai,4.481,0.3725,0.0,-0.2675,0.2482,-7.402,Clear decline: falling & losing share
+MS-GJ-026,West,Gujarat,GJ35,Lunavada,1717,1476,0.1633,3200,0.1931,0.5366,0.5503,-1.3773,-2.986,Tata Motors,1.3563,0.3725,0.0,0.1153,0.2638,-1.4891,Hidden risk: growing but losing share
+MS-GJ-027,West,Gujarat,GJ36,Morbi,4739,4048,0.1707,11876,0.0906,0.399,0.3718,2.7289,8.006,Mahindra,2.2801,0.3725,0.0,0.0903,0.2196,1.3388,Healthy: growing & gaining share
+MS-GJ-028,West,Gujarat,GJ37,Khambhaliya,816,769,0.0611,2582,0.0374,0.316,0.309,0.7075,2.3754,Mahindra,1.2951,0.3725,146.0,-0.0101,0.2496,-0.0229,Healthy: growing & gaining share
+MS-GJ-029,West,Gujarat,GJ38,"Ahmedabad (Rural), Bawla Arto",4734,4253,0.1131,12997,0.1475,0.3642,0.3755,-1.127,-3.444,Hyundai,2.6473,0.3725,107.0,0.0183,0.1894,-2.0952,Hidden risk: growing but losing share
+MS-GJ-030,West,Gujarat,GJ4,Bhavnagar,2960,2841,0.0419,7495,0.0861,0.3949,0.4117,-1.675,-4.4188,Hyundai,2.7336,0.3725,0.0,-0.1092,0.2261,-2.3964,Hidden risk: growing but losing share
+MS-GJ-031,West,Gujarat,GJ5,Surat,10645,10762,-0.0109,35692,0.051,0.2982,0.3169,-1.8656,-6.1873,Tata Motors,3.9299,0.3725,2650.0,-0.0811,0.2245,-2.0945,Clear decline: falling & losing share
+MS-GJ-032,West,Gujarat,GJ6,Vadodara,11695,11660,0.003,33040,0.0641,0.354,0.3755,-2.1571,-6.1123,Hyundai,2.9069,0.3725,612.0,-0.0927,0.2057,-2.5794,Hidden risk: growing but losing share
+MS-GJ-033,West,Gujarat,GJ7,Kheda,4104,3860,0.0632,7948,0.1146,0.5164,0.5413,-2.4942,-5.1358,Hyundai,3.1233,0.3725,0.0,0.0011,0.2426,-3.0758,Hidden risk: growing but losing share
+MS-GJ-034,West,Gujarat,GJ8,Banaskantha,3241,2869,0.1297,9810,0.0841,0.3304,0.3171,1.3326,4.5564,Toyota,1.1891,0.3725,413.0,0.0377,0.2355,0.7331,Healthy: growing & gaining share
+MS-GJ-035,West,Gujarat,GJ9,Sabarkantha,3116,2939,0.0602,7987,0.0928,0.3901,0.4021,-1.1973,-3.2538,Mahindra,2.1438,0.3725,0.0,0.0084,0.1992,-0.9253,Hidden risk: growing but losing share
+MS-HP-001,North,Himachal Pradesh,HP10,Rla Rohru,400,542,-0.262,966,-0.1977,0.4141,0.4502,-3.6087,-6.4318,Hyundai,2.1534,0.4082,0.0,-0.4727,0.8924,-3.8976,Clear decline: falling & losing share
+MS-HP-002,North,Himachal Pradesh,HP101,Rla Gagret,253,183,0.3825,685,0.6005,0.3693,0.4276,-5.8227,-21.7954,Mahindra,4.9321,0.4082,27.0,0.7303,0.5281,-1.6712,Hidden risk: growing but losing share
+MS-HP-003,North,Himachal Pradesh,HP11,Rla Arki,326,311,0.0482,684,0.2,0.4766,0.5456,-6.9006,-15.1768,Mahindra,5.4678,0.4082,0.0,0.1875,0.4029,-3.9083,Hidden risk: growing but losing share
+MS-HP-004,North,Himachal Pradesh,HP12,Rla Nalagarh,914,774,0.1809,3234,0.2722,0.2826,0.3045,-2.1863,-9.1348,Mahindra,3.2702,0.4082,406.0,0.3458,0.4445,-1.4269,Hidden risk: growing but losing share
+MS-HP-005,North,Himachal Pradesh,HP17,Rla Paonta Sahib,305,322,-0.0528,1238,0.1316,0.2464,0.2943,-4.7968,-18.4422,Mahindra,4.9754,0.4082,200.0,0.0107,0.5034,-2.1959,Clear decline: falling & losing share
+MS-HP-006,North,Himachal Pradesh,HP20,Rla Una,351,285,0.2316,956,0.0192,0.3672,0.3038,6.3317,21.2389,Tata Motors,0.3245,0.4082,39.0,0.1635,0.2919,7.1559,Healthy: growing & gaining share
+MS-HP-007,North,Himachal Pradesh,HP21,Rla Barsar,252,259,-0.027,652,0.1164,0.3865,0.4435,-5.699,-14.3465,Mahindra,2.6704,0.4082,14.0,-0.1223,0.3901,-6.4004,Clear decline: falling & losing share
+MS-HP-008,North,Himachal Pradesh,HP22,Rla Hamirpur,415,496,-0.1633,1107,-0.0054,0.3749,0.4456,-7.0755,-15.7916,Hyundai,3.4636,0.4082,37.0,-0.3114,0.3712,-3.0321,Clear decline: falling & losing share
+MS-HP-009,North,Himachal Pradesh,HP23,Rla Ghumarvi,380,422,-0.0995,968,0.0168,0.3926,0.4433,-5.0715,-11.6333,Mahindra,3.153,0.4082,15.0,-0.0556,0.383,-0.647,Clear decline: falling & losing share
+MS-HP-010,North,Himachal Pradesh,HP24,Rla Bilaspur,363,384,-0.0547,1161,0.2758,0.3127,0.422,-10.9317,-33.0512,Mahindra,5.7743,0.4082,111.0,-0.1064,0.3994,-6.7283,Clear decline: falling & losing share
+MS-HP-011,North,Himachal Pradesh,HP28,Rla Sarkaghat,340,344,-0.0116,790,0.034,0.4304,0.4503,-1.9882,-4.5659,Tata Motors,5.4039,0.4082,0.0,-0.0113,0.6126,0.4735,Clear decline: falling & losing share
+MS-HP-012,North,Himachal Pradesh,HP29,Rla Joginder Nagar,320,354,-0.096,805,0.0676,0.3975,0.4695,-7.198,-16.3684,Hyundai,4.6238,0.4082,9.0,-0.1129,0.3834,-4.0333,Clear decline: falling & losing share
+MS-HP-013,North,Himachal Pradesh,HP3,Rla Shimla Hp-03-Hp-07(Urban),285,289,-0.0138,876,-0.1759,0.3253,0.2719,5.347,16.2076,Honda Cars,1.5083,0.4082,73.0,0.2137,0.3511,3.4865,Market-driven dip: falling but holding share
+MS-HP-014,North,Himachal Pradesh,HP31,Rla Sundarnagar,363,407,-0.1081,1028,0.0787,0.3531,0.4271,-7.396,-18.6807,Tata Motors,3.2543,0.4082,57.0,-0.1245,0.522,-1.7215,Clear decline: falling & losing share
+MS-HP-015,North,Himachal Pradesh,HP33,Rla Mandi,281,268,0.0485,757,0.0753,0.3712,0.3807,-0.948,-2.6777,Toyota,1.6931,0.4082,28.0,0.2537,0.3732,0.8571,Hidden risk: growing but losing share
+MS-HP-016,North,Himachal Pradesh,HP34,Rla Kulu,796,714,0.1148,1694,0.1094,0.4699,0.4676,0.231,0.5481,Tata Motors,2.6584,0.4082,0.0,0.1694,0.3725,1.4558,Healthy: growing & gaining share
+MS-HP-017,North,Himachal Pradesh,HP36,Rla Dehra,459,548,-0.1624,1113,-0.0763,0.4124,0.4548,-4.2373,-8.606,Mahindra,3.8094,0.4082,0.0,-0.1577,0.4515,-3.6896,Clear decline: falling & losing share
+MS-HP-018,North,Himachal Pradesh,HP37,Rla Palampur,682,579,0.1779,1631,0.1272,0.4181,0.4001,1.801,5.0733,Toyota,0.891,0.4082,0.0,0.3333,0.4251,3.4106,Healthy: growing & gaining share
+MS-HP-019,North,Himachal Pradesh,HP38,Rla Nurpur,386,488,-0.209,1277,0.0298,0.3023,0.3935,-9.1277,-23.8855,Hyundai,4.6331,0.4082,135.0,-0.0444,0.393,-7.3126,Clear decline: falling & losing share
+MS-HP-020,North,Himachal Pradesh,HP39,Rla Dharamshala,375,338,0.1095,1054,0.1118,0.3558,0.3565,-0.0753,-0.2347,Tata Motors,5.3153,0.4082,55.0,0.1329,0.3176,0.9825,Hidden risk: growing but losing share
+MS-HP-021,North,Himachal Pradesh,HP40,Rla Kangra,248,260,-0.0462,689,-0.0171,0.3599,0.3709,-1.0957,-2.9035,Toyota,1.8038,0.4082,33.0,0.1022,0.3454,0.8793,Clear decline: falling & losing share
+MS-HP-022,North,Himachal Pradesh,HP53,Rla Baijnath,280,304,-0.0789,748,0.1,0.3743,0.4471,-7.2727,-17.8947,Mahindra,5.6417,0.4082,25.0,0.0336,0.3362,-8.4036,Clear decline: falling & losing share
+MS-HP-023,North,Himachal Pradesh,HP54,Rla Jawali,292,276,0.058,648,0.1368,0.4506,0.4842,-3.3593,-7.8871,Mahindra,7.0825,0.4082,0.0,-0.019,0.3144,0.1767,Hidden risk: growing but losing share
+MS-HP-024,North,Himachal Pradesh,HP55,Rla Nadaun,284,328,-0.1341,805,0.0606,0.3528,0.4321,-7.9353,-19.4752,Tata Motors,3.5385,0.4082,45.0,0.0059,0.4019,-3.1748,Clear decline: falling & losing share
+MS-HP-025,North,Himachal Pradesh,HP58,Rla Manali,281,241,0.166,612,0.0268,0.4592,0.4044,5.4788,13.9129,Tata Motors,2.6067,0.4082,0.0,0.2222,0.4018,6.2312,Healthy: growing & gaining share
+MS-HP-026,North,Himachal Pradesh,HP6,Rla Rampur Bushar,305,353,-0.136,659,0.0201,0.4628,0.5464,-8.3617,-15.6101,Mahindra,5.3153,0.4082,0.0,-0.1525,0.5939,3.9497,Clear decline: falling & losing share
+MS-HP-027,North,Himachal Pradesh,HP63,Rto Shimla,1080,896,0.2054,2197,0.185,0.4916,0.4833,0.83,2.0352,Honda Cars,1.9643,0.4082,0.0,0.2672,0.2895,1.5292,Healthy: growing & gaining share
+MS-HP-028,North,Himachal Pradesh,HP64,Rto Solan,581,518,0.1216,1426,0.2422,0.4074,0.4512,-4.3786,-12.0539,Tata Motors,3.0421,0.4082,1.0,0.2915,0.2936,-1.7755,Hidden risk: growing but losing share
+MS-HP-029,North,Himachal Pradesh,HP65,Rto Mandi,587,293,1.0034,1211,0.7861,0.4847,0.4322,5.257,21.7277,Hyundai,0.9962,0.4082,0.0,1.5113,0.6225,2.1178,Healthy: growing & gaining share
+MS-HP-030,North,Himachal Pradesh,HP66,Rto Kullu,944,512,0.8438,1519,0.5374,0.6215,0.5182,10.3243,30.6301,Toyota,0.6363,0.4082,0.0,1.1079,0.5631,6.9893,Healthy: growing & gaining share
+MS-HP-031,North,Himachal Pradesh,HP67,Rto Hamirpur,310,181,0.7127,759,0.4485,0.4084,0.3454,6.3012,26.4234,Toyota,1.6944,0.4082,0.0,1.5479,0.5523,2.3176,Healthy: growing & gaining share
+MS-HP-032,North,Himachal Pradesh,HP68,Rto Dharamshala,965,601,0.6057,1435,0.5927,0.6725,0.667,0.5437,1.2982,Toyota,2.8516,0.4082,0.0,1.1923,0.7294,-1.594,Healthy: growing & gaining share
+MS-HP-033,North,Himachal Pradesh,HP72,Rto Una,288,342,-0.1579,1056,0.0414,0.2727,0.3373,-6.4551,-19.9315,Mahindra,7.1633,0.4082,143.0,0.0141,0.3256,-5.7543,Clear decline: falling & losing share
+MS-HP-034,North,Himachal Pradesh,HP73,Rto Chamba,452,308,0.4675,955,0.3191,0.4733,0.4254,4.7884,14.8472,Honda Cars,0.8756,0.4082,0.0,0.8478,0.5662,2.6703,Healthy: growing & gaining share
+MS-HP-035,North,Himachal Pradesh,HP82,Rla Balh,306,340,-0.1,734,-0.0578,0.4169,0.4365,-1.9563,-4.2234,Tata Motors,2.6708,0.4082,0.0,0.1553,0.3766,0.7849,Clear decline: falling & losing share
+MS-HP-036,North,Himachal Pradesh,HP83,Rla Jawalaji,260,282,-0.078,630,0.0881,0.4127,0.487,-7.4348,-16.6097,Tata Motors,5.1336,0.4082,0.0,0.1325,0.5646,-3.6544,Clear decline: falling & losing share
+MS-HP-037,North,Himachal Pradesh,HP9,Rla Theog,414,530,-0.2189,715,-0.1259,0.579,0.6479,-6.8901,-9.2951,Tata Motors,5.3084,0.4082,0.0,-0.1042,0.5605,-3.491,Clear decline: falling & losing share
+MS-HP-038,North,Himachal Pradesh,HP94,Rla Nagrota Bagwan,245,253,-0.0316,620,0.0438,0.3952,0.4259,-3.0765,-7.5392,Mahindra,4.7165,0.4082,8.0,-0.0074,0.3982,-1.4846,Clear decline: falling & losing share
+MS-HR-001,North,Haryana,HR1,Ambala City,1075,1074,0.0009,2799,0.1318,0.3841,0.4343,-5.0225,-13.0893,Hyundai,3.0728,0.3687,0.0,0.0186,0.3279,-5.9907,Hidden risk: growing but losing share
+MS-HR-002,North,Haryana,HR10,Sonepat,3381,2806,0.2049,8056,0.1001,0.4197,0.3832,3.6511,10.4822,Mahindra,1.8712,0.3687,0.0,0.4235,0.4616,0.6884,Healthy: growing & gaining share
+MS-HR-003,North,Haryana,HR11,Gohana,887,716,0.2388,2148,0.2901,0.4129,0.43,-1.7088,-5.1263,Mahindra,3.3924,0.3687,0.0,0.4677,0.3257,-1.5937,Hidden risk: growing but losing share
+MS-HR-004,North,Haryana,HR12,Rohtak,2407,2010,0.1975,7030,0.1219,0.3424,0.3208,2.1611,7.5585,Mahindra,2.0149,0.3687,185.0,0.1224,0.1911,1.2802,Healthy: growing & gaining share
+MS-HR-005,North,Haryana,HR13,Bahadurgarh,1956,1573,0.2435,4615,0.1598,0.4238,0.3953,2.851,8.3645,Mahindra,3.4995,0.3687,0.0,0.2842,0.3549,2.0596,Healthy: growing & gaining share
+MS-HR-006,North,Haryana,HR14,Jhajhar,1513,1236,0.2241,3055,0.22,0.4953,0.4936,0.1643,0.4062,Mahindra,2.473,0.3687,0.0,0.1694,0.4231,-0.458,Healthy: growing & gaining share
+MS-HR-007,North,Haryana,HR15,Meham,355,281,0.2633,962,0.176,0.369,0.3435,2.5502,8.7306,Mahindra,1.7827,0.3687,0.0,0.3913,0.3585,-0.4721,Healthy: growing & gaining share
+MS-HR-008,North,Haryana,HR16,Bhiwani,1600,1358,0.1782,3857,0.2042,0.4148,0.424,-0.9147,-2.598,Mahindra,3.1274,0.3687,0.0,0.2476,0.319,-0.7215,Hidden risk: growing but losing share
+MS-HR-009,North,Haryana,HR18,Loharu,292,229,0.2751,761,0.3912,0.3837,0.4186,-3.4942,-11.6116,Mahindra,6.6054,0.3687,0.0,0.1407,0.4461,-2.8602,Hidden risk: growing but losing share
+MS-HR-010,North,Haryana,HR19,Charkhi Dadri,1173,891,0.3165,2536,0.1912,0.4625,0.4185,4.4033,12.5329,Mahindra,2.6844,0.3687,0.0,0.3407,0.4363,3.163,Healthy: growing & gaining share
+MS-HR-011,North,Haryana,HR2,Jagadhari,1118,1000,0.118,3939,0.2142,0.2838,0.3083,-2.4433,-9.6242,Mahindra,3.9191,0.3687,334.0,0.397,0.5038,-3.8012,Hidden risk: growing but losing share
+MS-HR-012,North,Haryana,HR20,Hisar,1551,1348,0.1506,5898,0.154,0.263,0.2637,-0.0774,-0.3388,Mahindra,4.6589,0.3687,624.0,0.2204,0.2432,1.0907,Hidden risk: growing but losing share
+MS-HR-013,North,Haryana,HR21,Hansi,387,318,0.217,1337,0.1718,0.2895,0.2787,1.0751,4.5202,Hyundai,4.6239,0.3687,106.0,0.2022,0.3612,1.3347,Healthy: growing & gaining share
+MS-HR-014,North,Haryana,HR22,Fatehabad,439,403,0.0893,1627,0.2206,0.2698,0.3023,-3.2504,-13.1225,Mahindra,4.9363,0.3687,161.0,0.0084,0.3185,-3.4325,Hidden risk: growing but losing share
+MS-HR-015,North,Haryana,HR24,Sirsa,502,528,-0.0492,2185,0.124,0.2297,0.2716,-4.1857,-17.3214,Kia,4.0452,0.3687,304.0,-0.1296,0.2767,-2.5128,Clear decline: falling & losing share
+MS-HR-016,North,Haryana,HR26,Sdm Gurugram,11712,10827,0.0817,32304,0.0538,0.3626,0.3532,0.9367,2.7948,Mahindra,1.97,0.3687,199.0,-0.0214,0.2025,-1.0793,Healthy: growing & gaining share
+MS-HR-017,North,Haryana,HR27,Nuh,438,492,-0.1098,659,-0.0847,0.6646,0.6833,-1.869,-2.5034,Tata Motors,2.8496,0.3687,0.0,-0.0859,0.3654,2.5541,Clear decline: falling & losing share
+MS-HR-018,North,Haryana,HR28,Ferozepur Zirkha,453,392,0.1556,686,0.1395,0.6603,0.6512,0.9187,1.6077,Mahindra,2.7934,0.3687,0.0,0.0603,0.4157,-1.227,Healthy: growing & gaining share
+MS-HR-019,North,Haryana,HR29,Ballabgarh,3625,3120,0.1619,8353,0.1302,0.434,0.4221,1.1841,3.1701,Mahindra,4.0552,0.3687,0.0,0.187,0.3178,1.2899,Healthy: growing & gaining share
+MS-HR-020,North,Haryana,HR3,Panchkula,1399,1154,0.2123,4078,0.3721,0.3431,0.3883,-4.523,-15.9835,Honda Cars,1.9166,0.3687,105.0,0.4242,0.3371,-3.1652,Hidden risk: growing but losing share
+MS-HR-021,North,Haryana,HR30,Palwal,3120,2518,0.2391,5412,0.1661,0.5765,0.5426,3.3941,7.2951,Mahindra,2.1496,0.3687,0.0,0.3214,0.375,1.9574,Healthy: growing & gaining share
+MS-HR-022,North,Haryana,HR31,Jind,1111,967,0.1489,2810,0.1738,0.3954,0.4039,-0.8553,-2.4854,Mahindra,2.9038,0.3687,0.0,0.2505,0.5161,0.0133,Hidden risk: growing but losing share
+MS-HR-023,North,Haryana,HR32,Narwana,314,296,0.0608,867,0.113,0.3622,0.38,-1.7806,-5.2155,Mahindra,5.0745,0.3687,6.0,0.1356,0.4882,2.8196,Hidden risk: growing but losing share
+MS-HR-024,North,Haryana,HR33,Safidon,514,430,0.1953,1120,0.1777,0.4589,0.4522,0.6773,1.7641,Toyota,1.4326,0.3687,0.0,0.2248,0.4245,-0.6257,Healthy: growing & gaining share
+MS-HR-025,North,Haryana,HR34,Mahendergarh,738,688,0.0727,1468,0.0645,0.5027,0.4989,0.3813,0.8135,Mahindra,2.3532,0.3687,0.0,0.124,0.3437,-0.6469,Healthy: growing & gaining share
+MS-HR-026,North,Haryana,HR35,Narnaul,1448,1242,0.1659,2795,0.0668,0.5181,0.474,4.4022,9.9068,Mahindra,1.3818,0.3687,0.0,0.1288,0.322,1.9596,Healthy: growing & gaining share
+MS-HR-027,North,Haryana,HR36,Rewari,3850,3308,0.1638,7797,0.1049,0.4938,0.4688,2.5025,5.8985,Mahindra,0.9489,0.3687,0.0,0.1688,0.2681,2.1285,Healthy: growing & gaining share
+MS-HR-028,North,Haryana,HR37,Rta Ambala,335,252,0.3294,1432,-0.2119,0.2339,0.1387,9.5248,54.1253,Kia,1.6357,0.3687,193.0,0.2237,0.2901,6.0683,Healthy: growing & gaining share
+MS-HR-029,North,Haryana,HR39,"Rta, Hisar",264,209,0.2632,1763,0.1583,0.1497,0.1373,1.2425,10.4814,Hyundai,2.976,0.3687,386.0,0.181,0.2813,0.5124,Healthy: growing & gaining share
+MS-HR-030,North,Haryana,HR4,Naraingarh,494,462,0.0693,1027,0.1724,0.481,0.5274,-4.6385,-10.311,Mahindra,7.1352,0.3687,0.0,0.0977,0.4184,-4.4595,Hidden risk: growing but losing share
+MS-HR-031,North,Haryana,HR40,Assandh,430,347,0.2392,1097,0.3678,0.392,0.4327,-4.069,-12.8637,Mahindra,5.2105,0.3687,0.0,0.2877,0.4615,-4.9322,Hidden risk: growing but losing share
+MS-HR-032,North,Haryana,HR41,Pehowa,526,399,0.3183,1214,0.202,0.4333,0.395,3.8229,11.6316,Mahindra,3.4035,0.3687,0.0,0.3866,0.43,-0.3279,Healthy: growing & gaining share
+MS-HR-033,North,Haryana,HR43,Kosli,462,432,0.0694,843,0.0739,0.548,0.5503,-0.2276,-0.4441,Mahindra,2.5186,0.3687,0.0,-0.012,0.2505,-0.3784,Hidden risk: growing but losing share
+MS-HR-034,North,Haryana,HR45,"Rta, Karnal",386,272,0.4191,1744,0.0839,0.2213,0.169,5.2281,33.5215,Kia,3.0915,0.3687,257.0,0.205,0.2932,3.0723,Healthy: growing & gaining share
+MS-HR-035,North,Haryana,HR46,"Rta, Rohtak",298,217,0.3733,1535,-0.1904,0.1941,0.1145,7.9685,56.3673,Hyundai,2.6679,0.3687,268.0,0.275,0.2589,7.3016,Healthy: growing & gaining share
+MS-HR-036,North,Haryana,HR47,"Rta, Rewari",1967,617,2.188,5207,0.7857,0.3778,0.2116,16.6169,140.2341,Hyundai,4.3925,0.3687,0.0,2.2938,0.816,13.6469,Healthy: growing & gaining share
+MS-HR-037,North,Haryana,HR48,Tosham,342,260,0.3154,791,0.433,0.4324,0.471,-3.865,-11.7586,Mahindra,7.2883,0.3687,0.0,0.1722,0.4897,-3.9445,Hidden risk: growing but losing share
+MS-HR-038,North,Haryana,HR49,Sdm Office Kalka,528,528,0.0,804,0.0,0.6567,0.6567,0.0,0.0,Hyundai,0.0,0.3687,0.0,0.0,0.0,0.0,Healthy: growing & gaining share
+MS-HR-039,North,Haryana,HR5,Karnal,2353,2138,0.1006,6362,0.0734,0.3699,0.3607,0.913,2.7168,Mahindra,2.5093,0.3687,0.0,0.1212,0.3822,0.3492,Healthy: growing & gaining share
+MS-HR-040,North,Haryana,HR50,Hodel,903,788,0.1459,1629,0.1873,0.5543,0.5743,-2.0016,-4.1379,Mahindra,4.6087,0.3687,0.0,0.1659,0.3241,-3.1953,Hidden risk: growing but losing share
+MS-HR-041,North,Haryana,HR51,Faridabad,4701,4030,0.1665,12119,0.1676,0.3879,0.3883,-0.0381,-0.1145,Mahindra,3.9483,0.3687,0.0,0.1696,0.2764,-0.4394,Hidden risk: growing but losing share
+MS-HR-042,North,Haryana,HR52,Hathin,419,395,0.0608,650,0.0726,0.6446,0.6518,-0.72,-1.1848,Mahindra,3.9726,0.3687,0.0,0.1182,0.2773,-1.6844,Hidden risk: growing but losing share
+MS-HR-043,North,Haryana,HR54,Barara,293,272,0.0772,662,0.1434,0.4426,0.4698,-2.7177,-6.6145,Mahindra,4.7864,0.3687,0.0,0.0886,0.3417,-3.0993,Hidden risk: growing but losing share
+MS-HR-044,North,Haryana,HR56,"Rta, Jind",380,250,0.52,1382,0.1924,0.275,0.2157,5.9261,32.7593,Hyundai,3.8627,0.3687,130.0,0.38,0.3004,4.6703,Healthy: growing & gaining share
+MS-HR-045,North,Haryana,HR6,Panipat,2182,1985,0.0992,7056,0.0865,0.3092,0.3057,0.3574,1.2703,Mahindra,1.9421,0.3687,420.0,0.0719,0.2628,-0.1329,Healthy: growing & gaining share
+MS-HR-046,North,Haryana,HR60,Samalkha,632,565,0.1186,1526,0.172,0.4142,0.4339,-1.9793,-5.3459,Mahindra,4.8732,0.3687,0.0,0.0831,0.2942,-0.8574,Hidden risk: growing but losing share
+MS-HR-047,North,Haryana,HR61,"Rta, Bhiwani",296,171,0.731,2506,0.2864,0.1181,0.0878,3.0334,44.4547,Tata Motors,6.9719,0.3687,628.0,0.6739,0.3485,2.2238,Healthy: growing & gaining share
+MS-HR-048,North,Haryana,HR63,"Rta, Jhajjar At Bahadurgarh",683,342,0.9971,2273,0.0732,0.3005,0.1615,13.9011,92.3894,Hyundai,2.7727,0.3687,155.0,0.8602,0.4776,11.3006,Healthy: growing & gaining share
+MS-HR-049,North,Haryana,HR64,"Rta, Kaithal",252,222,0.1351,859,0.1947,0.2934,0.3088,-1.5398,-5.958,Hyundai,3.5893,0.3687,65.0,-0.0312,0.3101,-1.2263,Hidden risk: growing but losing share
+MS-HR-050,North,Haryana,HR65,"Rta, Kurukshetra",276,163,0.6933,973,0.3149,0.2837,0.2203,6.3389,37.8387,Hyundai,2.5484,0.3687,83.0,0.9639,0.4061,3.3175,Healthy: growing & gaining share
+MS-HR-051,North,Haryana,HR66,"Rta, Mohindergarh",904,479,0.8873,3011,0.5831,0.3002,0.2518,4.8392,30.4195,Hyundai,2.5326,0.3687,206.0,1.2008,0.4265,4.3745,Healthy: growing & gaining share
+MS-HR-052,North,Haryana,HR67,"Rta, Panipat",975,266,2.6654,3037,0.7739,0.321,0.1554,16.5667,189.1465,Toyota,7.6924,0.3687,145.0,3.2675,0.8256,14.5645,Healthy: growing & gaining share
+MS-HR-053,North,Haryana,HR68,"Rta, Panchkula",291,188,0.5479,1250,0.2364,0.2328,0.186,4.6845,31.1473,Hyundai,1.5039,0.3687,170.0,0.4673,0.3174,1.2641,Healthy: growing & gaining share
+MS-HR-054,North,Haryana,HR69,"Rta, Sonepat",802,496,0.6169,2814,0.0798,0.285,0.1903,9.4674,53.712,Hyundai,3.1557,0.3687,236.0,0.8669,0.5158,8.5783,Healthy: growing & gaining share
+MS-HR-055,North,Haryana,HR7,Thanesar,997,903,0.1041,2805,0.161,0.3554,0.3738,-1.8322,-5.6912,Mahindra,4.3425,0.3687,37.0,0.0994,0.4331,-2.4374,Hidden risk: growing but losing share
+MS-HR-056,North,Haryana,HR71,Sdm Bilaspur,378,323,0.1703,938,0.3082,0.403,0.4505,-4.7503,-13.795,Mahindra,11.2874,0.3687,0.0,0.3938,0.5612,-3.3544,Hidden risk: growing but losing share
+MS-HR-057,North,Haryana,HR72,Gurugram South,1696,1476,0.1491,3374,0.1918,0.5027,0.5214,-1.8703,-4.2754,Mahindra,3.6953,0.3687,0.0,0.1533,0.3181,-2.2878,Hidden risk: growing but losing share
+MS-HR-058,North,Haryana,HR73,"Rta, Palwal",467,312,0.4968,1435,0.1772,0.3254,0.2559,6.9488,31.96,Hyundai,1.9671,0.3687,62.0,0.6485,0.3799,6.964,Healthy: growing & gaining share
+MS-HR-059,North,Haryana,HR75,Sdm Indiri,291,218,0.3349,644,0.4439,0.4519,0.4888,-3.6926,-10.9084,Mahindra,5.1959,0.3687,0.0,0.4211,0.4094,-3.1308,Hidden risk: growing but losing share
+MS-HR-060,North,Haryana,HR76,Pataudi,1509,1148,0.3145,2431,0.2041,0.6207,0.5686,5.2134,11.0399,Mahindra,1.8101,0.3687,0.0,0.4279,0.3547,3.042,Healthy: growing & gaining share
+MS-HR-061,North,Haryana,HR77,Sdm Beri,462,359,0.2869,1099,0.272,0.4204,0.4155,0.4873,1.4917,Mahindra,4.969,0.3687,0.0,0.3397,0.5461,0.2967,Healthy: growing & gaining share
+MS-HR-062,North,Haryana,HR78,Sdm Shahabad,329,315,0.0444,707,0.1099,0.4653,0.4945,-2.9159,-6.5446,Mahindra,5.2753,0.3687,0.0,0.1279,0.5851,-8.2945,Hidden risk: growing but losing share
+MS-HR-063,North,Haryana,HR79,Sdm Kharkhonda,570,429,0.3287,1259,0.2502,0.4527,0.426,2.6722,7.8423,Mahindra,5.8962,0.3687,0.0,0.4498,0.3634,0.8842,Healthy: growing & gaining share
+MS-HR-064,North,Haryana,HR8,Kaithal,1425,1141,0.2489,3465,0.2688,0.4113,0.4178,-0.654,-1.9862,Mahindra,4.4445,0.3687,0.0,0.2952,0.4118,-1.3211,Hidden risk: growing but losing share
+MS-HR-065,North,Haryana,HR81,Bawal,636,535,0.1888,1114,0.2109,0.5709,0.5815,-1.0606,-2.2085,Mahindra,3.399,0.3687,0.0,0.1712,0.3189,-1.8591,Hidden risk: growing but losing share
+MS-HR-066,North,Haryana,HR82,Kanina,447,387,0.155,810,0.2199,0.5519,0.5828,-3.0979,-6.4841,Mahindra,3.4032,0.3687,0.0,0.2,0.3793,0.4752,Hidden risk: growing but losing share
+MS-HR-067,North,Haryana,HR85,Sdm Ambala Cantonment,928,957,-0.0303,2890,0.2047,0.3211,0.3989,-7.7809,-23.4972,Mahindra,4.2545,0.3687,138.0,0.0522,0.352,-6.1995,Clear decline: falling & losing share
+MS-HR-068,North,Haryana,HR86,Sdm Narnaund,528,528,0.0,804,0.0,0.6567,0.6567,0.0,0.0,Hyundai,0.0,0.3687,0.0,0.0,0.0,0.0,Healthy: growing & gaining share
+MS-HR-069,North,Haryana,HR87,Sdm Badkhal,5128,4917,0.0429,12434,0.0064,0.4124,0.398,1.4441,3.6518,Mahindra,1.8492,0.3687,0.0,0.0598,0.331,0.6369,Healthy: growing & gaining share
+MS-HR-070,North,Haryana,HR88,Sdm Badhra,250,223,0.1211,652,0.3388,0.3834,0.4579,-7.447,-21.7733,Mahindra,17.793,0.3687,0.0,0.037,0.4322,-4.9798,Hidden risk: growing but losing share
+MS-HR-071,North,Haryana,HR89,Sdm Badli,442,362,0.221,836,0.1791,0.5287,0.5106,1.813,4.1869,Mahindra,2.3458,0.3687,0.0,0.1814,0.329,0.1625,Healthy: growing & gaining share
+MS-HR-072,North,Haryana,HR9,Gulha,293,250,0.172,730,0.2586,0.4014,0.431,-2.9665,-8.6621,Mahindra,3.897,0.3687,0.0,0.3261,0.494,-1.2506,Hidden risk: growing but losing share
+MS-HR-073,North,Haryana,HR90,Sdm Uchana,348,323,0.0774,779,0.1966,0.4467,0.4962,-4.9433,-11.9221,Mahindra,3.6435,0.3687,0.0,0.2139,0.7116,-0.839,Hidden risk: growing but losing share
+MS-HR-074,North,Haryana,HR91,Sdm Gharaunda,436,332,0.3133,1017,0.1744,0.4287,0.3834,4.534,13.8888,Mahindra,5.94,0.3687,0.0,0.4011,0.3891,0.2773,Healthy: growing & gaining share
+MS-HR-075,North,Haryana,HR95,Sdm Sampla,403,316,0.2753,924,0.278,0.4361,0.4371,-0.0921,-0.2692,Mahindra,1.9045,0.3687,0.0,0.2888,0.3593,0.5467,Hidden risk: growing but losing share
+MS-HR-076,North,Haryana,HR96,Rla Tauru,637,592,0.076,973,0.0775,0.6547,0.6556,-0.0916,-0.1506,Mahindra,3.6808,0.3687,0.0,0.1297,0.3343,0.023,Hidden risk: growing but losing share
+MS-HR-077,North,Haryana,HR97,Ladwa,296,258,0.1473,645,0.2034,0.4589,0.4813,-2.2429,-5.6071,Mahindra,3.0695,0.3687,0.0,0.195,0.5307,-3.7817,Hidden risk: growing but losing share
+MS-HR-078,North,Haryana,HR98,Sdm Badshahpur,6631,6197,0.07,30869,0.0707,0.2148,0.2149,-0.0131,-0.0654,Toyota,1.9749,0.3687,4751.0,0.0414,0.1993,-0.4453,Hidden risk: growing but losing share
+MS-JH-001,East,Jharkhand,JH1,Ranchi,9310,9083,0.025,25758,0.0849,0.3614,0.3826,-2.113,-5.9921,Mahindra,1.4335,0.3576,0.0,0.0225,0.1719,-2.2415,Hidden risk: growing but losing share
+MS-JH-002,East,Jharkhand,JH10,Dhanbad,3823,3719,0.028,10530,0.0045,0.3631,0.3548,0.8293,2.3481,Mahindra,1.3781,0.3576,0.0,-0.046,0.1722,0.2863,Healthy: growing & gaining share
+MS-JH-003,East,Jharkhand,JH11,Giridih,451,472,-0.0445,835,-0.0435,0.5401,0.5407,-0.0545,-0.0963,Tata Motors,2.8648,0.3576,0.0,-0.1034,0.2921,0.6629,Clear decline: falling & losing share
+MS-JH-004,East,Jharkhand,JH15,Deoghar,1119,978,0.1442,2916,0.0971,0.3837,0.3679,1.5799,4.7106,Toyota,0.5181,0.3576,0.0,0.1303,0.28,0.4938,Healthy: growing & gaining share
+MS-JH-005,East,Jharkhand,JH17,Godda,244,248,-0.0161,954,-0.2231,0.2558,0.202,5.3811,20.6998,Toyota,0.8507,0.3576,97.0,0.0075,0.2637,7.7004,Market-driven dip: falling but holding share
+MS-JH-006,East,Jharkhand,JH2,Hazaribag,2156,1855,0.1623,6909,0.1477,0.3121,0.3081,0.3917,1.459,Tata Motors,1.4964,0.3576,314.0,0.1299,0.1924,0.4614,Healthy: growing & gaining share
+MS-JH-007,East,Jharkhand,JH22,Saraikela-Kharsawan,311,197,0.5787,815,0.071,0.3816,0.2589,12.2725,50.7721,Toyota,1.9474,0.3576,0.0,0.1508,0.4206,9.9575,Healthy: growing & gaining share
+MS-JH-008,East,Jharkhand,JH24,Ramgarh,497,523,-0.0497,887,-0.0874,0.5603,0.5381,2.225,3.7735,Mahindra,1.9178,0.3576,0.0,0.0212,0.2572,4.3017,Market-driven dip: falling but holding share
+MS-JH-009,East,Jharkhand,JH4,Dto Office Dumka,605,491,0.2322,2423,0.1791,0.2497,0.2389,1.0761,5.3104,Tata Motors,1.7451,0.3576,261.0,0.3496,0.2333,-0.9585,Healthy: growing & gaining share
+MS-JH-010,East,Jharkhand,JH5,East Singhbhum (Jamshedpur),4317,4083,0.0573,12531,0.0323,0.3445,0.3364,0.8152,2.5018,Mahindra,1.7419,0.3576,164.0,0.0598,0.1702,0.4079,Healthy: growing & gaining share
+MS-JH-011,East,Jharkhand,JH9,Bokaro,1801,1858,-0.0307,4335,-0.0007,0.4155,0.4283,-1.2852,-2.9987,Kia,3.83,0.3576,0.0,-0.076,0.2253,-2.9157,Clear decline: falling & losing share
+MS-JK-001,North,Jammu And Kashmir,JK1,Srinagar Rto,5220,4536,0.1508,10787,0.1552,0.4839,0.4858,-0.1841,-0.4379,Toyota,5.0393,0.4954,123.0,0.0686,0.1523,-0.8137,Hidden risk: growing but losing share
+MS-JK-002,North,Jammu And Kashmir,JK11,Rajouri Arto,1458,1636,-0.1088,2695,-0.0436,0.541,0.5806,-3.9552,-6.5154,Mahindra,3.2114,0.4954,0.0,-0.1021,0.1604,-3.7657,Clear decline: falling & losing share
+MS-JK-003,North,Jammu And Kashmir,JK12,Poonch Arto,1012,1017,-0.0049,1750,0.0318,0.5783,0.5996,-2.1361,-3.6756,Tata Motors,3.3559,0.4954,0.0,-0.0019,0.1197,-1.2216,Clear decline: falling & losing share
+MS-JK-004,North,Jammu And Kashmir,JK13,Pulwama Arto,1540,1946,-0.2086,2666,-0.1224,0.5776,0.6406,-6.2909,-8.6184,Tata Motors,3.8229,0.4954,0.0,-0.2564,0.3142,-4.1178,Clear decline: falling & losing share
+MS-JK-005,North,Jammu And Kashmir,JK14,Udhampur Arto,1178,1073,0.0979,2817,0.1117,0.4182,0.4234,-0.5266,-1.3825,Mahindra,4.1162,0.4954,217.0,-0.0501,0.2487,-0.374,Hidden risk: growing but losing share
+MS-JK-006,North,Jammu And Kashmir,JK15,Bandipora Arto,801,763,0.0498,1210,0.0404,0.662,0.6561,0.5922,0.9391,Hyundai,1.4057,0.4954,0.0,0.0398,0.2318,-0.57,Healthy: growing & gaining share
+MS-JK-007,North,Jammu And Kashmir,JK16,Ganderbal Arto,901,819,0.1001,1441,0.1008,0.6253,0.6257,-0.0408,-0.0718,Toyota,1.0269,0.4954,0.0,0.1748,0.2409,1.0274,Hidden risk: growing but losing share
+MS-JK-008,North,Jammu And Kashmir,JK17,Kishtwar Arto,479,406,0.1798,956,0.0742,0.501,0.4562,4.4866,10.5646,Skoda-VW,0.3138,0.4954,0.0,0.2843,0.2637,5.0024,Healthy: growing & gaining share
+MS-JK-009,North,Jammu And Kashmir,JK18,Kulgam Arto,628,771,-0.1855,1183,-0.1031,0.5309,0.5845,-5.368,-8.2365,Tata Motors,5.1707,0.4954,0.0,-0.2957,0.3448,-2.9456,Clear decline: falling & losing share
+MS-JK-010,North,Jammu And Kashmir,JK19,Ramban Arto,447,392,0.1403,851,0.0637,0.5253,0.49,3.5264,7.6556,Mahindra,2.4915,0.4954,0.0,0.0905,0.1847,4.4042,Healthy: growing & gaining share
+MS-JK-011,North,Jammu And Kashmir,JK2,Jammu Rto,6673,6897,-0.0325,17125,0.0135,0.3897,0.4082,-1.8515,-4.5971,Mahindra,5.2593,0.4954,1810.0,-0.1178,0.1698,-1.8813,Clear decline: falling & losing share
+MS-JK-012,North,Jammu And Kashmir,JK20,Reasi Arto,772,651,0.1859,1460,0.0977,0.5288,0.4895,3.9293,8.8124,Toyota,1.7803,0.4954,0.0,0.0583,0.2227,2.751,Healthy: growing & gaining share
+MS-JK-013,North,Jammu And Kashmir,JK21,Samba Arto,1192,1268,-0.0599,2755,-0.0262,0.4327,0.4482,-1.5547,-3.3779,Mahindra,4.3901,0.4954,173.0,-0.1444,0.2143,-3.0584,Clear decline: falling & losing share
+MS-JK-014,North,Jammu And Kashmir,JK22,Shopian Arto,606,802,-0.2444,1178,-0.1408,0.5144,0.585,-7.0543,-10.3616,Tata Motors,6.5694,0.4954,0.0,-0.183,0.4324,-3.5755,Clear decline: falling & losing share
+MS-JK-015,North,Jammu And Kashmir,JK3,Anantnag Arto,1909,2193,-0.1295,3618,-0.03,0.5276,0.5879,-6.0296,-9.9476,Tata Motors,5.4571,0.4954,0.0,-0.1201,0.2159,-2.4269,Clear decline: falling & losing share
+MS-JK-016,North,Jammu And Kashmir,JK4,Budgam Arto,1479,1706,-0.1331,2416,-0.0824,0.6122,0.6479,-3.5761,-5.0644,Toyota,3.3649,0.4954,0.0,-0.2209,0.1979,-0.6887,Clear decline: falling & losing share
+MS-JK-017,North,Jammu And Kashmir,JK5,Baramulla Arto,3051,2875,0.0612,4808,0.1163,0.6346,0.6675,-3.2951,-5.5105,Mahindra,2.259,0.4954,0.0,-0.0282,0.1851,-3.0378,Hidden risk: growing but losing share
+MS-JK-018,North,Jammu And Kashmir,JK6,Doda Arto,805,744,0.082,1430,-0.0377,0.5629,0.5007,6.2264,11.9674,Mahindra,1.3899,0.4954,0.0,0.1696,0.1845,4.9723,Healthy: growing & gaining share
+MS-JK-019,North,Jammu And Kashmir,JK8,Kathua Rto,1583,1632,-0.03,3545,-0.0128,0.4465,0.4545,-0.7925,-1.7215,Mahindra,2.5176,0.4954,173.0,-0.0798,0.2165,0.2231,Clear decline: falling & losing share
+MS-JK-020,North,Jammu And Kashmir,JK9,Kupwara Arto,1286,1438,-0.1057,1968,-0.0414,0.6535,0.7004,-4.6983,-6.43,Hyundai,3.1545,0.4954,0.0,-0.0735,0.176,-4.3835,Clear decline: falling & losing share
+MS-KA-001,South,Karnataka,KA1,Bengaluru Central Rto,6657,5163,0.2894,27187,0.1234,0.2449,0.2133,3.1521,16.5983,Toyota,2.0148,0.3195,2029.0,0.2353,0.2016,3.1601,Healthy: growing & gaining share
+MS-KA-002,South,Karnataka,KA10,Chamarajanagar Rto,493,378,0.3042,1268,0.159,0.3888,0.3455,4.328,14.5183,Hyundai,1.4968,0.3195,0.0,0.0723,0.3418,6.7629,Healthy: growing & gaining share
+MS-KA-003,South,Karnataka,KA11,Mandya Rto,1596,991,0.6105,4041,0.3533,0.395,0.3319,6.307,25.7179,Toyota,0.6913,0.3195,0.0,0.5237,0.309,6.4861,Healthy: growing & gaining share
+MS-KA-004,South,Karnataka,KA12,Madikeri Rto,1749,1159,0.5091,4659,0.4004,0.3754,0.3484,2.7041,10.8699,Mahindra,0.7204,0.3195,0.0,0.5984,0.2686,2.1472,Healthy: growing & gaining share
+MS-KA-005,South,Karnataka,KA13,Hassan Rto,2021,1391,0.4529,6000,0.2482,0.3368,0.2894,4.7464,20.4732,Tata Motors,1.6882,0.3195,0.0,0.4365,0.2766,4.7234,Healthy: growing & gaining share
+MS-KA-006,South,Karnataka,KA14,Shimoga Rto,1689,1487,0.1358,4990,0.057,0.3385,0.315,2.3501,7.8865,MG Motor,1.217,0.3195,0.0,0.1966,0.1688,1.873,Healthy: growing & gaining share
+MS-KA-007,South,Karnataka,KA15,Sagar Arto,1024,1024,0.0,2374,-0.0084,0.4313,0.4277,0.3604,0.8354,Tata Motors,2.532,0.3195,0.0,0.0794,0.2583,2.5643,Healthy: growing & gaining share
+MS-KA-008,South,Karnataka,KA16,Chitradurga Rto,1302,1162,0.1205,4001,-0.0343,0.3254,0.2805,4.4946,15.4757,Toyota,1.4083,0.3195,0.0,0.1481,0.1939,2.4284,Healthy: growing & gaining share
+MS-KA-009,South,Karnataka,KA17,Davanagere Rto,2091,1890,0.1063,5722,-0.0099,0.3654,0.327,3.8385,11.6213,Toyota,0.7991,0.3195,0.0,0.0317,0.1759,3.1853,Healthy: growing & gaining share
+MS-KA-010,South,Karnataka,KA18,Chikamanglur Rto,1626,1402,0.1598,4455,0.0871,0.365,0.3421,2.2865,7.2656,Toyota,1.6264,0.3195,0.0,0.2921,0.2058,1.8051,Healthy: growing & gaining share
+MS-KA-011,South,Karnataka,KA19,Mangalore Rto,4829,4089,0.181,12253,0.1133,0.3941,0.3715,2.2583,6.7672,Tata Motors,2.3112,0.3195,0.0,0.1487,0.1613,2.3858,Healthy: growing & gaining share
+MS-KA-012,South,Karnataka,KA2,Bengaluru West Rto,4892,5078,-0.0366,16823,0.115,0.2908,0.3366,-4.5766,-15.1621,Toyota,5.1027,0.3195,483.0,-0.1029,0.2188,-3.9562,Clear decline: falling & losing share
+MS-KA-013,South,Karnataka,KA20,Udupi Rto,3309,2982,0.1097,8009,0.081,0.4132,0.4025,1.0677,2.8675,Tata Motors,1.5504,0.3195,0.0,0.0681,0.1755,1.081,Healthy: growing & gaining share
+MS-KA-014,South,Karnataka,KA21,Puttur Rto,1675,1572,0.0655,3321,0.0874,0.5044,0.5147,-1.0369,-2.1905,Hyundai,1.9899,0.3195,0.0,0.0433,0.244,0.6566,Hidden risk: growing but losing share
+MS-KA-015,South,Karnataka,KA22,Regional Transport Office Belagavi,2106,1924,0.0946,6706,0.0202,0.314,0.2927,2.1335,7.436,Kia,3.2152,0.3195,36.0,0.0332,0.2434,1.6439,Healthy: growing & gaining share
+MS-KA-016,South,Karnataka,KA23,Chikkodi Rto,364,484,-0.2479,1192,-0.208,0.3054,0.3216,-1.6226,-3.996,Mahindra,1.8781,0.3195,17.0,-0.1888,0.3917,-2.4278,Clear decline: falling & losing share
+MS-KA-017,South,Karnataka,KA24,Bailhongal Rto,275,227,0.2115,608,0.0429,0.4523,0.3894,6.2937,16.8572,Hyundai,3.5008,0.3195,0.0,0.25,0.4151,4.2287,Healthy: growing & gaining share
+MS-KA-018,South,Karnataka,KA25,Dharwad West Rto,1459,1277,0.1425,5144,0.1505,0.2836,0.2856,-0.1987,-0.8004,Tata Motors,2.2397,0.3195,184.0,0.0877,0.188,0.6883,Hidden risk: growing but losing share
+MS-KA-019,South,Karnataka,KA26,Gadag Rto,764,663,0.1523,1953,-0.0259,0.3912,0.3307,6.052,17.8273,Toyota,1.4555,0.3195,0.0,0.3146,0.2304,6.1803,Healthy: growing & gaining share
+MS-KA-020,South,Karnataka,KA27,Haveri Rto,679,595,0.1412,1716,0.0094,0.3957,0.35,4.5688,13.1765,Toyota,1.6114,0.3195,0.0,0.2292,0.2799,5.868,Healthy: growing & gaining share
+MS-KA-021,South,Karnataka,KA28,Bijapur Rto,1425,1207,0.1806,4871,0.0104,0.2925,0.2504,4.2185,17.0242,Hyundai,1.1389,0.3195,131.0,0.2915,0.2277,3.9874,Healthy: growing & gaining share
+MS-KA-022,South,Karnataka,KA29,Bagalkot Rto,763,558,0.3674,2267,0.0618,0.3366,0.2614,7.521,30.5557,Hyundai,1.0685,0.3195,0.0,0.3957,0.2791,6.0845,Healthy: growing & gaining share
+MS-KA-023,South,Karnataka,KA3,Bengaluru East Rto,8918,8661,0.0297,34962,-0.0491,0.2551,0.2356,1.9506,7.874,Toyota,2.4616,0.3195,2252.0,0.032,0.119,2.5811,Healthy: growing & gaining share
+MS-KA-024,South,Karnataka,KA30,Karwar Rto,433,385,0.1247,1069,0.0553,0.4051,0.3801,2.4992,6.9394,Toyota,1.7054,0.3195,0.0,0.0096,0.2789,2.2089,Healthy: growing & gaining share
+MS-KA-025,South,Karnataka,KA31,Sirsi Rto,772,776,-0.0052,1820,-0.0345,0.4242,0.4117,1.2505,2.9328,Hyundai,4.1209,0.3195,0.0,-0.0051,0.2532,1.4837,Market-driven dip: falling but holding share
+MS-KA-026,South,Karnataka,KA32,Kalaburagi Rto,1453,1198,0.2129,4331,0.0394,0.3355,0.2875,4.7991,17.3498,Tata Motors,2.6841,0.3195,0.0,0.1794,0.2068,3.5368,Healthy: growing & gaining share
+MS-KA-027,South,Karnataka,KA33,Yadgiri Rto,437,342,0.2778,1640,-0.0381,0.2665,0.2006,6.5877,31.5901,Tata Motors,3.8518,0.3195,87.0,0.3758,0.2582,4.4317,Healthy: growing & gaining share
+MS-KA-028,South,Karnataka,KA34,Bellary Rto,903,758,0.1913,3284,-0.0412,0.275,0.2213,5.3656,23.2461,Toyota,0.9088,0.3195,146.0,0.1015,0.2087,3.9175,Healthy: growing & gaining share
+MS-KA-029,South,Karnataka,KA35,Hospet Rto,622,585,0.0632,2960,-0.0371,0.2101,0.1903,1.9829,10.0333,Hyundai,1.2967,0.3195,324.0,0.0442,0.1926,1.4408,Healthy: growing & gaining share
+MS-KA-030,South,Karnataka,KA36,Raichur Rto,897,684,0.3114,3437,0.0337,0.261,0.2057,5.5269,27.7719,Toyota,1.9224,0.3195,201.0,0.2857,0.2317,5.2592,Healthy: growing & gaining share
+MS-KA-031,South,Karnataka,KA37,Koppal Rto,701,563,0.2451,2322,-0.0174,0.3019,0.2383,6.3638,26.2466,Toyota,1.3956,0.3195,41.0,0.279,0.2109,5.6614,Healthy: growing & gaining share
+MS-KA-032,South,Karnataka,KA38,Bidar Rto,565,459,0.2309,1547,0.109,0.3652,0.329,3.6191,12.1976,Toyota,1.8846,0.3195,0.0,0.3365,0.2,1.1407,Healthy: growing & gaining share
+MS-KA-033,South,Karnataka,KA4,Bengaluru North Rto,8660,6252,0.3852,20994,0.1202,0.4125,0.3336,7.8916,26.4999,Toyota,1.3495,0.3195,0.0,0.3909,0.2444,7.2003,Healthy: growing & gaining share
+MS-KA-034,South,Karnataka,KA40,Chickaballapur Rto,1204,831,0.4489,2510,0.3032,0.4797,0.4315,4.8217,14.5638,MG Motor,0.1992,0.3195,0.0,0.3304,0.2657,4.2141,Healthy: growing & gaining share
+MS-KA-035,South,Karnataka,KA41,Jnanabharathi Rto,3334,2836,0.1756,8270,0.0942,0.4031,0.3752,2.7912,8.1395,MG Motor,1.0516,0.3195,0.0,0.1253,0.214,1.6443,Healthy: growing & gaining share
+MS-KA-036,South,Karnataka,KA42,Ramanagar Rto,1690,1253,0.3488,3636,0.3527,0.4648,0.4661,-0.1349,-0.3916,Mahindra,1.348,0.3195,0.0,0.2125,0.2827,1.1879,Hidden risk: growing but losing share
+MS-KA-037,South,Karnataka,KA43,Devanahalli Arto,736,611,0.2046,1756,0.279,0.4191,0.445,-2.5877,-7.4369,Mahindra,4.6046,0.3195,0.0,0.0931,0.2352,-1.7374,Hidden risk: growing but losing share
+MS-KA-038,South,Karnataka,KA44,Tiptur Arto,417,304,0.3717,1233,0.1632,0.3382,0.2868,5.1407,20.8503,Toyota,3.4761,0.3195,0.0,0.3856,0.3373,6.2731,Healthy: growing & gaining share
+MS-KA-039,South,Karnataka,KA46,Sakaleshpura Arto,257,202,0.2723,956,0.1395,0.2688,0.2408,2.8066,13.2825,Hyundai,1.9053,0.3195,48.0,0.157,0.2971,2.9047,Healthy: growing & gaining share
+MS-KA-040,South,Karnataka,KA47,Honnavar Arto,630,579,0.0881,1281,-0.0455,0.4918,0.4314,6.0358,13.3537,Toyota,1.9374,0.3195,0.0,0.1613,0.2376,5.5011,Healthy: growing & gaining share
+MS-KA-041,South,Karnataka,KA48,Jamkhandi Arto,355,317,0.1199,1267,-0.0531,0.2802,0.2369,4.3269,17.2938,Toyota,3.0214,0.3195,50.0,0.2042,0.2999,3.3417,Healthy: growing & gaining share
+MS-KA-042,South,Karnataka,KA49,Gokak Arto,316,242,0.3058,890,0.0907,0.3551,0.2966,5.8488,21.5099,Toyota,2.7892,0.3195,0.0,0.3364,0.3554,4.0364,Healthy: growing & gaining share
+MS-KA-043,South,Karnataka,KA5,Bengaluru South Rto,11655,10141,0.1493,34519,0.0801,0.3376,0.3173,2.0317,6.9159,Toyota,2.4975,0.3195,0.0,0.0717,0.204,2.3429,Healthy: growing & gaining share
+MS-KA-044,South,Karnataka,KA50,Yalahanka Rto,4282,3407,0.2568,11815,0.2011,0.3624,0.3463,1.6075,5.5747,Hyundai,2.643,0.3195,0.0,0.2124,0.2095,1.2288,Healthy: growing & gaining share
+MS-KA-045,South,Karnataka,KA51,Electronic City Rto,4470,5139,-0.1302,22897,0.038,0.1952,0.233,-3.7744,-16.817,Tata Motors,2.2909,0.3195,2845.0,-0.2179,0.1983,-4.0597,Clear decline: falling & losing share
+MS-KA-046,South,Karnataka,KA52,Nelamangala Rto,1683,1303,0.2916,4846,0.1756,0.3473,0.3161,3.1188,11.5992,Mahindra,3.0655,0.3195,0.0,0.2342,0.28,3.668,Healthy: growing & gaining share
+MS-KA-047,South,Karnataka,KA53,Krishnarajapuram Rto,4112,3021,0.3611,17800,0.1866,0.231,0.2014,2.9625,17.4551,Mahindra,1.6664,0.3195,1575.0,0.2299,0.2425,3.1553,Healthy: growing & gaining share
+MS-KA-048,South,Karnataka,KA54,Nagamangala Rto,255,162,0.5741,698,0.2737,0.3653,0.2956,6.9709,30.0351,Toyota,2.2499,0.3195,0.0,0.725,0.3899,7.6595,Healthy: growing & gaining share
+MS-KA-049,South,Karnataka,KA59,"Chandapura, Bengaluru Rto",454,414,0.0966,1608,0.1198,0.2823,0.2883,-0.5963,-2.3159,Mahindra,2.8053,0.3195,60.0,-0.0852,0.2754,-0.8011,Hidden risk: growing but losing share
+MS-KA-050,South,Karnataka,KA6,Tumkur Rto,1980,1777,0.1142,6895,0.1034,0.2872,0.2844,0.2799,1.0861,Toyota,2.1334,0.3195,223.0,0.1653,0.1793,-0.297,Healthy: growing & gaining share
+MS-KA-051,South,Karnataka,KA63,Dharwad East Rto,937,853,0.0985,3511,-0.0179,0.2669,0.2386,2.8274,11.6378,Toyota,1.584,0.3195,185.0,0.0485,0.1882,2.3884,Healthy: growing & gaining share
+MS-KA-052,South,Karnataka,KA66,"Tarikere, Chikkamagaluru Arto",346,362,-0.0442,941,-0.0136,0.3677,0.3795,-1.1761,-3.0572,Mahindra,8.0102,0.3195,0.0,-0.1556,0.2179,-2.0279,Clear decline: falling & losing share
+MS-KA-053,South,Karnataka,KA67,Chintamani Arto,293,313,-0.0639,656,-0.0381,0.4466,0.4589,-1.2298,-2.5775,Tata Motors,6.0748,0.3195,0.0,-0.152,0.2567,2.2929,Clear decline: falling & losing share
+MS-KA-054,South,Karnataka,KA68,Ranibennur Arto,547,514,0.0642,1429,0.007,0.3828,0.3622,2.0558,5.7155,Hyundai,2.2541,0.3195,0.0,-0.0296,0.2171,1.9294,Healthy: growing & gaining share
+MS-KA-055,South,Karnataka,KA7,Kolar Rto,1200,849,0.4134,3198,0.3638,0.3752,0.362,1.3188,4.9675,Tata Motors,1.4678,0.3195,0.0,0.3206,0.2894,1.8987,Healthy: growing & gaining share
+MS-KA-056,South,Karnataka,KA70,Bantwala Arto,710,678,0.0472,1326,-0.025,0.5354,0.4985,3.6916,7.2198,Tata Motors,0.46,0.3195,0.0,0.0056,0.2327,4.6442,Healthy: growing & gaining share
+MS-KA-057,South,Karnataka,KA8,K G F Arto,392,338,0.1598,735,0.1413,0.5333,0.5248,0.8489,1.8459,Mahindra,2.6028,0.3195,0.0,0.071,0.2657,0.1568,Healthy: growing & gaining share
+MS-KA-058,South,Karnataka,KA9,Mysuru West Rto,4433,2890,0.5339,13721,0.1905,0.3231,0.2508,7.2322,34.3368,Toyota,0.7525,0.3195,0.0,0.385,0.2588,6.1412,Healthy: growing & gaining share
+MS-KL-001,South,Kerala,KL1,Trivandrum Rto,4254,4363,-0.025,11451,0.0202,0.3715,0.3887,-1.7225,-4.5207,Toyota,2.998,0.4702,1130.0,-0.038,0.2518,-2.3618,Clear decline: falling & losing share
+MS-KL-002,South,Kerala,KL10,Malappuram Rto,1498,1407,0.0647,2881,0.0264,0.52,0.5012,1.8711,3.8314,Toyota,1.7645,0.4702,0.0,0.025,0.2892,0.301,Healthy: growing & gaining share
+MS-KL-003,South,Kerala,KL11,Kozhikode Rto,1737,1691,0.0272,5079,-0.0055,0.342,0.3311,1.0882,3.2686,Toyota,1.595,0.4702,651.0,-0.0944,0.2894,-0.5412,Healthy: growing & gaining share
+MS-KL-004,South,Kerala,KL12,Wayanad Rto,660,606,0.0891,1262,0.0378,0.523,0.4984,2.4624,5.128,Hyundai,1.59,0.4702,0.0,0.0777,0.3171,2.9253,Healthy: growing & gaining share
+MS-KL-005,South,Kerala,KL13,Kannur Rto,2195,2179,0.0073,4586,-0.0236,0.4786,0.4639,1.4717,3.0975,Toyota,1.353,0.4702,0.0,-0.002,0.2344,0.047,Healthy: growing & gaining share
+MS-KL-006,South,Kerala,KL14,Kasargode Rto,2429,2536,-0.0422,4171,-0.065,0.5824,0.5685,1.3872,2.2815,Hyundai,1.3746,0.4702,0.0,-0.22,0.2927,1.2546,Market-driven dip: falling but holding share
+MS-KL-007,South,Kerala,KL16,Attingal Rto,1239,1065,0.1634,2297,0.0917,0.5394,0.5062,3.3221,7.165,Toyota,1.4922,0.4702,0.0,-0.0137,0.2862,2.2971,Healthy: growing & gaining share
+MS-KL-008,South,Kerala,KL17,Muvattupuzha Rto,1384,1371,0.0095,3341,-0.0285,0.4142,0.3987,1.5585,3.7979,Toyota,3.6176,0.4702,187.0,-0.0149,0.2216,1.3888,Healthy: growing & gaining share
+MS-KL-009,South,Kerala,KL18,Vadakara Rto,1770,1681,0.0529,3616,-0.0074,0.4895,0.4614,2.8058,6.0356,Hyundai,2.4464,0.4702,0.0,0.0242,0.2278,2.2074,Healthy: growing & gaining share
+MS-KL-010,South,Kerala,KL19,Parassala Srto,651,774,-0.1589,1289,-0.0766,0.505,0.5544,-4.9399,-8.2267,Hyundai,3.507,0.4702,0.0,-0.0856,0.3045,-4.5416,Clear decline: falling & losing share
+MS-KL-011,South,Kerala,KL2,Kollam Rto,2945,3009,-0.0213,6246,-0.0519,0.4715,0.4567,1.4762,3.0643,Toyota,2.1518,0.4702,0.0,-0.0741,0.2894,0.015,Market-driven dip: falling but holding share
+MS-KL-012,South,Kerala,KL20,Neyyattinkara Srto,615,650,-0.0538,1358,0.0074,0.4529,0.4822,-2.9324,-6.1265,Toyota,1.4405,0.4702,24.0,-0.0864,0.3224,-2.7557,Clear decline: falling & losing share
+MS-KL-013,South,Kerala,KL21,Nedumangadu Srto,1262,1371,-0.0795,2412,-0.0607,0.5232,0.5339,-1.0661,-1.8756,Tata Motors,1.4755,0.4702,0.0,-0.1037,0.3126,-2.0854,Clear decline: falling & losing share
+MS-KL-014,South,Kerala,KL22,Kazhakuttom Srto,1213,1142,0.0622,3136,0.0743,0.3868,0.3912,-0.4431,-1.2169,Toyota,2.1823,0.4702,262.0,-0.0561,0.2672,-0.569,Hidden risk: growing but losing share
+MS-KL-015,South,Kerala,KL23,Karunagappally Srto,1397,1332,0.0488,2661,-0.0052,0.525,0.4979,2.7047,5.4032,Toyota,1.6079,0.4702,0.0,-0.0777,0.2683,2.0143,Healthy: growing & gaining share
+MS-KL-016,South,Kerala,KL24,Kottarakkara Srto,1139,1388,-0.1794,2207,-0.1462,0.5161,0.5369,-2.0859,-3.3167,Toyota,2.6973,0.4702,0.0,-0.2522,0.3657,-1.9033,Clear decline: falling & losing share
+MS-KL-017,South,Kerala,KL25,Punalur Srto,978,986,-0.0081,1752,-0.004,0.5582,0.5605,-0.2327,-0.4134,Hyundai,1.5165,0.4702,0.0,-0.0085,0.2648,0.5307,Clear decline: falling & losing share
+MS-KL-018,South,Kerala,KL26,Adoor Srto,1198,1240,-0.0339,2240,-0.0378,0.5348,0.5326,0.2175,0.393,Toyota,3.3721,0.4702,0.0,-0.1194,0.2956,0.7076,Market-driven dip: falling but holding share
+MS-KL-019,South,Kerala,KL27,Thiruvalla Srto,1169,1191,-0.0185,2287,0.0066,0.5111,0.5242,-1.3058,-2.5074,Toyota,2.1308,0.4702,0.0,0.0409,0.2087,-0.306,Clear decline: falling & losing share
+MS-KL-020,South,Kerala,KL28,Mallappally Srto,646,611,0.0573,1117,-0.0009,0.5783,0.5465,3.1823,5.8178,Hyundai,1.5276,0.4702,0.0,0.0986,0.294,3.1593,Healthy: growing & gaining share
+MS-KL-021,South,Kerala,KL29,Kayamkulam Srto,1365,1261,0.0825,2749,-0.0255,0.4965,0.447,4.954,10.7997,Toyota,0.8041,0.4702,0.0,0.0369,0.2804,4.3248,Healthy: growing & gaining share
+MS-KL-022,South,Kerala,KL3,Pathanamthitta Rto,1076,962,0.1185,2065,0.0445,0.5211,0.4866,3.447,7.3991,Toyota,1.3618,0.4702,0.0,0.1162,0.2552,2.7463,Healthy: growing & gaining share
+MS-KL-023,South,Kerala,KL30,Chengannur Srto,948,923,0.0271,1760,0.0353,0.5386,0.5429,-0.4305,-0.8209,Hyundai,3.0013,0.4702,0.0,-0.0197,0.2305,0.6343,Hidden risk: growing but losing share
+MS-KL-024,South,Kerala,KL31,Mavelikkara Srto,1358,1326,0.0241,2579,-0.048,0.5266,0.4895,3.7081,7.2121,Toyota,2.0922,0.4702,0.0,0.0335,0.2508,3.5049,Healthy: growing & gaining share
+MS-KL-025,South,Kerala,KL32,Cherthala Srto,1331,1356,-0.0184,2997,-0.0257,0.4441,0.4408,0.3279,0.7246,Toyota,1.3485,0.4702,78.0,-0.033,0.2984,1.1296,Market-driven dip: falling but holding share
+MS-KL-026,South,Kerala,KL33,Changanacherry Srto,1327,1404,-0.0548,2967,-0.0205,0.4473,0.4635,-1.6266,-3.4375,Toyota,2.242,0.4702,68.0,-0.0979,0.2663,-0.4695,Clear decline: falling & losing share
+MS-KL-027,South,Kerala,KL34,Kanjirappally Srto,803,792,0.0139,1759,-0.0184,0.4565,0.442,1.4545,3.2304,Toyota,2.1342,0.4702,24.0,0.0551,0.244,1.6044,Healthy: growing & gaining share
+MS-KL-028,South,Kerala,KL35,Palai Srto,1179,1046,0.1272,2531,0.0403,0.4658,0.4299,3.5902,8.6872,Toyota,2.4853,0.4702,11.0,0.1849,0.2137,2.3313,Healthy: growing & gaining share
+MS-KL-029,South,Kerala,KL36,Vaikom Srto,707,638,0.1082,1591,0.0446,0.4444,0.4189,2.5465,6.3502,Toyota,1.1459,0.4702,41.0,0.1367,0.2955,2.514,Healthy: growing & gaining share
+MS-KL-030,South,Kerala,KL37,Vandiperiyar Srto,483,520,-0.0712,918,-0.0086,0.5261,0.5616,-3.5411,-6.2515,Toyota,3.0774,0.4702,0.0,-0.1051,0.2793,-3.4082,Clear decline: falling & losing share
+MS-KL-031,South,Kerala,KL38,Thodupuzha Srto,914,1000,-0.086,2033,-0.0571,0.4496,0.4638,-1.424,-2.895,Toyota,2.1102,0.4702,42.0,-0.1561,0.2909,-2.3335,Clear decline: falling & losing share
+MS-KL-032,South,Kerala,KL39,Tripunithura Srto,1381,1318,0.0478,3564,-0.0347,0.3875,0.357,3.0498,8.2469,Toyota,1.7562,0.4702,295.0,-0.0136,0.2657,2.2068,Healthy: growing & gaining share
+MS-KL-033,South,Kerala,KL4,Alappuzha Rto,1057,1134,-0.0679,2554,-0.0856,0.4139,0.406,0.7846,1.767,Hyundai,2.1595,0.4702,144.0,-0.1573,0.276,1.3747,Market-driven dip: falling but holding share
+MS-KL-034,South,Kerala,KL40,Perumbavur Srto,1187,1019,0.1649,3032,0.0771,0.3915,0.362,2.9501,8.778,Toyota,2.2769,0.4702,239.0,0.0857,0.264,0.9608,Healthy: growing & gaining share
+MS-KL-035,South,Kerala,KL41,Aluva Srto,1262,1062,0.1883,3138,0.1053,0.4022,0.3741,2.8092,8.3005,MG Motor,2.2022,0.4702,214.0,0.1313,0.2628,1.756,Healthy: growing & gaining share
+MS-KL-036,South,Kerala,KL42,North Parur Srto,1108,987,0.1226,2599,0.0643,0.4263,0.4042,2.2141,5.8302,Toyota,1.2859,0.4702,114.0,0.1472,0.2847,2.3338,Healthy: growing & gaining share
+MS-KL-037,South,Kerala,KL43,Mattancherry Srto,898,724,0.2403,1885,0.059,0.4764,0.4067,6.9651,18.1343,Toyota,1.6313,0.4702,0.0,0.1414,0.2954,5.9514,Healthy: growing & gaining share
+MS-KL-038,South,Kerala,KL44,Kothamangalam Srto,635,688,-0.077,1492,-0.0305,0.4256,0.447,-2.144,-4.6496,Toyota,2.4799,0.4702,67.0,-0.0298,0.2796,-1.8574,Clear decline: falling & losing share
+MS-KL-039,South,Kerala,KL45,Irinjalakuda Srto,1306,1228,0.0635,2902,0.0342,0.45,0.4376,1.2401,2.9306,Toyota,1.2674,0.4702,59.0,0.0502,0.2581,0.3845,Healthy: growing & gaining share
+MS-KL-040,South,Kerala,KL46,Guruvayur Srto,1611,1490,0.0812,2897,0.0087,0.5561,0.5188,3.729,7.2503,Kia,0.3361,0.4702,0.0,0.0674,0.2401,2.7157,Healthy: growing & gaining share
+MS-KL-041,South,Kerala,KL47,Kodungallur Srto,832,817,0.0184,1696,0.0335,0.4906,0.4979,-0.7301,-1.5156,Toyota,1.5294,0.4702,0.0,-0.0888,0.2795,-0.2155,Hidden risk: growing but losing share
+MS-KL-042,South,Kerala,KL48,Wadakkancherry Srto,1318,1161,0.1352,2508,0.0881,0.5255,0.5037,2.1831,4.7159,MG Motor,0.3272,0.4702,0.0,0.0451,0.2386,1.5209,Healthy: growing & gaining share
+MS-KL-043,South,Kerala,KL49,Alathur Srto,740,750,-0.0133,1566,-0.064,0.4725,0.4483,2.4245,5.0624,Hyundai,1.3421,0.4702,0.0,-0.058,0.3183,1.959,Market-driven dip: falling but holding share
+MS-KL-044,South,Kerala,KL5,Kottayam Rto,2516,2514,0.0008,5564,-0.0437,0.4522,0.4321,2.0085,4.4453,Toyota,1.7765,0.4702,100.0,-0.0855,0.2558,1.6403,Healthy: growing & gaining share
+MS-KL-045,South,Kerala,KL50,Mannarghat Srto,835,873,-0.0435,1575,0.0161,0.5302,0.5632,-3.3067,-5.9657,Toyota,2.1423,0.4702,0.0,0.0154,0.2653,-2.939,Clear decline: falling & losing share
+MS-KL-046,South,Kerala,KL51,Ottappalam Srto,1062,1044,0.0172,2132,-0.0051,0.4981,0.4872,1.0956,2.2374,Toyota,2.1793,0.4702,0.0,0.0205,0.2865,-0.8337,Healthy: growing & gaining share
+MS-KL-047,South,Kerala,KL52,Pattambi Srto,1360,1345,0.0112,2376,-0.0174,0.5724,0.5562,1.6146,2.8522,Hyundai,1.1234,0.4702,0.0,-0.0801,0.2513,1.2479,Healthy: growing & gaining share
+MS-KL-048,South,Kerala,KL53,Perinthalmanna Srto,1503,1416,0.0614,2704,0.02,0.5558,0.5341,2.1705,4.1448,Toyota,1.8462,0.4702,0.0,0.0134,0.2574,0.5064,Healthy: growing & gaining share
+MS-KL-049,South,Kerala,KL54,Ponnani Srto,987,841,0.1736,1740,0.0345,0.5672,0.5,6.7241,13.912,Skoda-VW,0.3567,0.4702,0.0,0.0872,0.2287,5.4306,Healthy: growing & gaining share
+MS-KL-050,South,Kerala,KL55,Thirur Srto,2405,2115,0.1371,4188,0.0749,0.5743,0.5429,3.1395,6.2167,Tata Motors,0.9514,0.4702,0.0,0.1494,0.2154,2.3673,Healthy: growing & gaining share
+MS-KL-051,South,Kerala,KL56,Koilandy Srto,845,816,0.0355,1690,-0.0197,0.5,0.4733,2.6682,5.5261,Toyota,2.3629,0.4702,0.0,0.0149,0.313,2.6895,Healthy: growing & gaining share
+MS-KL-052,South,Kerala,KL57,Koduvally Srto,1791,1624,0.1028,3314,0.0366,0.5404,0.508,3.2458,6.6236,Hyundai,0.7837,0.4702,0.0,0.0618,0.2622,2.2073,Healthy: growing & gaining share
+MS-KL-053,South,Kerala,KL58,Thalassery Srto,2204,2253,-0.0217,4531,-0.025,0.4864,0.4848,0.1598,0.3214,Hyundai,1.1087,0.4702,0.0,0.0029,0.2762,0.7507,Market-driven dip: falling but holding share
+MS-KL-054,South,Kerala,KL59,Thaliparamba Srto,1438,1497,-0.0394,2881,-0.046,0.4991,0.4957,0.3437,0.6614,Hyundai,2.1859,0.4702,0.0,-0.0356,0.2722,0.2131,Market-driven dip: falling but holding share
+MS-KL-055,South,Kerala,KL6,Idukki Rto,496,505,-0.0178,949,-0.0623,0.5227,0.499,2.3644,4.4431,Toyota,1.0791,0.4702,0.0,-0.0234,0.2671,1.8691,Market-driven dip: falling but holding share
+MS-KL-056,South,Kerala,KL60,Kanhangad Srto,1649,1690,-0.0243,3246,-0.0351,0.508,0.5024,0.5632,1.0817,Hyundai,1.7224,0.4702,0.0,-0.1103,0.2782,0.3047,Market-driven dip: falling but holding share
+MS-KL-057,South,Kerala,KL61,Kunnathur Srto,628,685,-0.0832,1125,-0.0779,0.5582,0.5615,-0.3253,-0.5343,Toyota,2.2117,0.4702,0.0,0.0432,0.2918,-0.7983,Clear decline: falling & losing share
+MS-KL-058,South,Kerala,KL62,Ranni Srto,731,763,-0.0419,1248,-0.0538,0.5857,0.5785,0.7269,1.1889,Toyota,2.8007,0.4702,0.0,-0.0194,0.278,1.1734,Market-driven dip: falling but holding share
+MS-KL-059,South,Kerala,KL63,Angamali Srto,918,770,0.1922,2096,0.0974,0.438,0.4031,3.4836,9.4826,Toyota,1.3812,0.4702,68.0,0.1253,0.2754,3.2715,Healthy: growing & gaining share
+MS-KL-060,South,Kerala,KL64,Chalakkudy Srto,1144,1008,0.1349,2443,0.0715,0.4683,0.4421,2.6171,6.3429,Hyundai,0.9645,0.4702,5.0,0.065,0.2614,2.1427,Healthy: growing & gaining share
+MS-KL-061,South,Kerala,KL65,Thirurangadi Srto,1813,1700,0.0665,3397,0.0263,0.5337,0.5136,2.0111,4.0187,Toyota,1.2467,0.4702,0.0,-0.0146,0.242,0.3689,Healthy: growing & gaining share
+MS-KL-062,South,Kerala,KL66,Kuttanadu Srto,401,358,0.1201,810,-0.0229,0.4951,0.4318,6.3216,14.3031,Hyundai,2.2073,0.4702,0.0,-0.0355,0.3057,5.1259,Healthy: growing & gaining share
+MS-KL-063,South,Kerala,KL67,Uzhavoor Srto,630,618,0.0194,1356,-0.0635,0.4646,0.4268,3.7806,8.2953,Toyota,2.0816,0.4702,8.0,-0.037,0.2619,4.1994,Healthy: growing & gaining share
+MS-KL-064,South,Kerala,KL68,Devikulam Srto,291,269,0.0818,592,-0.0358,0.4916,0.4381,5.3443,11.7615,Hyundai,2.251,0.4702,0.0,0.0507,0.2933,5.5412,Healthy: growing & gaining share
+MS-KL-065,South,Kerala,KL69,Udumbanchola Srto,538,614,-0.1238,1107,-0.0457,0.486,0.5293,-4.3312,-7.8089,Toyota,2.1772,0.4702,0.0,-0.0782,0.3304,-2.0522,Clear decline: falling & losing share
+MS-KL-066,South,Kerala,KL7,Ernakulam Rto,3700,3331,0.1108,11271,0.0228,0.3283,0.3023,2.6008,8.8001,Toyota,3.4884,0.4702,1600.0,-0.0405,0.2108,1.2092,Healthy: growing & gaining share
+MS-KL-067,South,Kerala,KL70,Chittur Srto,505,598,-0.1555,1250,-0.0816,0.404,0.4394,-3.5383,-7.3961,Toyota,2.2071,0.4702,83.0,-0.1689,0.3226,-1.6422,Clear decline: falling & losing share
+MS-KL-068,South,Kerala,KL72,Mananthavady Srto,604,598,0.01,1178,-0.0281,0.5127,0.4934,1.9334,3.8086,Mahindra,0.9315,0.4702,0.0,0.0068,0.3075,0.4617,Healthy: growing & gaining share
+MS-KL-069,South,Kerala,KL73,Sulthanbathery Srto,769,740,0.0392,1616,0.0653,0.4759,0.4878,-1.1939,-2.6071,Hyundai,2.5542,0.4702,0.0,0.0893,0.2834,-1.5102,Hidden risk: growing but losing share
+MS-KL-070,South,Kerala,KL74,Kattakada Srto,678,755,-0.102,1474,-0.0379,0.46,0.4928,-3.2847,-6.4128,Hyundai,1.7565,0.4702,15.0,-0.0875,0.3094,-3.0747,Clear decline: falling & losing share
+MS-KL-071,South,Kerala,KL75,Thriprayar Srto,1085,965,0.1244,2130,0.0009,0.5094,0.4535,5.5912,12.3412,Hyundai,0.2771,0.4702,0.0,0.0996,0.2544,4.6412,Healthy: growing & gaining share
+MS-KL-072,South,Kerala,KL76,Nanmanda Srto,901,918,-0.0185,1821,-0.0396,0.4948,0.4842,1.0606,2.1038,Toyota,1.1356,0.4702,0.0,-0.117,0.2637,0.6245,Market-driven dip: falling but holding share
+MS-KL-073,South,Kerala,KL77,Perambra Srto,978,917,0.0665,1812,-0.0168,0.5397,0.4976,4.2177,8.3342,Toyota,1.2027,0.4702,0.0,-0.0305,0.3116,3.828,Healthy: growing & gaining share
+MS-KL-074,South,Kerala,KL78,Iritty Srto,1016,1091,-0.0687,1972,-0.0592,0.5152,0.5205,-0.5302,-0.9584,Hyundai,1.974,0.4702,0.0,-0.0305,0.2876,-0.0169,Clear decline: falling & losing share
+MS-KL-075,South,Kerala,KL79,Vellarikundu Srto,498,605,-0.1769,931,-0.1225,0.5349,0.5702,-3.5308,-5.4334,Hyundai,4.1984,0.4702,0.0,0.0276,0.362,-2.2768,Clear decline: falling & losing share
+MS-KL-076,South,Kerala,KL8,Thrissur Rto,2390,2260,0.0575,6059,0.0152,0.3945,0.3787,1.5768,4.2274,Toyota,2.3066,0.4702,459.0,0.0429,0.2149,0.8488,Healthy: growing & gaining share
+MS-KL-077,South,Kerala,KL80,Pathanapuram Srto,605,682,-0.1129,1067,-0.0833,0.567,0.5859,-1.89,-2.957,Hyundai,2.4914,0.4702,0.0,-0.2141,0.3694,-1.4052,Clear decline: falling & losing share
+MS-KL-078,South,Kerala,KL81,Varkala Srto,849,834,0.018,1522,-0.0117,0.5578,0.5416,1.626,2.9674,Toyota,1.7559,0.4702,0.0,-0.0317,0.2627,1.9679,Healthy: growing & gaining share
+MS-KL-079,South,Kerala,KL82,Chadayamangala Srto,652,708,-0.0791,1164,-0.0871,0.5601,0.5553,0.4843,0.7963,Hyundai,1.7002,0.4702,0.0,-0.0321,0.3088,-1.0245,Market-driven dip: falling but holding share
+MS-KL-080,South,Kerala,KL83,Konni Srto,806,874,-0.0778,1452,-0.0931,0.5551,0.5459,0.9188,1.5264,Hyundai,2.4604,0.4702,0.0,-0.2302,0.2837,-1.2417,Market-driven dip: falling but holding share
+MS-KL-081,South,Kerala,KL84,Kondotty Srto,1393,1287,0.0824,2469,0.0462,0.5642,0.5453,1.8857,3.6176,Toyota,2.8836,0.4702,0.0,-0.0016,0.28,1.3045,Healthy: growing & gaining share
+MS-KL-082,South,Kerala,KL85,Ramanattukara (Feroke) Srto,776,714,0.0868,1847,0.0597,0.4201,0.4096,1.0502,2.7167,Toyota,3.1566,0.4702,92.0,0.056,0.2398,0.3839,Healthy: growing & gaining share
+MS-KL-083,South,Kerala,KL86,Payyannur Srto,1128,1194,-0.0553,2293,-0.0761,0.4919,0.4811,1.0868,2.0872,Hyundai,3.2049,0.4702,0.0,-0.1032,0.2727,-0.7681,Market-driven dip: falling but holding share
+MS-KL-084,South,Kerala,KL9,Palakkad Rto,1340,1421,-0.057,3492,0.0139,0.3837,0.4126,-2.8867,-7.0939,Toyota,2.2864,0.4702,302.0,-0.0031,0.2783,-3.3309,Clear decline: falling & losing share
+MS-LA-001,North,Ladakh,LA1,Kargil Arto,387,320,0.2094,872,0.2179,0.4438,0.4469,-0.312,-0.8502,Toyota,2.8112,0.4438,0.0,0.6263,0.5153,-1.3935,Hidden risk: growing but losing share
+MS-MH-001,West,Maharashtra,MH1,Mumbai (Central),9415,7539,0.2488,27910,0.1061,0.3373,0.2988,3.8559,14.2748,Toyota,2.4764,0.3372,0.0,0.3633,0.2283,1.0677,Healthy: growing & gaining share
+MS-MH-002,West,Maharashtra,MH10,Sangli,3964,3672,0.0795,10126,0.0254,0.3915,0.3718,1.9619,5.4103,Toyota,0.5426,0.3372,0.0,0.0755,0.1954,1.5538,Healthy: growing & gaining share
+MS-MH-003,West,Maharashtra,MH11,Satara,3410,3201,0.0653,9056,0.0908,0.3765,0.3856,-0.9024,-2.5529,Toyota,2.2438,0.3372,0.0,0.029,0.2134,-1.4767,Hidden risk: growing but losing share
+MS-MH-004,West,Maharashtra,MH12,Pune,29785,26275,0.1336,89981,0.0666,0.331,0.3114,1.9566,6.7007,Toyota,1.6643,0.3372,558.0,0.0459,0.183,1.2437,Healthy: growing & gaining share
+MS-MH-005,West,Maharashtra,MH13,Solapur,2501,2304,0.0855,8058,-0.007,0.3104,0.2839,2.6456,9.2528,Hyundai,1.1885,0.3372,216.0,0.0685,0.1989,1.4642,Healthy: growing & gaining share
+MS-MH-006,West,Maharashtra,MH14,Dy Rto Pimpri Chinchwad,20696,17526,0.1809,60567,0.1078,0.3417,0.3206,2.115,7.309,Toyota,0.9661,0.3372,0.0,0.1371,0.1861,1.4576,Healthy: growing & gaining share
+MS-MH-007,West,Maharashtra,MH15,Nashik,6447,6504,-0.0088,23545,0.0133,0.2738,0.2799,-0.6082,-2.2019,Hyundai,2.0418,0.3372,1493.0,0.0062,0.2279,-0.9457,Clear decline: falling & losing share
+MS-MH-008,West,Maharashtra,MH16,Ahemednagar,2861,2484,0.1518,9425,0.0716,0.3036,0.2824,2.1121,8.014,Toyota,0.9475,0.3372,317.0,0.1444,0.231,1.2031,Healthy: growing & gaining share
+MS-MH-009,West,Maharashtra,MH17,Srirampur,1702,1588,0.0718,6181,0.0321,0.2754,0.2652,1.0207,3.973,Hyundai,1.6206,0.3372,382.0,0.2132,0.2281,0.138,Healthy: growing & gaining share
+MS-MH-010,West,Maharashtra,MH18,Dhule,916,1094,-0.1627,3222,-0.0932,0.2843,0.3079,-2.3613,-6.9545,Mahindra,2.0464,0.3372,171.0,-0.0757,0.2046,-2.0963,Clear decline: falling & losing share
+MS-MH-011,West,Maharashtra,MH19,Jalgaon,1770,1777,-0.0039,5058,0.0175,0.3499,0.3575,-0.7533,-2.1441,Hyundai,2.5572,0.3372,0.0,-0.0348,0.214,-0.4375,Clear decline: falling & losing share
+MS-MH-012,West,Maharashtra,MH2,Mumbai (West),6923,5682,0.2184,23392,0.0908,0.296,0.265,3.0987,12.7568,Toyota,2.8068,0.3372,965.0,0.1844,0.1621,2.4844,Healthy: growing & gaining share
+MS-MH-013,West,Maharashtra,MH20,Aurangabad,3812,3666,0.0398,14328,0.0631,0.2661,0.272,-0.5967,-2.3319,Tata Motors,1.5018,0.3372,1020.0,0.03,0.212,-1.6131,Hidden risk: growing but losing share
+MS-MH-014,West,Maharashtra,MH21,Jalana,785,712,0.1025,3383,0.1515,0.232,0.2423,-1.0299,-4.8935,Tata Motors,2.6838,0.3372,356.0,0.0367,0.2086,-1.5657,Hidden risk: growing but losing share
+MS-MH-015,West,Maharashtra,MH22,Parbhani,649,481,0.3493,2234,0.151,0.2905,0.2478,4.27,19.8319,Toyota,1.6393,0.3372,104.0,0.3508,0.2565,3.7089,Healthy: growing & gaining share
+MS-MH-016,West,Maharashtra,MH23,Beed,705,565,0.2478,2648,0.0721,0.2662,0.2287,3.7494,17.5723,Hyundai,2.1418,0.3372,188.0,0.2979,0.2279,3.0758,Healthy: growing & gaining share
+MS-MH-017,West,Maharashtra,MH24,Latur,2027,1758,0.153,5737,0.0186,0.3533,0.3121,4.1176,13.4371,Toyota,2.0024,0.3372,0.0,0.1447,0.1774,2.1025,Healthy: growing & gaining share
+MS-MH-018,West,Maharashtra,MH25,Dharashiv,979,957,0.023,3208,-0.0047,0.3052,0.2969,0.8246,2.7643,Tata Motors,2.7391,0.3372,103.0,0.0848,0.172,0.1185,Healthy: growing & gaining share
+MS-MH-019,West,Maharashtra,MH26,Nanded,1260,1038,0.2139,4842,0.1321,0.2602,0.2427,1.753,8.1771,Mahindra,1.7336,0.3372,373.0,0.3409,0.1914,1.2634,Healthy: growing & gaining share
+MS-MH-020,West,Maharashtra,MH27,Amrawati,2165,2074,0.0439,6506,0.0752,0.3328,0.3428,-0.9984,-3.1318,Mahindra,1.7091,0.3372,29.0,0.1178,0.2451,-2.2999,Hidden risk: growing but losing share
+MS-MH-021,West,Maharashtra,MH28,Buldhana,1278,1229,0.0399,4276,0.0519,0.2989,0.3023,-0.346,-1.2037,Hyundai,1.3991,0.3372,164.0,-0.0083,0.1888,-1.5654,Hidden risk: growing but losing share
+MS-MH-022,West,Maharashtra,MH29,Yawatmal,1421,1186,0.1981,4514,0.1448,0.3148,0.3008,1.4012,5.3331,Toyota,1.6864,0.3372,101.0,0.1697,0.2539,0.5664,Healthy: growing & gaining share
+MS-MH-023,West,Maharashtra,MH3,Mumbai (East),7082,6416,0.1038,21869,0.0864,0.3238,0.3187,0.5093,1.7361,Hyundai,2.1256,0.3372,293.0,0.1784,0.1598,0.8517,Healthy: growing & gaining share
+MS-MH-024,West,Maharashtra,MH30,Akola,1410,1287,0.0956,3953,0.0524,0.3567,0.3427,1.4039,4.3122,Hyundai,1.1494,0.3372,0.0,0.0918,0.2711,0.2875,Healthy: growing & gaining share
+MS-MH-025,West,Maharashtra,MH31,Nagpur (U),2669,2409,0.1079,8839,0.0639,0.302,0.29,1.1996,4.4014,Skoda-VW,1.3064,0.3372,312.0,0.0624,0.2145,0.0086,Healthy: growing & gaining share
+MS-MH-026,West,Maharashtra,MH32,Wardha,790,768,0.0286,2542,0.0144,0.3108,0.3065,0.4314,1.428,Mahindra,2.5653,0.3372,67.0,0.0592,0.211,-0.2185,Healthy: growing & gaining share
+MS-MH-027,West,Maharashtra,MH33,Gadchiroli,586,588,-0.0034,2047,0.1053,0.2863,0.3175,-3.1222,-10.8693,Mahindra,9.5642,0.3372,104.0,0.0522,0.255,-3.8579,Clear decline: falling & losing share
+MS-MH-028,West,Maharashtra,MH34,Chandrapur,1998,1689,0.1829,6204,0.0878,0.3221,0.2962,2.589,9.51,Hyundai,0.2665,0.3372,94.0,0.1754,0.2418,0.7106,Healthy: growing & gaining share
+MS-MH-029,West,Maharashtra,MH35,Gondhia,859,734,0.1703,2301,0.1089,0.3733,0.3537,1.9581,6.1384,Mahindra,5.4048,0.3372,0.0,0.1773,0.2375,1.0807,Healthy: growing & gaining share
+MS-MH-030,West,Maharashtra,MH36,Bhandara,1008,872,0.156,2313,0.0952,0.4358,0.4129,2.2919,6.0793,Mahindra,4.396,0.3372,0.0,0.129,0.2636,0.2892,Healthy: growing & gaining share
+MS-MH-031,West,Maharashtra,MH37,Washim,780,687,0.1354,1968,0.0843,0.3963,0.3785,1.7829,5.1074,Hyundai,1.9349,0.3372,0.0,0.1829,0.2741,0.8254,Healthy: growing & gaining share
+MS-MH-032,West,Maharashtra,MH38,"Dy Regional Transport Office, Hingoli",471,368,0.2799,1277,0.0008,0.3688,0.2884,8.0432,27.9108,Toyota,1.9562,0.3372,0.0,0.2577,0.2996,7.7868,Healthy: growing & gaining share
+MS-MH-033,West,Maharashtra,MH39,Nandurbar,486,399,0.218,1502,0.0615,0.3236,0.282,4.159,15.6561,Hyundai,2.2213,0.3372,20.0,0.3957,0.2875,1.9508,Healthy: growing & gaining share
+MS-MH-034,West,Maharashtra,MH4,Thane,11054,9746,0.1342,31996,0.0801,0.3455,0.329,1.6468,5.4066,Mahindra,1.6678,0.3372,0.0,0.1342,0.1516,0.853,Healthy: growing & gaining share
+MS-MH-035,West,Maharashtra,MH40,Nagpur (Rural),2894,2427,0.1924,9729,0.0418,0.2975,0.2599,3.7583,15.0658,Mahindra,0.7866,0.3372,387.0,0.2211,0.2321,1.0294,Healthy: growing & gaining share
+MS-MH-036,West,Maharashtra,MH41,Malegaon,954,931,0.0247,3352,0.0164,0.2846,0.2823,0.2314,0.8331,Mahindra,2.9632,0.3372,176.0,-0.0067,0.2826,-0.8067,Healthy: growing & gaining share
+MS-MH-037,West,Maharashtra,MH42,Baramati,2795,2710,0.0314,7910,-0.0371,0.3534,0.3299,2.3466,6.8493,Toyota,0.977,0.3372,0.0,0.0794,0.2182,1.4023,Healthy: growing & gaining share
+MS-MH-038,West,Maharashtra,MH43,Vashi (New Mumbai),5579,5258,0.061,15692,0.0728,0.3555,0.3595,-0.3941,-1.1761,Toyota,2.1391,0.3372,0.0,0.0922,0.1382,-0.7922,Hidden risk: growing but losing share
+MS-MH-039,West,Maharashtra,MH44,Ambejogai,492,365,0.3479,1849,0.0738,0.2661,0.212,5.4127,27.4194,Hyundai,3.3051,0.3372,132.0,0.3262,0.2733,4.2601,Healthy: growing & gaining share
+MS-MH-040,West,Maharashtra,MH45,Akluj,1497,1232,0.2151,4338,0.0351,0.3451,0.294,5.1127,18.0022,Hyundai,2.6956,0.3372,0.0,0.2167,0.2473,4.3496,Healthy: growing & gaining share
+MS-MH-041,West,Maharashtra,MH46,Panvel,8240,7565,0.0892,20690,0.0657,0.3983,0.3897,0.8593,2.3501,Mahindra,1.2081,0.3372,0.0,0.1464,0.1874,-0.1216,Healthy: growing & gaining share
+MS-MH-042,West,Maharashtra,MH47,Dy.R.T.O.Borivali,6836,6286,0.0875,21176,0.0398,0.3228,0.3087,1.4151,4.7673,Toyota,1.6877,0.3372,305.0,0.112,0.1466,0.889,Healthy: growing & gaining share
+MS-MH-043,West,Maharashtra,MH48,Vasai,6505,5598,0.162,15529,0.0694,0.4189,0.3855,3.3383,9.2605,Toyota,0.5499,0.3372,0.0,0.2316,0.1819,2.2284,Healthy: growing & gaining share
+MS-MH-044,West,Maharashtra,MH49,Nagpur (East),3968,3728,0.0644,11401,0.0501,0.348,0.3434,0.4667,1.4272,Kia,0.9079,0.3372,0.0,0.0679,0.2176,-0.4591,Healthy: growing & gaining share
+MS-MH-045,West,Maharashtra,MH5,Kalyan,8638,8034,0.0752,19269,0.0981,0.4483,0.4579,-0.9571,-2.2956,Mahindra,1.6195,0.3372,0.0,0.0821,0.1742,-1.3354,Hidden risk: growing but losing share
+MS-MH-046,West,Maharashtra,MH50,Karad,613,601,0.02,2445,-0.0012,0.2507,0.2455,0.5209,2.1192,Tata Motors,1.918,0.3372,211.0,-0.0388,0.2128,-0.2651,Healthy: growing & gaining share
+MS-MH-047,West,Maharashtra,MH51,Ichalkaranji,1468,1531,-0.0411,4065,-0.1011,0.3611,0.3386,2.2565,5.9912,Toyota,1.221,0.3372,0.0,-0.0474,0.267,0.7223,Market-driven dip: falling but holding share
+MS-MH-048,West,Maharashtra,MH54,Bhadgaon,361,470,-0.2319,1021,-0.0624,0.3536,0.4316,-7.8014,-16.9472,Hyundai,4.7068,0.3372,0.0,-0.2186,0.3175,-7.653,Clear decline: falling & losing share
+MS-MH-049,West,Maharashtra,MH6,Pen (Raigad),2407,2443,-0.0147,5169,-0.0006,0.4657,0.4724,-0.669,-1.4156,Mahindra,2.6392,0.3372,0.0,0.0132,0.1898,-1.386,Clear decline: falling & losing share
+MS-MH-050,West,Maharashtra,MH7,Sindhudurg(Kudal),1068,1064,0.0038,2504,0.0438,0.4265,0.4435,-1.7001,-4.0009,Tata Motors,2.4293,0.3372,0.0,-0.0099,0.1769,-3.6477,Hidden risk: growing but losing share
+MS-MH-051,West,Maharashtra,MH8,Dy Rto Ratnagiri,1571,1821,-0.1373,4167,-0.0126,0.377,0.4315,-5.4507,-12.4728,Tata Motors,7.4052,0.3372,0.0,-0.0566,0.2538,-6.4248,Clear decline: falling & losing share
+MS-MH-052,West,Maharashtra,MH9,Kolhapur,3648,3365,0.0841,10577,0.0123,0.3449,0.3221,2.2828,7.1754,Toyota,0.6196,0.3372,0.0,0.1236,0.2786,1.0968,Healthy: growing & gaining share
+MS-ML-001,North-East,Meghalaya,ML10,Nongpoh,721,711,0.0141,1423,0.1626,0.5067,0.5809,-7.4206,-14.8517,Mahindra,6.9398,0.5772,100.0,0.0891,0.1935,-4.5247,Hidden risk: growing but losing share
+MS-ML-002,North-East,Meghalaya,ML11,Khliehriat,562,610,-0.0787,1015,-0.0193,0.5537,0.5894,-3.5677,-5.9365,Mahindra,3.0751,0.5772,24.0,-0.0411,0.2795,-0.1789,Clear decline: falling & losing share
+MS-ML-003,North-East,Meghalaya,ML4,Jowai,1102,1009,0.0922,1572,0.111,0.701,0.7131,-1.2056,-1.8784,Mahindra,5.6711,0.5772,0.0,0.0998,0.2061,-0.9135,Hidden risk: growing but losing share
+MS-ML-004,North-East,Meghalaya,ML5,Shillong,6443,5764,0.1178,10662,0.1071,0.6043,0.5985,0.5812,1.075,Mahindra,0.8988,0.5772,0.0,0.0656,0.1442,0.8608,Healthy: growing & gaining share
+MS-ML-005,North-East,Meghalaya,ML6,Nongstoin,266,282,-0.0567,353,-0.339,0.7535,0.5281,22.5451,28.2214,Hyundai,0.2016,0.5772,0.0,-0.1259,0.1807,14.8801,Market-driven dip: falling but holding share
+MS-ML-006,North-East,Meghalaya,ML8,Tura,599,512,0.1699,1768,0.0867,0.3388,0.3147,2.4111,8.3259,Tata Motors,2.0208,0.5772,421.0,0.2992,0.2403,3.2031,Healthy: growing & gaining share
+MS-MP-001,Central,Madhya Pradesh,MP10,Khargone Arto,671,536,0.2519,2729,0.1773,0.2459,0.2312,1.4644,7.4558,Kia,1.6443,0.3959,410.0,0.2513,0.4208,-1.1277,Healthy: growing & gaining share
+MS-MP-002,Central,Madhya Pradesh,MP11,Dhar Arto,293,333,-0.1201,1458,-0.2465,0.201,0.1721,2.8867,12.6392,Tata Motors,6.956,0.3959,284.0,0.0977,0.43,2.546,Market-driven dip: falling but holding share
+MS-MP-003,Central,Madhya Pradesh,MP14,Mandsaur Arto,996,1208,-0.1755,2589,-0.2588,0.3847,0.3458,3.887,8.3307,Tata Motors,7.182,0.3959,29.0,-0.1423,0.3217,4.5362,Market-driven dip: falling but holding share
+MS-MP-004,Central,Madhya Pradesh,MP15,Sagar Rto,1720,1752,-0.0183,4350,-0.0994,0.3954,0.3627,3.2669,8.1114,Tata Motors,3.2097,0.3959,2.0,-0.0261,0.2858,4.1726,Market-driven dip: falling but holding share
+MS-MP-005,Central,Madhya Pradesh,MP16,Chattarpur Arto,617,720,-0.1431,1885,-0.1551,0.3273,0.3227,0.4596,1.2032,Hyundai,2.7831,0.3959,129.0,-0.1906,0.2911,0.4838,Market-driven dip: falling but holding share
+MS-MP-006,Central,Madhya Pradesh,MP17,Rewa Rto,1538,1471,0.0455,4784,0.0177,0.3215,0.3129,0.8576,2.7891,Tata Motors,7.2869,0.3959,356.0,0.1155,0.1957,0.3209,Healthy: growing & gaining share
+MS-MP-007,Central,Madhya Pradesh,MP18,Shahdol Rto,762,735,0.0367,2524,0.0084,0.3019,0.2936,0.8254,2.8345,Tata Motors,2.8259,0.3959,237.0,0.1487,0.3157,-0.3506,Healthy: growing & gaining share
+MS-MP-008,Central,Madhya Pradesh,MP19,Satna Arto,1291,1182,0.0922,4367,-0.0385,0.2956,0.2602,3.5389,13.0746,Hyundai,0.9914,0.3959,438.0,0.1612,0.2426,3.1544,Healthy: growing & gaining share
+MS-MP-009,Central,Madhya Pradesh,MP20,Jabalpur Rto,6071,6187,-0.0187,14762,-0.0254,0.4113,0.4085,0.2768,0.6604,Tata Motors,1.4304,0.3959,0.0,-0.0212,0.2261,-0.7248,Market-driven dip: falling but holding share
+MS-MP-010,Central,Madhya Pradesh,MP21,Katni Arto,519,531,-0.0226,1912,-0.0754,0.2714,0.2568,1.4674,5.2836,Tata Motors,7.7883,0.3959,238.0,0.0558,0.2262,1.8466,Market-driven dip: falling but holding share
+MS-MP-011,Central,Madhya Pradesh,MP22,Seoni Arto,454,568,-0.2007,1385,-0.2365,0.3278,0.3131,1.4678,3.579,Tata Motors,4.3689,0.3959,94.0,-0.0789,0.4674,3.1398,Market-driven dip: falling but holding share
+MS-MP-012,Central,Madhya Pradesh,MP28,Chhindwara Arto,1141,1178,-0.0314,3906,-0.1451,0.2921,0.2578,3.429,11.3699,Tata Motors,2.6704,0.3959,406.0,0.0073,0.2826,3.7166,Market-driven dip: falling but holding share
+MS-MP-013,Central,Madhya Pradesh,MP33,Shivpuri Dto,365,409,-0.1076,805,-0.2441,0.4534,0.384,6.9379,13.6552,Tata Motors,7.1851,0.3959,0.0,0.3846,0.5729,2.831,Market-driven dip: falling but holding share
+MS-MP-014,Central,Madhya Pradesh,MP35,Panna Dto,297,289,0.0277,950,-0.0404,0.3126,0.2919,2.0712,6.8086,Tata Motors,3.2089,0.3959,79.0,-0.078,0.2824,1.6473,Healthy: growing & gaining share
+MS-MP-015,Central,Madhya Pradesh,MP36,Tikamgarh Dto,358,468,-0.235,852,-0.4369,0.4202,0.3093,11.0869,20.1838,Tata Motors,10.5164,0.3959,0.0,-0.177,0.5,9.7543,Market-driven dip: falling but holding share
+MS-MP-016,Central,Madhya Pradesh,MP39,Rajgarh Dto,412,577,-0.286,1037,0.0647,0.3973,0.5924,-19.5103,-35.0644,Tata Motors,15.5067,0.3959,0.0,-0.3137,0.5335,-15.8148,Clear decline: falling & losing share
+MS-MP-017,Central,Madhya Pradesh,MP4,Bhopal Rto,12504,12153,0.0289,31547,-0.0093,0.3964,0.3816,1.4719,3.8208,Mahindra,0.8982,0.3959,0.0,-0.009,0.2273,0.5015,Healthy: growing & gaining share
+MS-MP-018,Central,Madhya Pradesh,MP40,Vidisha Dto,324,496,-0.3468,1075,-0.2785,0.3014,0.3329,-3.1491,-6.8251,Tata Motors,9.8911,0.3959,102.0,-0.2234,0.5738,-0.9791,Clear decline: falling & losing share
+MS-MP-019,Central,Madhya Pradesh,MP41,Dewas Dto,579,788,-0.2652,2016,-0.0939,0.2872,0.3542,-6.6955,-17.1296,Tata Motors,9.7424,0.3959,219.0,-0.3427,0.5158,-6.6418,Clear decline: falling & losing share
+MS-MP-020,Central,Madhya Pradesh,MP42,Shajapur Dto,273,393,-0.3053,1087,-0.3107,0.2511,0.2492,0.1943,0.5373,Tata Motors,7.8319,0.3959,157.0,-0.3158,0.516,3.0927,Market-driven dip: falling but holding share
+MS-MP-021,Central,Madhya Pradesh,MP43,Ratlam Dto,1129,1446,-0.2192,3206,-0.1094,0.3522,0.4017,-4.9514,-10.9781,Tata Motors,4.3389,0.3959,140.0,-0.3462,0.3875,-4.0376,Clear decline: falling & losing share
+MS-MP-022,Central,Madhya Pradesh,MP44,Neemuch Dto,832,1008,-0.1746,1969,-0.2196,0.4225,0.3995,2.3025,4.4977,Tata Motors,3.6926,0.3959,0.0,-0.2449,0.3932,3.1774,Market-driven dip: falling but holding share
+MS-MP-023,Central,Madhya Pradesh,MP49,Narsinghpur Dto,286,295,-0.0305,1064,-0.1185,0.2688,0.2444,2.4389,8.7967,Hyundai,4.7914,0.3959,135.0,0.1926,0.4143,2.2074,Market-driven dip: falling but holding share
+MS-MP-024,Central,Madhya Pradesh,MP5,Hosangabad Dto,516,639,-0.1925,1652,-0.1567,0.3123,0.3262,-1.3838,-3.5776,Tata Motors,8.7121,0.3959,138.0,-0.2,0.2888,0.2355,Clear decline: falling & losing share
+MS-MP-025,Central,Madhya Pradesh,MP50,Balaghat Dto,589,655,-0.1008,1809,-0.0991,0.3256,0.3262,-0.0601,-0.166,Kia,4.0648,0.3959,127.0,-0.0435,0.3078,-0.0179,Clear decline: falling & losing share
+MS-MP-026,Central,Madhya Pradesh,MP53,Sidhi Dto,489,427,0.1452,1445,0.0212,0.3384,0.3018,3.6642,12.3998,Toyota,1.365,0.3959,83.0,0.2195,0.3091,2.3602,Healthy: growing & gaining share
+MS-MP-027,Central,Madhya Pradesh,MP6,Morena Dto,437,476,-0.0819,1345,-0.1573,0.3249,0.2982,2.6661,7.5335,Tata Motors,12.1686,0.3959,96.0,-0.0366,0.4463,0.6189,Market-driven dip: falling but holding share
+MS-MP-028,Central,Madhya Pradesh,MP65,Anuppur Dto,445,321,0.3863,1192,0.0807,0.3733,0.291,8.2298,30.5604,Tata Motors,0.508,0.3959,27.0,0.4589,0.4028,5.7566,Healthy: growing & gaining share
+MS-MP-029,Central,Madhya Pradesh,MP66,Singroli Dto,835,718,0.163,2571,0.0317,0.3248,0.2881,3.6654,13.1251,Tata Motors,5.0095,0.3959,183.0,0.2368,0.2814,3.7725,Healthy: growing & gaining share
+MS-MP-030,Central,Madhya Pradesh,MP67,Ashoknagar Dto,268,344,-0.2209,597,-0.3337,0.4489,0.3839,6.4983,11.2775,Tata Motors,6.6549,0.3959,0.0,-0.1417,0.6417,4.4299,Market-driven dip: falling but holding share
+MS-MP-031,Central,Madhya Pradesh,MP68,Burhanpur Dto,262,306,-0.1438,667,-0.1405,0.3928,0.3943,-0.1526,-0.3327,Hyundai,2.2954,0.3959,2.0,-0.3406,0.4746,-0.4382,Clear decline: falling & losing share
+MS-MP-032,Central,Madhya Pradesh,MP7,Gwalior Rto,5983,8573,-0.3021,15333,-0.2069,0.3902,0.4435,-5.3257,-9.5252,Mahindra,5.6552,0.3959,88.0,-0.4631,1.0532,-0.0192,Clear decline: falling & losing share
+MS-MP-033,Central,Madhya Pradesh,MP8,Guna Dto,663,742,-0.1065,1481,-0.391,0.4477,0.3051,14.2572,28.4567,Tata Motors,4.0954,0.3959,0.0,-0.0528,0.4491,12.0219,Market-driven dip: falling but holding share
+MS-MP-034,Central,Madhya Pradesh,MP9,Indore Rto,22981,24474,-0.061,48611,-0.0774,0.4728,0.4645,0.8271,1.6429,Mahindra,0.8487,0.3959,0.0,-0.1852,0.319,0.3778,Market-driven dip: falling but holding share
+MS-MZ-001,North-East,Mizoram,MZ1,Aizawl Dto,2310,1672,0.3816,5146,0.2576,0.4489,0.4086,4.029,12.4003,Toyota,0.8589,0.4465,0.0,0.4645,0.2368,2.9337,Healthy: growing & gaining share
+MS-MZ-002,North-East,Mizoram,MZ2,Lunglei,253,211,0.1991,594,0.0312,0.4259,0.3663,5.9606,16.7802,Toyota,0.0,0.4465,12.0,0.3939,0.2769,4.2589,Healthy: growing & gaining share
+MS-NL-001,North-East,Nagaland,NL1,Kohima Rto,1507,1366,0.1032,8157,0.1185,0.1847,0.1873,-0.2554,-1.5249,Toyota,1.6172,0.2846,815.0,0.0698,0.2257,-0.9033,Hidden risk: growing but losing share
+MS-NL-002,North-East,Nagaland,NL7,Dimapur Dto,2453,2432,0.0086,5757,-0.0541,0.4261,0.3996,2.6484,6.2693,Toyota,2.0229,0.2846,0.0,-0.0201,0.1991,1.8796,Healthy: growing & gaining share
+MS-OR-001,East,Odisha,OR1,Balasore Rto,1282,1247,0.0281,4350,0.0197,0.2947,0.2923,0.2401,0.8377,Mahindra,1.2541,0.319,106.0,-0.0682,0.1925,0.6483,Healthy: growing & gaining share
+MS-OR-002,East,Odisha,OR10,Koraput Rto,572,648,-0.1173,1960,-0.0581,0.2918,0.3114,-1.9552,-5.9139,Mahindra,4.2194,0.319,53.0,0.0465,0.2298,-2.3822,Clear decline: falling & losing share
+MS-OR-003,East,Odisha,OR11,Mayurbhanj Rto,755,660,0.1439,1873,0.181,0.4031,0.4161,-1.3045,-3.7019,Hyundai,2.5281,0.319,0.0,0.1403,0.2245,-2.4512,Hidden risk: growing but losing share
+MS-OR-004,East,Odisha,OR14,Rourkela Rto,1620,1658,-0.0229,5109,0.0427,0.3171,0.3384,-2.128,-6.5572,Tata Motors,4.0986,0.319,10.0,-0.0604,0.2373,-3.0856,Clear decline: falling & losing share
+MS-OR-005,East,Odisha,OR15,Sambalpur Rto,1425,1141,0.2489,4400,0.1485,0.3239,0.2978,2.603,10.0379,Toyota,0.5178,0.319,0.0,0.1656,0.1957,0.9481,Healthy: growing & gaining share
+MS-OR-006,East,Odisha,OR16,Sundergarh Rto,475,376,0.2633,2877,0.1147,0.1651,0.1457,1.9423,14.8614,Mahindra,4.0301,0.319,443.0,0.1256,0.3338,1.1114,Healthy: growing & gaining share
+MS-OR-007,East,Odisha,OR17,Bargarh Rto,1120,1045,0.0718,3495,0.021,0.3205,0.3053,1.517,5.0736,Toyota,0.3124,0.319,0.0,0.0091,0.3265,0.9639,Healthy: growing & gaining share
+MS-OR-008,East,Odisha,OR19,Angul Rto,950,687,0.3828,2997,0.3445,0.317,0.3082,0.8774,3.8275,Tata Motors,2.5852,0.319,6.0,0.3769,0.2946,-1.0929,Healthy: growing & gaining share
+MS-OR-009,East,Odisha,OR2,Bhubaneswar Rto,11947,11936,0.0009,33008,0.0279,0.3619,0.3717,-0.9768,-2.7013,Tata Motors,2.2109,0.319,0.0,-0.12,0.1624,-0.8112,Hidden risk: growing but losing share
+MS-OR-010,East,Odisha,OR23,Jharsuguda Rto,878,752,0.1676,3324,0.3133,0.2641,0.2971,-3.2976,-14.5762,Tata Motors,7.9128,0.319,182.0,0.0712,0.1952,-2.4734,Hidden risk: growing but losing share
+MS-OR-011,East,Odisha,OR24,Nawarangpur Rto,287,234,0.2265,1016,0.1519,0.2825,0.2653,1.7174,7.4568,Tata Motors,1.0648,0.319,37.0,0.1917,0.2815,0.072,Healthy: growing & gaining share
+MS-OR-012,East,Odisha,OR3,Bolangir Rto,767,692,0.1084,2482,0.116,0.309,0.3112,-0.2126,-0.7626,Tata Motors,3.333,0.319,25.0,0.0639,0.2219,1.156,Hidden risk: growing but losing share
+MS-OR-013,East,Odisha,OR33,Bhubaneswar-Ii Rto,3493,2335,0.4959,9424,0.2565,0.3706,0.3113,5.9316,23.9398,Toyota,1.5622,0.319,0.0,0.7998,0.3037,4.5926,Healthy: growing & gaining share
+MS-OR-014,East,Odisha,OR34,Jajpur Rto,382,251,0.5219,1324,0.2385,0.2885,0.2348,5.3721,28.3372,Tata Motors,7.6524,0.319,40.0,0.3688,0.3962,4.6841,Healthy: growing & gaining share
+MS-OR-015,East,Odisha,OR5,Cuttack Rto,3795,3384,0.1215,12844,0.3041,0.2955,0.3436,-4.8119,-18.2638,Kia,1.6508,0.319,302.0,0.0137,0.1672,-4.6584,Hidden risk: growing but losing share
+MS-OR-016,East,Odisha,OR7,Ganjam Rto,648,821,-0.2107,2741,0.1541,0.2364,0.3457,-10.9274,-36.4824,Mahindra,7.5812,0.319,226.0,-0.301,0.2332,-11.3563,Clear decline: falling & losing share
+MS-OR-017,East,Odisha,OR8,Kalahandi Rto,415,400,0.0375,1948,0.1637,0.213,0.2389,-2.591,-12.618,Tata Motors,6.8249,0.319,206.0,-0.0318,0.2814,-2.5498,Hidden risk: growing but losing share
+MS-OR-018,East,Odisha,OR9,Keonjhar Rto,295,269,0.0967,2346,0.7534,0.1257,0.201,-7.53,-65.6709,Tata Motors,16.9671,0.319,453.0,0.051,0.387,-5.9752,Hidden risk: growing but losing share
+MS-PB-001,North,Punjab,PB1,Punjab Sta(Rac)-(Aitp),6288,4393,0.4314,9902,0.5864,0.635,0.7038,-6.8758,-15.4982,Kia,5.4102,0.3039,0.0,0.5531,0.2485,-5.6907,Hidden risk: growing but losing share
+MS-PB-002,North,Punjab,PB10,Rto Ludhiana,6410,4606,0.3917,24751,0.3094,0.259,0.2437,1.5302,8.2225,Mahindra,1.1609,0.3039,1111.0,0.4574,0.2609,0.6648,Healthy: growing & gaining share
+MS-PB-003,North,Punjab,PB11,Rto Patiala,1922,1732,0.1097,8717,0.1353,0.2205,0.2256,-0.5091,-2.5622,Mahindra,5.2975,0.3039,727.0,0.0589,0.2011,-0.4486,Hidden risk: growing but losing share
+MS-PB-004,North,Punjab,PB12,Rto Ropar,438,390,0.1231,1268,0.2287,0.3454,0.3779,-3.2481,-10.5605,Mahindra,6.3012,0.3039,0.0,0.2308,0.2867,-2.3159,Hidden risk: growing but losing share
+MS-PB-005,North,Punjab,PB13,Rto Sangrur,514,446,0.1525,3200,0.3623,0.1606,0.1899,-2.9243,-20.9815,Tata Motors,7.0582,0.3039,458.0,-0.0215,0.2898,-3.7486,Hidden risk: growing but losing share
+MS-PB-006,North,Punjab,PB15,Sdm Abohar,249,261,-0.046,897,0.1157,0.2776,0.3246,-4.7035,-16.1649,Mahindra,5.4206,0.3039,24.0,0.0077,0.2699,-3.7423,Clear decline: falling & losing share
+MS-PB-007,North,Punjab,PB16,Sdm Anandpur Sahib,400,385,0.039,988,0.1776,0.4049,0.4589,-5.4021,-13.8631,Mahindra,4.9139,0.3039,0.0,0.057,0.2334,-6.1262,Hidden risk: growing but losing share
+MS-PB-008,North,Punjab,PB18,Sdm Batala,788,614,0.2834,1774,0.1087,0.4442,0.3838,6.0444,17.4638,Mahindra,2.1537,0.3039,0.0,0.2849,0.3789,5.3399,Healthy: growing & gaining share
+MS-PB-009,North,Punjab,PB19,Rto Barnala,485,446,0.0874,1476,0.1836,0.3286,0.3577,-2.9068,-9.6197,Mahindra,4.9601,0.3039,0.0,0.072,0.3192,-4.5416,Hidden risk: growing but losing share
+MS-PB-010,North,Punjab,PB2,Rto Amritsar,3666,3098,0.1833,13460,0.14,0.2724,0.2624,0.9976,4.3342,Mahindra,5.0191,0.3039,424.0,0.0665,0.2292,1.3749,Healthy: growing & gaining share
+MS-PB-011,North,Punjab,PB20,Sdm Balachaur,338,269,0.2565,728,0.3212,0.4643,0.4882,-2.3918,-6.4729,Mahindra,8.3215,0.3039,0.0,0.3643,0.2768,-6.4018,Hidden risk: growing but losing share
+MS-PB-012,North,Punjab,PB23,Rto Fatehgarh Sahib,367,367,0.0,1008,-0.027,0.3641,0.3542,0.984,2.7027,Mahindra,3.3918,0.3039,0.0,-0.0887,0.2681,-1.8371,Healthy: growing & gaining share
+MS-PB-013,North,Punjab,PB24,Sdm Garshankar,267,218,0.2248,564,0.0951,0.4734,0.4233,5.0103,12.9625,Tata Motors,1.225,0.3039,0.0,0.1774,0.3082,3.3188,Healthy: growing & gaining share
+MS-PB-014,North,Punjab,PB25,Sdm Jagraon,425,407,0.0442,882,0.0316,0.4819,0.476,0.5836,1.2647,Kia,1.9823,0.3039,0.0,0.0521,0.3468,-1.4095,Healthy: growing & gaining share
+MS-PB-015,North,Punjab,PB26,Sdm Khanna,362,369,-0.019,896,-0.1067,0.404,0.3679,3.6122,8.771,Kia,1.265,0.3039,0.0,0.0353,0.1885,1.9956,Market-driven dip: falling but holding share
+MS-PB-016,North,Punjab,PB27,Sdm Kharar,843,644,0.309,2412,0.3282,0.3495,0.3546,-0.5123,-1.9188,Mahindra,2.1941,0.3039,0.0,0.3634,0.2649,-0.2956,Hidden risk: growing but losing share
+MS-PB-017,North,Punjab,PB28,Rto Malerkotla,285,238,0.1975,917,0.3545,0.3108,0.3516,-4.0755,-15.7026,Mahindra,11.3874,0.3039,0.0,0.1151,0.2379,-0.0155,Hidden risk: growing but losing share
+MS-PB-018,North,Punjab,PB29,Rto Moga,493,421,0.171,1481,0.0787,0.3329,0.3066,2.6255,9.2362,Mahindra,2.2728,0.3039,0.0,0.1392,0.248,1.4544,Healthy: growing & gaining share
+MS-PB-019,North,Punjab,PB3,Rto Bathinda,974,719,0.3547,4877,0.1679,0.1997,0.1722,2.7539,18.6795,Mahindra,3.2863,0.3039,508.0,0.302,0.2345,1.2942,Healthy: growing & gaining share
+MS-PB-020,North,Punjab,PB31,Rto Mansa,244,212,0.1509,1024,0.3078,0.2383,0.2708,-3.2472,-15.6847,Mahindra,8.7952,0.3039,67.0,0.0894,0.3065,-2.1803,Hidden risk: growing but losing share
+MS-PB-021,North,Punjab,PB32,Rto Sbs Nagar,548,416,0.3173,1303,0.0858,0.4206,0.3467,7.3901,23.1474,Toyota,1.0955,0.3039,0.0,0.2065,0.2926,5.8977,Healthy: growing & gaining share
+MS-PB-022,North,Punjab,PB34,Sdm Nabha,278,268,0.0373,708,0.3486,0.3927,0.5105,-11.7821,-31.1258,Mahindra,10.0065,0.3039,0.0,-0.0662,0.3178,-12.0253,Hidden risk: growing but losing share
+MS-PB-023,North,Punjab,PB35,Rto Pathankot,1174,1122,0.0463,2940,0.1209,0.3993,0.4278,-2.8435,-7.4508,Mahindra,4.9644,0.3039,0.0,-0.0172,0.1511,-2.9101,Hidden risk: growing but losing share
+MS-PB-024,North,Punjab,PB36,Sdm Phagwara,554,528,0.0492,1254,0.1515,0.4418,0.4848,-4.3062,-10.2273,Mahindra,5.181,0.3039,0.0,0.0268,0.2731,-4.0882,Hidden risk: growing but losing share
+MS-PB-025,North,Punjab,PB37,Sdm Phillour,352,403,-0.1266,607,-0.1353,0.5799,0.5741,0.5827,0.8777,Mahindra,4.4814,0.3039,0.0,-0.1202,0.2557,-1.1618,Market-driven dip: falling but holding share
+MS-PB-026,North,Punjab,PB39,Sdm Rajpura,673,579,0.1623,1555,0.2273,0.4328,0.457,-2.4188,-6.496,Mahindra,4.7849,0.3039,0.0,0.2157,0.2645,-0.9755,Hidden risk: growing but losing share
+MS-PB-027,North,Punjab,PB4,Rto Faridkot,263,253,0.0395,1736,0.0105,0.1515,0.1473,0.4233,2.9048,Mahindra,3.5658,0.3039,265.0,0.256,0.297,-0.1023,Healthy: growing & gaining share
+MS-PB-028,North,Punjab,PB46,Rto Tarn Taran,980,892,0.0987,2785,0.1162,0.3519,0.3575,-0.563,-1.7578,Mahindra,8.103,0.3039,0.0,-0.0841,0.3691,-1.5933,Hidden risk: growing but losing share
+MS-PB-029,North,Punjab,PB48,Sdm Amloh,304,248,0.2258,1027,0.3767,0.296,0.3324,-3.6432,-15.0869,Mahindra,5.2943,0.3039,8.0,0.3866,0.2893,-3.1395,Hidden risk: growing but losing share
+MS-PB-030,North,Punjab,PB5,Rto Ferozpur,441,449,-0.0178,2784,0.1303,0.1584,0.1823,-2.3893,-14.8146,Mahindra,6.9193,0.3039,405.0,0.0991,0.2548,-3.252,Clear decline: falling & losing share
+MS-PB-031,North,Punjab,PB55,Sdm Payal,298,252,0.1825,606,0.1521,0.4917,0.4791,1.2662,3.0448,Mahindra,3.6134,0.3039,0.0,0.0763,0.2602,-0.7949,Healthy: growing & gaining share
+MS-PB-032,North,Punjab,PB56,Sdm Raikot,267,260,0.0269,509,0.1065,0.5246,0.5652,-4.0659,-7.9599,Hyundai,3.6769,0.3039,0.0,0.0,0.3238,-3.5656,Hidden risk: growing but losing share
+MS-PB-033,North,Punjab,PB6,Rto Gurdaspur,1734,1456,0.1909,6376,0.1849,0.272,0.2706,0.1376,0.6024,Mahindra,5.13,0.3039,203.0,0.2175,0.2573,-0.0465,Healthy: growing & gaining share
+MS-PB-034,North,Punjab,PB65,Rto Sahibzada Ajit Singh Nagar,2450,1978,0.2386,13339,0.402,0.1837,0.2079,-2.4232,-16.3414,Mahindra,4.8892,0.3039,1603.0,0.2176,0.2104,-1.9159,Hidden risk: growing but losing share
+MS-PB-035,North,Punjab,PB7,Rto Hoshiarpur,2748,2609,0.0533,8022,0.0756,0.3426,0.3498,-0.7268,-2.2346,Mahindra,3.1335,0.3039,0.0,-0.0056,0.2504,-2.0523,Hidden risk: growing but losing share
+MS-PB-036,North,Punjab,PB70,Sdm Dera Bassi,1299,1005,0.2925,3570,0.4548,0.3639,0.4095,-4.567,-16.223,Mahindra,2.805,0.3039,0.0,0.337,0.2688,-4.2101,Hidden risk: growing but losing share
+MS-PB-037,North,Punjab,PB78,Sdm Banga,247,218,0.133,648,0.1978,0.3812,0.403,-2.1785,-6.4754,Mahindra,3.8837,0.3039,0.0,0.1008,0.3118,-3.6257,Hidden risk: growing but losing share
+MS-PB-038,North,Punjab,PB8,Rto Jalandhar,3920,3669,0.0684,14928,0.1359,0.2626,0.2792,-1.6587,-6.7489,Mahindra,3.1036,0.3039,616.0,0.0323,0.2005,-2.0416,Hidden risk: growing but losing share
+MS-PB-039,North,Punjab,PB9,Rto Kapurthala,1044,1003,0.0409,3267,0.1375,0.3196,0.3492,-2.9675,-9.6657,Mahindra,5.2234,0.3039,0.0,-0.0393,0.2509,-3.8776,Hidden risk: growing but losing share
+MS-PY-001,South,Puducherry,PY1,Puducherry,995,718,0.3858,3024,0.2912,0.329,0.3066,2.2459,9.459,Skoda-VW,1.4305,0.3075,0.0,0.0377,0.369,3.2454,Healthy: growing & gaining share
+MS-PY-002,South,Puducherry,PY11,Bahour,272,138,0.971,1057,1.9859,0.2573,0.3898,-13.2498,-101.4861,Toyota,4.9557,0.3075,53.0,1.5278,0.7646,-7.5568,Hidden risk: growing but losing share
+MS-PY-003,South,Puducherry,PY2,Karaikal,377,369,0.0217,978,0.1615,0.3855,0.4382,-5.2762,-13.984,Hyundai,10.5555,0.3075,0.0,0.0,0.2067,-5.9007,Hidden risk: growing but losing share
+MS-PY-004,South,Puducherry,PY5,Oulgaret,1502,1137,0.321,4945,0.1168,0.3037,0.2568,4.6966,20.4263,Toyota,0.6263,0.3075,19.0,0.5121,0.2709,4.2231,Healthy: growing & gaining share
+MS-PY-005,South,Puducherry,PY51,Villianur,484,414,0.1691,1801,0.2268,0.2687,0.282,-1.3277,-5.7757,Mahindra,2.965,0.3075,70.0,0.288,0.3287,-2.8278,Hidden risk: growing but losing share
+MS-RJ-001,North,Rajasthan,RJ1,Ajmer Rto,1976,1812,0.0905,6901,0.0852,0.2863,0.285,0.1385,0.5274,Mahindra,1.5621,0.3359,342.0,0.0206,0.1858,1.0161,Healthy: growing & gaining share
+MS-RJ-002,North,Rajasthan,RJ10,Churu Dto,920,779,0.181,3096,0.1129,0.2972,0.28,1.7143,6.8133,Kia,0.272,0.3359,120.0,0.1855,0.2948,1.4844,Healthy: growing & gaining share
+MS-RJ-003,North,Rajasthan,RJ11,Dholpur Dto,784,681,0.1512,4514,0.114,0.1737,0.1681,0.5617,3.723,Mahindra,1.5272,0.3359,732.0,0.1516,0.3306,0.2641,Healthy: growing & gaining share
+MS-RJ-004,North,Rajasthan,RJ12,Dungarpur Dto,1368,1183,0.1564,2752,0.1169,0.4971,0.4801,1.6979,3.9499,Tata Motors,1.0845,0.3359,0.0,0.0123,0.3378,0.5467,Healthy: growing & gaining share
+MS-RJ-005,North,Rajasthan,RJ14,Jaipur (First) Rto,19482,19024,0.0241,56870,0.127,0.3426,0.377,-3.4426,-10.2912,Mahindra,5.8458,0.3359,0.0,-0.0574,0.2589,-2.5143,Hidden risk: growing but losing share
+MS-RJ-006,North,Rajasthan,RJ141,"Jagatpura, Jaipur Arto",874,836,0.0455,9084,-0.027,0.0962,0.0895,0.6667,7.2447,Mahindra,3.1725,0.3359,2178.0,-0.1929,0.5491,-1.4325,Healthy: growing & gaining share
+MS-RJ-007,North,Rajasthan,RJ16,Jalore Dto,338,377,-0.1034,1141,0.1056,0.2962,0.3653,-6.9079,-20.9068,Mahindra,7.6406,0.3359,45.0,-0.2217,0.3318,-6.0127,Clear decline: falling & losing share
+MS-RJ-008,North,Rajasthan,RJ17,Jhalawar Dto,1622,1414,0.1471,3460,0.1054,0.4688,0.4518,1.7029,4.1669,Hyundai,0.5175,0.3359,0.0,0.2158,0.264,2.6204,Healthy: growing & gaining share
+MS-RJ-009,North,Rajasthan,RJ18,Jhunjhunu Dto,2621,2235,0.1727,7269,0.1868,0.3606,0.3649,-0.4326,-1.4069,Mahindra,1.7219,0.3359,0.0,0.15,0.3153,-0.0408,Hidden risk: growing but losing share
+MS-RJ-010,North,Rajasthan,RJ19,Jodhpur Rto,4508,4421,0.0197,16788,0.0888,0.2685,0.2867,-1.8199,-6.9108,Mahindra,2.5745,0.3359,1131.0,-0.0262,0.2423,-2.1302,Hidden risk: growing but losing share
+MS-RJ-011,North,Rajasthan,RJ2,Alwar Rto,4169,3589,0.1616,9985,0.0958,0.4175,0.3939,2.365,6.5797,Mahindra,0.2587,0.3359,0.0,0.1182,0.2677,1.5103,Healthy: growing & gaining share
+MS-RJ-012,North,Rajasthan,RJ20,Kota Rto,3882,3461,0.1216,9340,0.0542,0.4156,0.3906,2.5,6.7465,Mahindra,1.1431,0.3359,0.0,0.1711,0.2128,1.8342,Healthy: growing & gaining share
+MS-RJ-013,North,Rajasthan,RJ21,Nagaur Dto,1050,1091,-0.0376,5435,0.1549,0.1932,0.2318,-3.8639,-19.2489,Tata Motors,7.5518,0.3359,776.0,-0.0797,0.2593,-3.0722,Clear decline: falling & losing share
+MS-RJ-014,North,Rajasthan,RJ22,Pali Rto,1088,1124,-0.032,2894,-0.0233,0.376,0.3793,-0.3395,-0.8741,Mahindra,2.0497,0.3359,0.0,-0.1062,0.2391,0.752,Clear decline: falling & losing share
+MS-RJ-015,North,Rajasthan,RJ23,Sikar Rto,2594,2438,0.064,8736,0.1477,0.2969,0.3203,-2.3352,-8.3675,Mahindra,3.2598,0.3359,341.0,-0.0111,0.2932,-2.3415,Hidden risk: growing but losing share
+MS-RJ-016,North,Rajasthan,RJ25,Sawai Madhopur Dto,748,657,0.1385,3000,0.22,0.2493,0.2672,-1.7848,-8.15,Mahindra,3.5065,0.3359,260.0,-0.0308,0.3662,-2.3807,Hidden risk: growing but losing share
+MS-RJ-017,North,Rajasthan,RJ26,Tonk Dto,759,797,-0.0477,1865,0.0197,0.407,0.4358,-2.8787,-6.7362,Mahindra,5.9197,0.3359,0.0,-0.029,0.3052,-2.2428,Clear decline: falling & losing share
+MS-RJ-018,North,Rajasthan,RJ27,Udaipur Rto,6449,6614,-0.0249,15014,0.0128,0.4295,0.4462,-1.6636,-3.7764,Mahindra,1.4583,0.3359,0.0,-0.049,0.2893,-2.3103,Clear decline: falling & losing share
+MS-RJ-019,North,Rajasthan,RJ28,Baran Dto,1453,1202,0.2088,2731,0.1003,0.532,0.4843,4.7753,10.8496,Tata Motors,0.6691,0.3359,0.0,0.3061,0.3486,5.519,Healthy: growing & gaining share
+MS-RJ-020,North,Rajasthan,RJ29,Dausa Rto,1436,1419,0.012,3742,0.0744,0.3838,0.4074,-2.3655,-6.2381,Mahindra,5.9187,0.3359,0.0,0.1871,0.3661,-2.9313,Hidden risk: growing but losing share
+MS-RJ-021,North,Rajasthan,RJ3,Banswara Dto,1533,1408,0.0888,2941,0.0378,0.5213,0.4968,2.4427,5.1023,Toyota,0.7333,0.3359,0.0,0.0171,0.347,0.4878,Healthy: growing & gaining share
+MS-RJ-022,North,Rajasthan,RJ30,Rajsamand Dto,1251,1050,0.1914,2793,0.0175,0.4479,0.3825,6.5392,17.3942,Toyota,0.3638,0.3359,0.0,0.2969,0.2631,5.346,Healthy: growing & gaining share
+MS-RJ-023,North,Rajasthan,RJ31,Hanumangarh Dto,702,802,-0.1247,2495,0.0431,0.2814,0.3353,-5.3922,-16.7748,Hyundai,3.1566,0.3359,136.0,-0.0637,0.313,-4.2691,Clear decline: falling & losing share
+MS-RJ-024,North,Rajasthan,RJ32,Kotputali Dto,854,605,0.4116,5157,0.3923,0.1656,0.1633,0.2263,1.9292,Tata Motors,1.8177,0.3359,878.0,0.6512,0.3888,0.1773,Healthy: growing & gaining share
+MS-RJ-025,North,Rajasthan,RJ34,Karoli Dto,669,619,0.0808,1733,0.0906,0.386,0.3896,-0.3517,-0.9848,Mahindra,3.1909,0.3359,0.0,0.0526,0.2883,-2.1111,Hidden risk: growing but losing share
+MS-RJ-026,North,Rajasthan,RJ35,Pratapgarh Dto,412,387,0.0646,1028,0.1912,0.4008,0.4484,-4.7657,-12.6594,Hyundai,4.2986,0.3359,0.0,-0.0149,0.3152,-2.6445,Hidden risk: growing but losing share
+MS-RJ-027,North,Rajasthan,RJ36,Beawar Dto,681,539,0.2635,2076,0.2582,0.328,0.3267,0.1368,0.5269,Mahindra,2.804,0.3359,16.0,0.3443,0.208,0.9248,Healthy: growing & gaining share
+MS-RJ-028,North,Rajasthan,RJ37,Didwana Dto,1111,1128,-0.0151,3098,0.1241,0.3586,0.4093,-5.067,-13.9164,Mahindra,4.4534,0.3359,0.0,-0.0761,0.3556,-5.257,Clear decline: falling & losing share
+MS-RJ-029,North,Rajasthan,RJ38,Abu Road Dto,386,384,0.0052,1130,0.0492,0.3416,0.3565,-1.4953,-4.4002,Tata Motors,2.9836,0.3359,0.0,0.0615,0.3283,0.2011,Hidden risk: growing but losing share
+MS-RJ-030,North,Rajasthan,RJ39,Balotra Dto,369,288,0.2812,1672,0.1351,0.2207,0.1955,2.5174,14.6152,Kia,2.0303,0.3359,193.0,0.2727,0.2908,1.0615,Healthy: growing & gaining share
+MS-RJ-031,North,Rajasthan,RJ4,Barmer Dto,500,463,0.0799,2833,0.1573,0.1765,0.1891,-1.2643,-7.7358,Mahindra,2.0997,0.3359,452.0,0.1951,0.3552,-2.014,Hidden risk: growing but losing share
+MS-RJ-032,North,Rajasthan,RJ40,Bhiwari Dto,921,852,0.081,2614,0.0312,0.3523,0.3361,1.6239,4.9822,Mahindra,4.9063,0.3359,0.0,0.0653,0.2054,1.5974,Healthy: growing & gaining share
+MS-RJ-033,North,Rajasthan,RJ41,Chomu Dto,886,855,0.0363,2162,0.1445,0.4098,0.4526,-4.2815,-10.8264,Mahindra,4.1622,0.3359,0.0,-0.0271,0.4055,-3.6376,Hidden risk: growing but losing share
+MS-RJ-034,North,Rajasthan,RJ42,Kishangarh Dto,353,408,-0.1348,1495,0.0027,0.2361,0.2736,-3.7521,-13.7487,Mahindra,2.0117,0.3359,149.0,-0.2653,0.2366,-4.8509,Clear decline: falling & losing share
+MS-RJ-035,North,Rajasthan,RJ44,Sujangarh Dto,635,513,0.2378,1491,0.2415,0.4259,0.4271,-0.1255,-0.3649,Tata Motors,3.9469,0.3359,0.0,0.1099,0.2251,-0.111,Hidden risk: growing but losing share
+MS-RJ-036,North,Rajasthan,RJ47,Dudu Dto,782,717,0.0907,1655,-0.0733,0.4725,0.4015,7.1052,16.4004,Mahindra,2.9969,0.3359,0.0,0.0348,0.3447,5.3568,Healthy: growing & gaining share
+MS-RJ-037,North,Rajasthan,RJ48,Kekri Dto,459,413,0.1114,956,0.1194,0.4801,0.4836,-0.3481,-0.8058,Mahindra,3.1594,0.3359,0.0,0.1779,0.2698,-2.0742,Hidden risk: growing but losing share
+MS-RJ-038,North,Rajasthan,RJ49,Nohar Dto,554,585,-0.053,1391,-0.0367,0.3983,0.4051,-0.685,-1.6288,Hyundai,1.3607,0.3359,0.0,-0.037,0.2956,-0.5473,Clear decline: falling & losing share
+MS-RJ-039,North,Rajasthan,RJ5,Bharatpur Rto,1862,1557,0.1959,4452,0.124,0.4182,0.3931,2.5156,7.1931,Mahindra,0.9318,0.3359,0.0,0.2169,0.3465,2.7007,Healthy: growing & gaining share
+MS-RJ-040,North,Rajasthan,RJ50,Nokha Dto,261,253,0.0316,1364,0.0598,0.1913,0.1966,-0.5232,-2.8209,Mahindra,2.4131,0.3359,197.0,-0.146,0.3199,-0.7267,Hidden risk: growing but losing share
+MS-RJ-041,North,Rajasthan,RJ51,Sahapura (Bhilwara) Dto,1004,973,0.0319,1817,0.1223,0.5526,0.601,-4.8429,-9.0437,Tata Motors,4.4239,0.3359,0.0,0.1099,0.2177,-4.4349,Hidden risk: growing but losing share
+MS-RJ-042,North,Rajasthan,RJ52,Sahapura (Jaipur) Dto,639,550,0.1618,2136,0.0009,0.2992,0.2577,4.1425,16.0881,Mahindra,6.6727,0.3359,79.0,0.2148,0.4036,1.9605,Healthy: growing & gaining share
+MS-RJ-043,North,Rajasthan,RJ54,Pipar City Dto,381,425,-0.1035,862,-0.0115,0.442,0.4874,-4.539,-9.2062,Tata Motors,5.5014,0.3359,0.0,-0.0995,0.2852,-2.5707,Clear decline: falling & losing share
+MS-RJ-044,North,Rajasthan,RJ6,Bhilwara Dto,2923,2693,0.0854,8354,-0.0123,0.3499,0.3184,3.1495,9.7703,Mahindra,1.8317,0.3359,0.0,0.143,0.1675,0.1994,Healthy: growing & gaining share
+MS-RJ-045,North,Rajasthan,RJ7,Bikaner Rto,2162,2237,-0.0335,7826,0.0559,0.2763,0.3018,-2.5549,-8.9382,Mahindra,1.8718,0.3359,467.0,-0.0585,0.2317,-2.9071,Clear decline: falling & losing share
+MS-RJ-046,North,Rajasthan,RJ8,Bundi Dto,1305,1199,0.0884,2687,0.0765,0.4857,0.4804,0.5303,1.1885,Tata Motors,1.6581,0.3359,0.0,0.1648,0.2385,0.3547,Healthy: growing & gaining share
+MS-RJ-047,North,Rajasthan,RJ9,Chittorgarh Rto,1777,2044,-0.1306,5713,-0.0073,0.311,0.3552,-4.4124,-12.3328,Mahindra,3.9034,0.3359,142.0,-0.1236,0.2554,-4.4985,Clear decline: falling & losing share
+MS-SK-001,North-East,Sikkim,SK1,Rto Gangtok,1130,1292,-0.1254,2515,0.01,0.4493,0.5189,-6.9571,-13.5427,Toyota,4.6969,0.4463,0.0,-0.2294,0.223,-6.3994,Clear decline: falling & losing share
+MS-SK-002,North-East,Sikkim,SK5,Namchi,251,244,0.0287,579,0.0451,0.4335,0.4404,-0.6927,-1.6438,Toyota,6.1319,0.4463,7.0,0.2018,0.2659,-0.5312,Hidden risk: growing but losing share
+MS-TN-001,South,Tamil Nadu,TN1,Chennai (Central) Rto,1774,1343,0.3209,5812,0.0696,0.3052,0.2471,5.8083,25.1361,Toyota,1.6697,0.3527,276.0,0.4814,0.2465,5.9163,Healthy: growing & gaining share
+MS-TN-002,South,Tamil Nadu,TN10,Chennai (South-West) Rto,2082,1881,0.1069,7213,0.0297,0.2886,0.2685,2.0123,7.7165,Toyota,2.0681,0.3527,462.0,0.0441,0.1807,1.5244,Healthy: growing & gaining share
+MS-TN-003,South,Tamil Nadu,TN18,Redhills Rto,1660,1358,0.2224,5226,0.1802,0.3176,0.3067,1.0958,4.2169,Hyundai,1.4493,0.3527,183.0,0.2259,0.2285,0.1935,Healthy: growing & gaining share
+MS-TN-004,South,Tamil Nadu,TN19,Chengalpattu Rto,1731,1313,0.3184,5230,0.1533,0.331,0.2895,4.1449,16.5102,Toyota,0.9976,0.3527,114.0,0.2167,0.2735,3.3968,Healthy: growing & gaining share
+MS-TN-005,South,Tamil Nadu,TN2,Rto Chennai (North West),1990,1532,0.299,6054,0.0772,0.3287,0.2726,5.611,22.1731,Toyota,1.2447,0.3527,145.0,0.1757,0.2507,4.3396,Healthy: growing & gaining share
+MS-TN-006,South,Tamil Nadu,TN20,Tiruvallur Rto,770,622,0.2379,2131,0.1859,0.3613,0.3461,1.52,5.2077,Toyota,0.921,0.3527,0.0,0.1829,0.2745,1.0645,Healthy: growing & gaining share
+MS-TN-007,South,Tamil Nadu,TN21,Kancheepuram Rto,805,707,0.1386,2208,0.0974,0.3646,0.3514,1.3192,4.1198,Toyota,2.4079,0.3527,0.0,0.0773,0.2147,2.3923,Healthy: growing & gaining share
+MS-TN-008,South,Tamil Nadu,TN22,Meenambakkam Rto,1978,1630,0.2135,6560,0.0712,0.3015,0.2662,3.5358,14.2302,Hyundai,0.8453,0.3527,336.0,0.1833,0.1767,2.8634,Healthy: growing & gaining share
+MS-TN-009,South,Tamil Nadu,TN23,Vellore Rto,1253,1027,0.2201,3300,0.1571,0.3797,0.3601,1.9599,6.2976,Toyota,2.45,0.3527,0.0,0.2604,0.2657,3.093,Healthy: growing & gaining share
+MS-TN-010,South,Tamil Nadu,TN24,Krishnagiri Rto,767,624,0.2292,2313,0.1711,0.3316,0.3159,1.5655,5.8027,Mahindra,2.8146,0.3527,49.0,0.16,0.2478,1.0988,Healthy: growing & gaining share
+MS-TN-011,South,Tamil Nadu,TN25,Tiruvannamalai Rto,921,579,0.5907,2133,0.2259,0.4318,0.3328,9.9028,36.4812,Toyota,0.3536,0.3527,0.0,0.8092,0.3457,10.6572,Healthy: growing & gaining share
+MS-TN-012,South,Tamil Nadu,TN28,Namakkal (North) Rto,569,422,0.3483,1369,0.1661,0.4156,0.3595,5.6177,18.2242,Mahindra,1.8569,0.3527,0.0,0.3476,0.3242,3.3703,Healthy: growing & gaining share
+MS-TN-013,South,Tamil Nadu,TN29,Dharmapuri Rto,620,471,0.3163,1878,0.2445,0.3301,0.3121,1.8011,7.1815,Toyota,2.8241,0.3527,42.0,0.4262,0.2499,1.5837,Healthy: growing & gaining share
+MS-TN-014,South,Tamil Nadu,TN3,Chennai (North-East) Rto,640,562,0.1388,2064,-0.0431,0.3101,0.2605,4.953,18.1905,MG Motor,0.3028,0.3527,88.0,0.0594,0.2078,4.4674,Healthy: growing & gaining share
+MS-TN-015,South,Tamil Nadu,TN30,Salem (West) Rto,1109,981,0.1305,3364,0.0926,0.3297,0.3186,1.1057,3.7917,Hyundai,2.0636,0.3527,77.0,0.1816,0.1704,1.9138,Healthy: growing & gaining share
+MS-TN-016,South,Tamil Nadu,TN31,Cuddalore Rto,646,834,-0.2254,1532,-0.0613,0.4217,0.511,-8.9358,-16.4145,Tata Motors,3.9332,0.3527,0.0,-0.1383,0.3223,-5.4471,Clear decline: falling & losing share
+MS-TN-017,South,Tamil Nadu,TN32,Viluppuram Rto,596,430,0.386,1469,0.1837,0.4057,0.3465,5.9223,20.2324,Toyota,0.932,0.3527,0.0,0.464,0.255,6.1859,Healthy: growing & gaining share
+MS-TN-018,South,Tamil Nadu,TN33,Erode Rto,851,691,0.2315,2439,0.0205,0.3489,0.2891,5.9792,21.1046,Toyota,2.6443,0.3527,9.0,0.2115,0.2664,5.0321,Healthy: growing & gaining share
+MS-TN-019,South,Tamil Nadu,TN34,Tiruchengode Rto,476,442,0.0769,1241,0.0616,0.3836,0.3781,0.5461,1.5332,Hyundai,1.7424,0.3527,0.0,0.0269,0.2966,-0.0603,Healthy: growing & gaining share
+MS-TN-020,South,Tamil Nadu,TN36,Gopichettipalayam Rto,458,366,0.2514,1255,0.1653,0.3649,0.3398,2.5107,8.6092,Toyota,1.4818,0.3527,0.0,0.132,0.3197,4.0001,Healthy: growing & gaining share
+MS-TN-021,South,Tamil Nadu,TN37,Coimbatore (South) Rto,2215,1879,0.1788,6278,0.056,0.3528,0.3161,3.6755,12.2805,Toyota,2.3324,0.3527,0.0,0.2106,0.2062,3.662,Healthy: growing & gaining share
+MS-TN-022,South,Tamil Nadu,TN38,Coimbatore (North) Rto,3223,2675,0.2049,8490,0.1208,0.3796,0.3531,2.6488,8.4068,Toyota,1.879,0.3527,0.0,0.1917,0.242,2.2747,Healthy: growing & gaining share
+MS-TN-023,South,Tamil Nadu,TN39,Tiruppur (North) Rto,1351,1121,0.2052,4072,0.046,0.3318,0.288,4.3825,15.9194,Toyota,2.8699,0.3527,85.0,0.1151,0.2285,4.426,Healthy: growing & gaining share
+MS-TN-024,South,Tamil Nadu,TN40,Mettupalayam Rto,677,666,0.0165,1891,0.039,0.358,0.3659,-0.7922,-2.2494,Mahindra,1.5534,0.3527,0.0,0.036,0.2499,-0.4724,Hidden risk: growing but losing share
+MS-TN-025,South,Tamil Nadu,TN41,Pollachi Rto,1191,1111,0.072,3054,0.0207,0.39,0.3713,1.8657,5.1285,Toyota,1.7886,0.3527,0.0,0.0086,0.1822,1.9521,Healthy: growing & gaining share
+MS-TN-026,South,Tamil Nadu,TN42,Tiruppur (South) Rto,914,797,0.1468,3160,-0.0268,0.2892,0.2455,4.3783,17.3594,Toyota,1.911,0.3527,201.0,0.1514,0.2178,4.103,Healthy: growing & gaining share
+MS-TN-027,South,Tamil Nadu,TN43,Ooty Rto,1273,1280,-0.0055,2775,0.0289,0.4587,0.4746,-1.5863,-3.439,Toyota,2.6835,0.3527,0.0,-0.0389,0.2139,-0.4534,Clear decline: falling & losing share
+MS-TN-028,South,Tamil Nadu,TN45,Tiruchi Rto,1032,957,0.0784,3199,0.0444,0.3226,0.3124,1.0162,3.3969,Toyota,2.5573,0.3527,96.0,-0.0122,0.2093,0.1303,Healthy: growing & gaining share
+MS-TN-029,South,Tamil Nadu,TN46,Perambalur Rto,516,402,0.2836,1439,0.1549,0.3586,0.3226,3.595,12.8686,Mahindra,2.4962,0.3527,0.0,0.3165,0.2634,4.9723,Healthy: growing & gaining share
+MS-TN-030,South,Tamil Nadu,TN47,Karur Rto,561,409,0.3716,1625,0.0291,0.3452,0.259,8.6206,34.2506,MG Motor,0.0926,0.3527,12.0,0.3868,0.3407,6.7703,Healthy: growing & gaining share
+MS-TN-031,South,Tamil Nadu,TN48,Srirangam Rto,823,670,0.2284,2151,0.1877,0.3826,0.37,1.2651,4.0617,Toyota,3.4769,0.3527,0.0,0.1662,0.2629,1.2125,Healthy: growing & gaining share
+MS-TN-032,South,Tamil Nadu,TN49,Thanjavur Rto,1132,910,0.244,3352,0.1037,0.3377,0.2996,3.8071,14.0235,Toyota,1.2734,0.3527,50.0,0.1217,0.2272,3.4633,Healthy: growing & gaining share
+MS-TN-033,South,Tamil Nadu,TN5,Chennai (North) Rto,2023,1653,0.2238,6053,0.105,0.3342,0.3018,3.2462,11.887,Toyota,1.1158,0.3527,112.0,0.1141,0.2141,0.9244,Healthy: growing & gaining share
+MS-TN-034,South,Tamil Nadu,TN50,Tiruvarur Rto,392,303,0.2937,985,0.1698,0.398,0.3599,3.8112,12.3896,Hyundai,4.6508,0.3527,0.0,0.3208,0.2551,4.5751,Healthy: growing & gaining share
+MS-TN-035,South,Tamil Nadu,TN508,Madurantagam Uo,553,402,0.3756,1040,0.2366,0.5317,0.478,5.3728,13.8999,Mahindra,1.085,0.3527,0.0,0.3349,0.2698,3.6214,Healthy: growing & gaining share
+MS-TN-036,South,Tamil Nadu,TN51,Nagapattinam Rto,446,358,0.2458,1188,0.1821,0.3754,0.3562,1.9202,6.3721,Hyundai,3.5032,0.3527,0.0,0.2123,0.2611,1.6224,Healthy: growing & gaining share
+MS-TN-037,South,Tamil Nadu,TN511,Poonamallee Rto,3214,2658,0.2092,9916,0.1058,0.3241,0.2964,2.7702,10.3347,Hyundai,1.1186,0.3527,283.0,0.1178,0.2601,2.8524,Healthy: growing & gaining share
+MS-TN-038,South,Tamil Nadu,TN512,Sholinganallur Rto,2669,2161,0.2351,10510,0.1705,0.2539,0.2407,1.3276,6.4567,Hyundai,0.7127,0.3527,1038.0,0.2264,0.1992,1.0814,Healthy: growing & gaining share
+MS-TN-039,South,Tamil Nadu,TN513,Tambaram Rto,3778,3027,0.2481,11158,0.1117,0.3386,0.3016,3.7007,13.6414,Mahindra,0.47,0.3527,157.0,0.2642,0.2066,2.9006,Healthy: growing & gaining share
+MS-TN-040,South,Tamil Nadu,TN514,Gudiyatham Uo,268,236,0.1356,693,-0.0043,0.3867,0.3391,4.7644,13.9904,Toyota,1.3223,0.3527,0.0,0.0569,0.2175,4.8865,Healthy: growing & gaining share
+MS-TN-041,South,Tamil Nadu,TN516,Arani Rto,339,259,0.3089,873,0.3247,0.3883,0.393,-0.4704,-1.5854,Mahindra,2.5821,0.3527,0.0,0.3622,0.267,-1.0458,Hidden risk: growing but losing share
+MS-TN-042,South,Tamil Nadu,TN517,Paramathi Vellure Uo,271,259,0.0463,614,0.0115,0.4414,0.4267,1.4679,3.48,Toyota,2.2595,0.3527,0.0,-0.047,0.2913,4.5304,Healthy: growing & gaining share
+MS-TN-043,South,Tamil Nadu,TN52,Sankagiri Rto,599,500,0.198,1374,0.1189,0.436,0.4072,2.8787,7.9107,Toyota,1.7767,0.3527,0.0,0.1583,0.253,3.7971,Healthy: growing & gaining share
+MS-TN-044,South,Tamil Nadu,TN526,Rasipuram Uo,477,395,0.2076,998,0.1511,0.478,0.4556,2.2362,5.6499,Hyundai,1.0956,0.3527,0.0,0.1981,0.3144,1.201,Healthy: growing & gaining share
+MS-TN-045,South,Tamil Nadu,TN527,Harur Uo,400,311,0.2862,1017,0.13,0.3933,0.3456,4.7758,15.6174,Mahindra,1.882,0.3527,0.0,0.1687,0.2886,3.5914,Healthy: growing & gaining share
+MS-TN-046,South,Tamil Nadu,TN535,Omalure Uo,521,565,-0.0779,1221,-0.0025,0.4267,0.4616,-3.4902,-7.5425,Mahindra,1.9178,0.3527,0.0,-0.0868,0.3053,-2.902,Clear decline: falling & losing share
+MS-TN-047,South,Tamil Nadu,TN54,Salem (East) Rto,650,462,0.4069,1566,0.1028,0.4151,0.3254,8.9718,30.411,Hyundai,0.2255,0.3527,0.0,0.4934,0.2988,7.8026,Healthy: growing & gaining share
+MS-TN-048,South,Tamil Nadu,TN544,Chidambaram Rto,760,589,0.2903,1560,0.1908,0.4872,0.4496,3.7561,9.9483,Toyota,1.2258,0.3527,0.0,0.239,0.2853,4.2813,Healthy: growing & gaining share
+MS-TN-049,South,Tamil Nadu,TN55,Pudukottai Rto,699,508,0.376,1922,0.1613,0.3637,0.3069,5.6735,21.4655,Toyota,1.992,0.3527,0.0,0.3783,0.2793,5.3915,Healthy: growing & gaining share
+MS-TN-050,South,Tamil Nadu,TN553,Virudhachalam Uo,488,385,0.2675,1015,0.2026,0.4808,0.4562,2.4627,6.4926,Mahindra,0.5255,0.3527,0.0,0.3467,0.2673,5.1394,Healthy: growing & gaining share
+MS-TN-051,South,Tamil Nadu,TN56,Perundurai Rto,552,453,0.2185,1583,0.049,0.3487,0.3002,4.8506,16.9504,Tata Motors,0.9924,0.3527,6.0,0.1732,0.2156,4.0946,Healthy: growing & gaining share
+MS-TN-052,South,Tamil Nadu,TN562,Neyveli Uo,389,371,0.0485,1133,0.2519,0.3433,0.4099,-6.6608,-20.3416,Tata Motors,6.9891,0.3527,11.0,-0.0052,0.2703,-1.6177,Hidden risk: growing but losing share
+MS-TN-053,South,Tamil Nadu,TN57,Dindigul Rto,730,668,0.0928,2197,0.0005,0.3323,0.3042,2.8082,9.2359,Toyota,1.5447,0.3527,45.0,0.0826,0.2465,2.8596,Healthy: growing & gaining share
+MS-TN-054,South,Tamil Nadu,TN578,Bhavani Uo,446,438,0.0183,1145,-0.0052,0.3895,0.3805,0.8981,2.3478,Toyota,2.6424,0.3527,0.0,-0.1597,0.2478,-1.762,Healthy: growing & gaining share
+MS-TN-055,South,Tamil Nadu,TN579,Sathyamangalam Uo,347,326,0.0644,787,-0.0284,0.4409,0.4025,3.8446,9.2812,Hyundai,1.9224,0.3527,0.0,-0.1326,0.3356,3.8667,Healthy: growing & gaining share
+MS-TN-056,South,Tamil Nadu,TN58,Madurai (South) Rto,925,863,0.0718,2941,0.0793,0.3145,0.3167,-0.2178,-0.7424,Toyota,2.0683,0.3527,112.0,0.0579,0.1837,-0.1008,Hidden risk: growing but losing share
+MS-TN-057,South,Tamil Nadu,TN580,Avinashi Uo,541,534,0.0131,1336,-0.0997,0.4049,0.3598,4.5102,11.2839,Mahindra,0.2288,0.3527,0.0,-0.0854,0.175,3.1338,Healthy: growing & gaining share
+MS-TN-058,South,Tamil Nadu,TN582,Gudalore Uo,366,352,0.0398,707,0.0995,0.5177,0.5474,-2.9754,-5.9761,Hyundai,3.7679,0.3527,0.0,-0.065,0.2668,-1.6523,Hidden risk: growing but losing share
+MS-TN-059,South,Tamil Nadu,TN583,Tiruveranbur Uo,433,360,0.2028,1093,0.1256,0.3962,0.3708,2.5406,7.7134,Hyundai,1.3428,0.3527,0.0,0.2874,0.2609,0.0868,Healthy: growing & gaining share
+MS-TN-060,South,Tamil Nadu,TN584,Manaparai Uo,248,167,0.485,637,0.0945,0.3893,0.2869,10.2383,39.0528,Mahindra,3.472,0.3527,0.0,0.4615,0.3357,5.6037,Healthy: growing & gaining share
+MS-TN-061,South,Tamil Nadu,TN585,Kulithali Uo,295,166,0.7771,634,0.1633,0.4653,0.3046,16.0713,61.3806,Honda Cars,0.7114,0.3527,0.0,0.5053,0.4246,11.605,Healthy: growing & gaining share
+MS-TN-062,South,Tamil Nadu,TN587,Pattukottai Unit Office,401,350,0.1457,957,0.0925,0.419,0.3995,1.9474,5.3249,Toyota,3.5034,0.3527,0.0,0.0161,0.2873,0.9157,Healthy: growing & gaining share
+MS-TN-063,South,Tamil Nadu,TN588,Mannargudi Uo,353,307,0.1498,823,0.0633,0.4289,0.3966,3.2278,8.653,Toyota,0.9212,0.3527,0.0,0.0823,0.2403,1.9818,Healthy: growing & gaining share
+MS-TN-064,South,Tamil Nadu,TN589,Mayiladuthurai Rto,493,333,0.4805,1091,0.2258,0.4519,0.3742,7.7722,25.4638,Toyota,1.4042,0.3527,0.0,0.4237,0.2607,6.7,Healthy: growing & gaining share
+MS-TN-065,South,Tamil Nadu,TN59,Madurai (North) Rto,1781,1507,0.1818,5139,0.0835,0.3466,0.3177,2.8834,9.8327,Toyota,0.9411,0.3527,31.0,0.0839,0.2016,2.3416,Healthy: growing & gaining share
+MS-TN-066,South,Tamil Nadu,TN590,Mettur Rto,539,548,-0.0164,1236,-0.0411,0.4361,0.4251,1.0948,2.4694,Hyundai,1.0242,0.3527,0.0,-0.0383,0.2443,2.3293,Market-driven dip: falling but holding share
+MS-TN-067,South,Tamil Nadu,TN591,Attur Rto,676,507,0.3333,1571,0.2814,0.4303,0.4135,1.6759,5.193,Skoda-VW,0.8233,0.3527,0.0,0.221,0.2546,2.0152,Healthy: growing & gaining share
+MS-TN-068,South,Tamil Nadu,TN592,Aranthangi Uo,330,294,0.1224,795,0.014,0.4151,0.375,4.0094,10.8418,Kia,0.8258,0.3527,0.0,0.1986,0.2398,2.327,Healthy: growing & gaining share
+MS-TN-069,South,Tamil Nadu,TN593,Kangeyam Uo,323,258,0.2519,770,0.1441,0.4195,0.3834,3.6122,10.7807,Mahindra,3.3662,0.3527,0.0,0.0698,0.3243,2.186,Healthy: growing & gaining share
+MS-TN-070,South,Tamil Nadu,TN594,Dharapuram Rto,344,319,0.0784,919,0.0812,0.3743,0.3753,-0.0974,-0.2807,Toyota,3.558,0.3527,0.0,-0.0895,0.3255,2.6932,Hidden risk: growing but losing share
+MS-TN-071,South,Tamil Nadu,TN596,Batlagundu Uo,314,220,0.4273,939,0.2621,0.3344,0.2957,3.8699,16.5176,Mahindra,1.6292,0.3527,17.0,0.6422,0.2762,5.6699,Healthy: growing & gaining share
+MS-TN-072,South,Tamil Nadu,TN597,Palani Rto,268,210,0.2762,765,0.1087,0.3503,0.3043,4.5979,16.7495,Mahindra,1.4436,0.3527,2.0,0.1525,0.3172,3.3287,Healthy: growing & gaining share
+MS-TN-073,South,Tamil Nadu,TN598,Thirumangalam Uo,349,259,0.3475,952,0.1213,0.3666,0.3051,6.1532,22.6171,Toyota,3.4023,0.3527,0.0,0.4597,0.3302,5.106,Healthy: growing & gaining share
+MS-TN-074,South,Tamil Nadu,TN6,Chennai (South-East) Rto,1073,999,0.0741,3974,0.0033,0.27,0.2522,1.7796,7.0792,Mahindra,3.6739,0.3527,329.0,-0.0273,0.1824,0.9674,Healthy: growing & gaining share
+MS-TN-075,South,Tamil Nadu,TN60,Theni Rto,594,503,0.1809,1633,0.1508,0.3637,0.3545,0.9273,3.0104,Hyundai,1.5658,0.3527,0.0,0.1622,0.2869,1.8549,Healthy: growing & gaining share
+MS-TN-076,South,Tamil Nadu,TN601,Uthamapalayam Uo,423,378,0.119,1149,0.085,0.3681,0.3569,1.1206,3.4062,Toyota,1.1968,0.3527,0.0,0.0464,0.2749,1.1604,Healthy: growing & gaining share
+MS-TN-077,South,Tamil Nadu,TN602,Karaikudi Uo,795,762,0.0433,1945,0.0429,0.4087,0.4086,0.0161,0.0412,Kia,2.1952,0.3527,0.0,0.0509,0.1875,1.2872,Healthy: growing & gaining share
+MS-TN-078,South,Tamil Nadu,TN603,Paramakudi Uo,505,314,0.6083,1096,0.2894,0.4608,0.3694,9.1355,31.8868,Toyota,0.4156,0.3527,0.0,0.8851,0.3691,8.4829,Healthy: growing & gaining share
+MS-TN-079,South,Tamil Nadu,TN604,Sivakasi Rto,518,476,0.0882,1518,0.0134,0.3412,0.3178,2.3481,7.4884,Toyota,2.2985,0.3527,17.0,0.1277,0.2054,1.8734,Healthy: growing & gaining share
+MS-TN-080,South,Tamil Nadu,TN605,Srivilliputhur Rto,315,270,0.1667,704,0.141,0.4474,0.4376,0.9842,2.5662,Toyota,0.6156,0.3527,0.0,0.1168,0.2837,0.4498,Healthy: growing & gaining share
+MS-TN-081,South,Tamil Nadu,TN606,Thiruchendur Rto,597,455,0.3121,1387,0.1008,0.4304,0.3611,6.9314,21.1294,Kia,1.2882,0.3527,0.0,0.1805,0.3789,7.9374,Healthy: growing & gaining share
+MS-TN-082,South,Tamil Nadu,TN607,Kovilpatti Rto,449,394,0.1396,1325,0.0799,0.3389,0.3211,1.776,5.9724,Mahindra,1.8731,0.3527,18.0,0.1415,0.3091,1.0976,Healthy: growing & gaining share
+MS-TN-083,South,Tamil Nadu,TN609,Arakkonam Uo,274,274,0.0,763,0.0656,0.3591,0.3827,-2.3573,-6.5642,Hyundai,2.1395,0.3527,0.0,0.0296,0.2598,-2.0124,Hidden risk: growing but losing share
+MS-TN-084,South,Tamil Nadu,TN61,Ariyalur Rto,649,478,0.3577,1532,0.1739,0.4236,0.3663,5.7346,18.3794,Hyundai,1.5976,0.3527,0.0,0.3822,0.2996,6.0435,Healthy: growing & gaining share
+MS-TN-085,South,Tamil Nadu,TN611,Ambasamuthiram Uo,299,213,0.4038,681,0.1843,0.4391,0.3704,6.8625,21.9408,Mahindra,2.9861,0.3527,0.0,0.2689,0.4351,5.8516,Healthy: growing & gaining share
+MS-TN-086,South,Tamil Nadu,TN612,Ambattur Rto,1795,1630,0.1012,5906,0.0451,0.3039,0.2884,1.5484,5.6102,Mahindra,1.5299,0.3527,288.0,0.0366,0.1948,0.9047,Healthy: growing & gaining share
+MS-TN-087,South,Tamil Nadu,TN614,Sriperumbudur Rto,536,384,0.3958,2097,0.1631,0.2556,0.213,4.2625,23.2772,Toyota,1.8665,0.3527,204.0,0.2547,0.2468,4.2955,Healthy: growing & gaining share
+MS-TN-088,South,Tamil Nadu,TN615,Kallakurichi Rto,559,423,0.3215,1391,0.2245,0.4019,0.3724,2.951,9.7041,Kia,0.8466,0.3527,0.0,0.3073,0.2626,2.2367,Healthy: growing & gaining share
+MS-TN-089,South,Tamil Nadu,TN620,Sulur Uo,1008,827,0.2189,2821,0.0311,0.3573,0.3023,5.5054,18.7796,Toyota,0.7221,0.3527,0.0,0.1429,0.2988,4.6244,Healthy: growing & gaining share
+MS-TN-090,South,Tamil Nadu,TN621,Musuri Uo,270,189,0.4286,652,0.1399,0.4141,0.3304,8.3691,28.8711,Toyota,1.5187,0.3527,0.0,0.3131,0.3191,6.1287,Healthy: growing & gaining share
+MS-TN-091,South,Tamil Nadu,TN623,Sirkali Uo,271,213,0.2723,533,0.1612,0.5084,0.4641,4.439,11.108,Hyundai,3.5288,0.3527,0.0,0.2,0.3118,1.3608,Healthy: growing & gaining share
+MS-TN-092,South,Tamil Nadu,TN624,Thirupattur Rto,384,333,0.1532,1128,0.1726,0.3404,0.3462,-0.5728,-1.9404,Toyota,3.4351,0.3527,14.0,0.2711,0.2509,-0.1714,Hidden risk: growing but losing share
+MS-TN-093,South,Tamil Nadu,TN625,Gummidipoondi Uo,340,239,0.4226,977,0.19,0.348,0.2911,5.6896,23.2582,Tata Motors,2.1307,0.3527,5.0,0.3386,0.323,3.1756,Healthy: growing & gaining share
+MS-TN-094,South,Tamil Nadu,TN626,Panruti Uo,268,135,0.9852,575,0.3098,0.4661,0.3075,15.857,67.539,Kia,1.1881,0.3527,0.0,0.6,0.5655,18.4597,Healthy: growing & gaining share
+MS-TN-095,South,Tamil Nadu,TN629,Illuppur Uo,245,168,0.4583,668,0.2279,0.3668,0.3088,5.7943,23.0392,MG Motor,0.3467,0.3527,0.0,0.2188,0.3056,3.7314,Healthy: growing & gaining share
+MS-TN-096,South,Tamil Nadu,TN63,Sivagangai Rto,943,686,0.3746,2154,0.2156,0.4378,0.3871,5.0657,15.906,Kia,0.248,0.3527,0.0,0.3802,0.256,5.2863,Healthy: growing & gaining share
+MS-TN-097,South,Tamil Nadu,TN634,Thiruthani Uo,265,218,0.2156,597,0.1076,0.4439,0.4045,3.9433,10.799,Renault,1.8298,0.3527,0.0,0.3204,0.3456,-0.0256,Healthy: growing & gaining share
+MS-TN-098,South,Tamil Nadu,TN635,Cheyyar Uo,408,313,0.3035,859,0.1687,0.475,0.4259,4.9121,13.4807,Toyota,1.1767,0.3527,0.0,0.2418,0.2763,6.4776,Healthy: growing & gaining share
+MS-TN-099,South,Tamil Nadu,TN638,Kumarapalayam Rto,370,330,0.1212,972,0.0635,0.3807,0.3611,1.9608,5.7755,Toyota,2.2913,0.3527,0.0,0.0962,0.2331,1.6063,Healthy: growing & gaining share
+MS-TN-100,South,Tamil Nadu,TN639,Thirukalukuntram Uo,405,289,0.4014,893,0.2886,0.4535,0.417,3.65,11.2784,MG Motor,0.9109,0.3527,0.0,0.1925,0.3239,2.5052,Healthy: growing & gaining share
+MS-TN-101,South,Tamil Nadu,TN64,Madurai (Central) Rto,763,715,0.0671,2147,0.0204,0.3554,0.3398,1.5551,4.6696,Toyota,1.8848,0.3527,0.0,0.1506,0.2286,1.7634,Healthy: growing & gaining share
+MS-TN-102,South,Tamil Nadu,TN643,Rajapalayam Uo,261,205,0.2732,634,0.1444,0.4117,0.37,4.1636,12.8766,Mahindra,2.4855,0.3527,0.0,0.2843,0.3529,3.1286,Healthy: growing & gaining share
+MS-TN-103,South,Tamil Nadu,TN66,Coimbatore (Central) Rto,1864,1650,0.1297,6067,0.0181,0.3072,0.2769,3.0344,11.1573,Toyota,3.1263,0.3527,276.0,0.0819,0.2143,2.787,Healthy: growing & gaining share
+MS-TN-104,South,Tamil Nadu,TN67,Virudhunagar Rto,434,361,0.2022,1161,0.014,0.3738,0.3153,5.8532,18.8242,Mahindra,2.4383,0.3527,0.0,0.25,0.2823,5.8508,Healthy: growing & gaining share
+MS-TN-105,South,Tamil Nadu,TN68,Kumbakonam Rto,796,606,0.3135,2106,0.1323,0.378,0.3258,5.2161,18.1273,Toyota,1.7174,0.3527,0.0,0.3344,0.2356,4.5016,Healthy: growing & gaining share
+MS-TN-106,South,Tamil Nadu,TN69,Thoothukudi Rto,1286,949,0.3551,3374,0.2515,0.3811,0.352,2.9147,10.3627,Toyota,1.5583,0.3527,0.0,0.4487,0.3015,2.5899,Healthy: growing & gaining share
+MS-TN-107,South,Tamil Nadu,TN7,Chennai (South) Rto,2505,1957,0.28,8310,0.126,0.3014,0.2652,3.6268,15.4004,Toyota,1.5826,0.3527,426.0,0.283,0.1869,2.9179,Healthy: growing & gaining share
+MS-TN-108,South,Tamil Nadu,TN72,Tirunelveli Rto,1377,1124,0.2251,3879,0.1673,0.355,0.3382,1.674,5.777,Toyota,1.7132,0.3527,0.0,0.2612,0.2109,1.386,Healthy: growing & gaining share
+MS-TN-109,South,Tamil Nadu,TN73,Ranipet Rto,583,518,0.1255,1704,0.093,0.3421,0.3323,0.9872,3.2474,Mahindra,2.2943,0.3527,18.0,0.2789,0.2265,1.0936,Healthy: growing & gaining share
+MS-TN-110,South,Tamil Nadu,TN74,Nagercoil Rto,1315,1157,0.1366,3409,0.0958,0.3857,0.3719,1.3837,4.0771,Toyota,1.7407,0.3527,0.0,0.0831,0.1835,0.8232,Healthy: growing & gaining share
+MS-TN-111,South,Tamil Nadu,TN75,Marthandam Rto,1809,1671,0.0826,4210,0.0831,0.4297,0.4299,-0.0203,-0.0512,Hyundai,1.2373,0.3527,0.0,-0.0333,0.1962,1.1865,Hidden risk: growing but losing share
+MS-TN-112,South,Tamil Nadu,TN76,Tenkasi Rto,719,515,0.3961,1648,0.1031,0.4363,0.3447,9.1574,29.3038,MG Motor,0.8433,0.3527,0.0,0.3858,0.3228,8.6499,Healthy: growing & gaining share
+MS-TN-113,South,Tamil Nadu,TN81,Tiruchi(East) Rto,303,241,0.2573,923,0.1639,0.3283,0.3039,2.4368,9.3327,Toyota,2.8844,0.3527,23.0,0.2114,0.2783,1.968,Healthy: growing & gaining share
+MS-TN-114,South,Tamil Nadu,TN85,Kundrathur Rto,1276,1090,0.1706,3551,0.0581,0.3593,0.3248,3.4544,11.2537,Hyundai,1.1288,0.3527,0.0,0.139,0.1969,3.9124,Healthy: growing & gaining share
+MS-TN-115,South,Tamil Nadu,TN86,Erode (West) Rto,400,418,-0.0431,1157,-0.0261,0.3457,0.3519,-0.613,-1.6968,Hyundai,3.0935,0.3527,8.0,0.068,0.359,0.4379,Clear decline: falling & losing share
+MS-TN-116,South,Tamil Nadu,TN88,Namakkal (South) Rto,456,376,0.2128,1323,0.1298,0.3447,0.3211,2.3578,8.2962,Mahindra,0.4768,0.3527,11.0,0.05,0.2455,2.2426,Healthy: growing & gaining share
+MS-TN-117,South,Tamil Nadu,TN9,Chennai (West) Rto,2736,2195,0.2465,8370,0.0968,0.3269,0.2876,3.9239,14.9627,Toyota,1.2228,0.3527,216.0,0.1256,0.3436,3.3197,Healthy: growing & gaining share
+MS-TN-118,South,Tamil Nadu,TN90,Salem (South) Rto,531,520,0.0212,1239,0.0672,0.4286,0.4479,-1.9318,-4.603,Tata Motors,2.8138,0.3527,0.0,-0.026,0.3011,-0.5368,Hidden risk: growing but losing share
+MS-TN-119,South,Tamil Nadu,TN99,Coimbatore (West) Rto,1676,1412,0.187,4620,0.1184,0.3628,0.3418,2.0965,6.8596,Toyota,2.1479,0.3527,0.0,0.0526,0.2196,2.4655,Healthy: growing & gaining share
+MS-TR-001,North-East,Tripura,TR1,West Tripura Jtc,1633,1186,0.3769,4428,0.1106,0.3688,0.2975,7.1323,26.6288,Toyota,0.51,0.4129,195.0,0.4221,0.2959,4.75,Healthy: growing & gaining share
+MS-TR-002,North-East,Tripura,TR3,Gomati Dto,428,377,0.1353,841,0.1568,0.5089,0.5186,-0.9652,-2.153,Tata Motors,2.3598,0.4129,0.0,0.1667,0.2344,0.4491,Hidden risk: growing but losing share
+MS-TR-003,North-East,Tripura,TR5,North Tripura Dto,329,238,0.3824,1049,0.2731,0.3136,0.2888,2.4797,10.9295,Tata Motors,12.5448,0.4129,104.0,0.7822,0.2927,-0.3382,Healthy: growing & gaining share
+MS-TR-004,North-East,Tripura,TR6,Khowai Dto,294,174,0.6897,545,0.5139,0.5394,0.4833,5.6116,17.5766,Toyota,0.1835,0.4129,0.0,1.0395,0.3735,9.3038,Healthy: growing & gaining share
+MS-TR-005,North-East,Tripura,TR7,Sepahijala Dto,445,326,0.365,715,0.3265,0.6224,0.6048,1.7554,3.85,Tata Motors,1.1959,0.4129,0.0,0.3822,0.3288,1.5462,Healthy: growing & gaining share
+MS-UK-001,North,Uttarakhand,UK1,Almora Rto,317,355,-0.107,659,-0.0599,0.481,0.5064,-2.5388,-4.7128,Toyota,1.2776,0.3895,0.0,0.0111,0.2702,-0.2063,Clear decline: falling & losing share
+MS-UK-002,North,Uttarakhand,UK11,Karanprayag Arto,755,716,0.0545,1091,-0.0145,0.692,0.6468,4.5233,6.8923,Tata Motors,1.3068,0.3895,0.0,0.0514,0.3007,2.2461,Healthy: growing & gaining share
+MS-UK-003,North,Uttarakhand,UK12,Pauri Rto,373,326,0.1442,662,0.2015,0.5634,0.5917,-2.8207,-5.728,Mahindra,2.9732,0.3895,0.0,0.2577,0.306,-0.7279,Hidden risk: growing but losing share
+MS-UK-004,North,Uttarakhand,UK13,Rudraprayag Arto,456,406,0.1232,700,0.0145,0.6514,0.5884,6.3023,10.866,Toyota,0.5652,0.3895,0.0,0.2407,0.3324,4.1763,Healthy: growing & gaining share
+MS-UK-005,North,Uttarakhand,UK14,Rishikesh Arto,921,771,0.1946,2368,0.0553,0.3889,0.3436,4.5353,13.9294,Toyota,2.1266,0.3895,1.0,0.1886,0.3133,5.2643,Healthy: growing & gaining share
+MS-UK-006,North,Uttarakhand,UK15,Kotdwar Arto,513,483,0.0621,1291,-0.0115,0.3974,0.3698,2.7535,7.3597,Toyota,2.7618,0.3895,0.0,0.0037,0.2456,2.9064,Healthy: growing & gaining share
+MS-UK-007,North,Uttarakhand,UK17,Roorkee Arto,1831,1457,0.2567,4487,0.1761,0.4081,0.3819,2.6154,8.0545,Kia,3.365,0.3895,0.0,0.2252,0.2412,2.1502,Healthy: growing & gaining share
+MS-UK-008,North,Uttarakhand,UK18,Kashipur Arto,1317,1045,0.2603,3585,0.2483,0.3674,0.3639,0.3506,1.2028,Mahindra,3.7882,0.3895,79.0,0.4089,0.3154,-0.7419,Healthy: growing & gaining share
+MS-UK-009,North,Uttarakhand,UK19,Ramnagar Arto,470,355,0.3239,948,0.3466,0.4958,0.5043,-0.8481,-2.2647,Toyota,2.0929,0.3895,0.0,0.4323,0.2562,-1.6269,Hidden risk: growing but losing share
+MS-UK-010,North,Uttarakhand,UK2,Bageshwar Arto,275,254,0.0827,509,0.1542,0.5403,0.576,-3.5689,-7.1518,Mahindra,1.8363,0.3895,0.0,0.1314,0.3349,-2.7477,Hidden risk: growing but losing share
+MS-UK-011,North,Uttarakhand,UK20,Ranikhet Arto,285,159,0.7925,444,0.6087,0.6419,0.5761,6.5805,18.3757,Toyota,1.9781,0.3895,0.0,0.78,0.5081,6.8994,Healthy: growing & gaining share
+MS-UK-012,North,Uttarakhand,UK3,Tanakpur Arto,394,247,0.5951,787,0.4849,0.5006,0.466,3.4598,11.0236,Mahindra,1.5782,0.3895,0.0,0.7883,0.4148,3.1525,Healthy: growing & gaining share
+MS-UK-013,North,Uttarakhand,UK4,Haldwani Rto,2306,2160,0.0676,7276,0.0755,0.3169,0.3193,-0.2358,-0.7943,Mahindra,2.4067,0.3895,528.0,0.1184,0.2209,0.0076,Hidden risk: growing but losing share
+MS-UK-014,North,Uttarakhand,UK5,Pithoragarh Arto,763,671,0.1371,1346,0.1359,0.5669,0.5662,0.062,0.1244,Hyundai,2.2369,0.3895,0.0,0.2254,0.2764,0.3766,Healthy: growing & gaining share
+MS-UK-015,North,Uttarakhand,UK6,Udham Singh Nagar Arto,1890,1556,0.2147,6558,0.1671,0.2882,0.2769,1.128,4.7541,Kia,1.2968,0.3895,664.0,0.2939,0.2497,0.641,Healthy: growing & gaining share
+MS-UK-016,North,Uttarakhand,UK7,Dehradun Rto,10139,8344,0.2151,26883,0.1332,0.3772,0.3517,2.5427,8.1921,Toyota,0.8251,0.3895,331.0,0.2458,0.2205,2.7702,Healthy: growing & gaining share
+MS-UK-017,North,Uttarakhand,UK8,Haridwar Arto,2142,1749,0.2247,5384,0.0997,0.3978,0.3572,4.0615,12.5027,Kia,1.6847,0.3895,0.0,0.186,0.2487,4.7036,Healthy: growing & gaining share
+MS-UK-018,North,Uttarakhand,UK9,Tehri Arto,435,413,0.0533,708,0.0458,0.6144,0.61,0.4362,0.7479,Tata Motors,2.5328,0.3895,0.0,0.1773,0.4086,2.9136,Healthy: growing & gaining share
+MS-UP-001,North,Uttar Pradesh,UP11,Saharanpur Rto,2575,1970,0.3071,6550,0.1595,0.3931,0.3487,4.4395,14.7609,Mahindra,0.7843,0.3891,0.0,0.2033,0.2994,5.9343,Healthy: growing & gaining share
+MS-UP-002,North,Uttar Pradesh,UP12,Muzaffarnagar,3107,2425,0.2812,7039,0.1642,0.4414,0.4011,4.0306,11.6996,Toyota,0.6352,0.3891,0.0,0.1999,0.2212,3.7501,Healthy: growing & gaining share
+MS-UP-003,North,Uttar Pradesh,UP13,Bulandshahar,4791,3584,0.3368,9222,0.2121,0.5195,0.4711,4.8435,12.4629,Skoda-VW,0.1932,0.3891,0.0,0.302,0.3058,5.6933,Healthy: growing & gaining share
+MS-UP-004,North,Uttar Pradesh,UP14,Ghaziabad,17425,13249,0.3152,43662,0.1814,0.3991,0.3585,4.06,13.3799,Mahindra,1.0793,0.3891,0.0,0.2599,0.2204,3.3476,Healthy: growing & gaining share
+MS-UP-005,North,Uttar Pradesh,UP15,Meerut Rto,7600,6236,0.2187,19913,0.1556,0.3817,0.3619,1.9754,6.308,Toyota,0.5667,0.3891,148.0,0.2152,0.2471,2.131,Healthy: growing & gaining share
+MS-UP-006,North,Uttar Pradesh,UP16,Noida,19683,14858,0.3247,57962,0.1965,0.3396,0.3067,3.2867,12.8217,Mahindra,1.8925,0.3891,2869.0,0.2484,0.1998,3.2073,Healthy: growing & gaining share
+MS-UP-007,North,Uttar Pradesh,UP17,Baghpat,1931,1431,0.3494,3809,0.2279,0.507,0.4613,4.5642,12.1489,Toyota,0.4266,0.3891,0.0,0.2839,0.2876,4.9751,Healthy: growing & gaining share
+MS-UP-008,North,Uttar Pradesh,UP19,Shamli Arto,1326,980,0.3531,2985,0.2304,0.4442,0.404,4.0264,12.2641,Mahindra,0.9328,0.3891,0.0,0.3721,0.255,2.9149,Healthy: growing & gaining share
+MS-UP-009,North,Uttar Pradesh,UP20,Bijnor,2776,2327,0.193,6307,0.1112,0.4401,0.41,3.0174,8.1782,Honda Cars,0.2325,0.3891,0.0,0.1561,0.2847,2.0275,Healthy: growing & gaining share
+MS-UP-010,North,Uttar Pradesh,UP21,Moradabad,2768,2429,0.1396,7699,0.0023,0.3595,0.3162,4.3292,13.722,Kia,1.2495,0.3891,228.0,0.1415,0.2336,4.2018,Healthy: growing & gaining share
+MS-UP-011,North,Uttar Pradesh,UP22,Arto Office Rampur,1369,1066,0.2842,3151,0.1895,0.4345,0.4024,3.2049,9.4735,Mahindra,2.7041,0.3891,0.0,0.2362,0.2407,3.9295,Healthy: growing & gaining share
+MS-UP-012,North,Uttar Pradesh,UP23,Jpnagar,1647,1318,0.2496,3778,0.138,0.4359,0.397,3.8957,11.1669,Kia,0.8944,0.3891,0.0,0.198,0.3502,4.0855,Healthy: growing & gaining share
+MS-UP-013,North,Uttar Pradesh,UP24,Badaun,1536,1365,0.1253,3561,0.091,0.4313,0.4182,1.3141,3.4282,Mahindra,2.324,0.3891,0.0,0.1217,0.2947,1.4537,Healthy: growing & gaining share
+MS-UP-014,North,Uttar Pradesh,UP25,Bareilly,3884,3890,-0.0015,10643,0.0669,0.3649,0.3899,-2.5001,-6.8403,Mahindra,2.5933,0.3891,257.0,-0.0145,0.2425,-1.8683,Clear decline: falling & losing share
+MS-UP-015,North,Uttar Pradesh,UP26,Pilibhit,1097,1082,0.0139,2397,0.0345,0.4577,0.467,-0.9328,-2.0664,Mahindra,2.0104,0.3891,0.0,-0.018,0.2597,0.2391,Hidden risk: growing but losing share
+MS-UP-016,North,Uttar Pradesh,UP27,Sahjahanpur,1761,1502,0.1724,3861,0.1413,0.4561,0.444,1.2115,3.1142,Kia,0.5208,0.3891,0.0,0.0426,0.2733,1.1651,Healthy: growing & gaining share
+MS-UP-017,North,Uttar Pradesh,UP30,Hardoi,1676,1433,0.1696,3528,0.1776,0.4751,0.4783,-0.3248,-0.7996,Tata Motors,0.7746,0.3891,0.0,0.1146,0.3092,-0.5491,Hidden risk: growing but losing share
+MS-UP-018,North,Uttar Pradesh,UP31,Lakhimpur Kheri,1122,1044,0.0747,2920,0.0982,0.3842,0.3926,-0.8382,-2.3445,Hyundai,1.4016,0.3891,14.0,0.0753,0.3371,1.5496,Hidden risk: growing but losing share
+MS-UP-019,North,Uttar Pradesh,UP32,Transport Nagar Rto Lucknow (Up32),24185,18500,0.3073,63785,0.284,0.3792,0.3724,0.6751,2.3277,Mahindra,1.0286,0.3891,633.0,0.3112,0.2911,0.7384,Healthy: growing & gaining share
+MS-UP-020,North,Uttar Pradesh,UP33,Raibareilly,1422,1409,0.0092,3473,-0.0029,0.4094,0.4045,0.4908,1.2097,Tata Motors,3.5161,0.3891,0.0,0.0157,0.2548,0.8558,Healthy: growing & gaining share
+MS-UP-021,North,Uttar Pradesh,UP34,Sitapur,829,765,0.0837,2170,0.0294,0.382,0.3629,1.9124,5.4248,Hyundai,1.7051,0.3891,15.0,0.0065,0.3325,4.6032,Healthy: growing & gaining share
+MS-UP-022,North,Uttar Pradesh,UP35,Unnao,1134,1130,0.0035,2901,-0.0106,0.3909,0.3854,0.5497,1.4113,Mahindra,1.7672,0.3891,0.0,-0.0898,0.2331,1.1839,Healthy: growing & gaining share
+MS-UP-023,North,Uttar Pradesh,UP36,Amethi Arto,387,325,0.1908,1141,0.1275,0.3392,0.3211,1.803,6.3299,Hyundai,2.0801,0.3891,57.0,0.1611,0.2877,0.8325,Healthy: growing & gaining share
+MS-UP-024,North,Uttar Pradesh,UP37,Hapur,2347,1777,0.3208,4908,0.2068,0.4782,0.4369,4.1267,11.3979,Mahindra,1.6348,0.3891,0.0,0.3088,0.2822,4.1334,Healthy: growing & gaining share
+MS-UP-025,North,Uttar Pradesh,UP38,Sambhal Arto,1106,929,0.1905,2977,0.2019,0.3715,0.3751,-0.3536,-1.133,Mahindra,1.7139,0.3891,52.0,0.1238,0.2714,0.9268,Hidden risk: growing but losing share
+MS-UP-026,North,Uttar Pradesh,UP40,Bahraich,314,313,0.0032,1278,-0.0712,0.2457,0.2275,1.8225,7.4416,Hyundai,2.2732,0.3891,183.0,-0.1257,0.2847,2.2325,Healthy: growing & gaining share
+MS-UP-027,North,Uttar Pradesh,UP41,Barabanki Arto,435,414,0.0507,1263,0.0438,0.3444,0.3421,0.2269,0.6923,Mahindra,3.2843,0.3891,56.0,0.1558,0.3831,1.0503,Healthy: growing & gaining share
+MS-UP-028,North,Uttar Pradesh,UP42,Ayodhya Rto,1631,1251,0.3038,4333,0.2423,0.3764,0.3587,1.7755,6.1498,Kia,1.6251,0.3891,55.0,0.4111,0.273,1.3096,Healthy: growing & gaining share
+MS-UP-029,North,Uttar Pradesh,UP43,Gonda,622,647,-0.0386,1808,-0.0071,0.344,0.3553,-1.1273,-3.1501,Tata Motors,3.5449,0.3891,81.0,-0.1219,0.253,0.2368,Clear decline: falling & losing share
+MS-UP-030,North,Uttar Pradesh,UP44,Sultanpur,740,575,0.287,1977,0.1214,0.3743,0.3261,4.8156,16.5573,Toyota,0.2588,0.3891,29.0,0.2312,0.248,4.7586,Healthy: growing & gaining share
+MS-UP-031,North,Uttar Pradesh,UP45,Akbarpur(Ambedkar Nagar),873,720,0.2125,2117,0.0997,0.4124,0.374,3.835,11.276,Tata Motors,3.038,0.3891,0.0,0.2541,0.2359,3.3879,Healthy: growing & gaining share
+MS-UP-032,North,Uttar Pradesh,UP50,Azamgarh Rto,2237,1774,0.261,5396,0.1348,0.4146,0.3731,4.1485,12.6187,Kia,2.3876,0.3891,0.0,0.2548,0.2217,2.6157,Healthy: growing & gaining share
+MS-UP-033,North,Uttar Pradesh,UP51,Basti Rto,1836,1497,0.2265,4030,0.1365,0.4556,0.4222,3.3417,8.9961,Hyundai,1.1664,0.3891,0.0,0.2088,0.2561,3.603,Healthy: growing & gaining share
+MS-UP-034,North,Uttar Pradesh,UP52,Deoria,2110,1676,0.2589,4329,0.1646,0.4874,0.4509,3.6509,9.4301,Toyota,0.4449,0.3891,0.0,0.1701,0.2465,2.2821,Healthy: growing & gaining share
+MS-UP-035,North,Uttar Pradesh,UP53,Gorakhpur Rto,5645,4840,0.1663,12908,0.1269,0.4373,0.4226,1.4766,3.938,Toyota,0.5681,0.3891,0.0,0.1282,0.2055,0.4324,Healthy: growing & gaining share
+MS-UP-036,North,Uttar Pradesh,UP54,Mau,1035,851,0.2162,2518,0.1799,0.411,0.3988,1.2259,3.6272,Hyundai,0.8552,0.3891,0.0,0.1716,0.1939,0.2212,Healthy: growing & gaining share
+MS-UP-037,North,Uttar Pradesh,UP55,Siddharth Nagar(Naugarh),1102,960,0.1479,2132,0.0978,0.5169,0.4943,2.255,5.0079,Hyundai,0.5837,0.3891,0.0,0.0602,0.2126,1.4723,Healthy: growing & gaining share
+MS-UP-038,North,Uttar Pradesh,UP56,Maharajganj,1076,862,0.2483,2355,0.1493,0.4569,0.4207,3.6207,9.8919,Tata Motors,1.1089,0.3891,0.0,0.3341,0.2517,1.8631,Healthy: growing & gaining share
+MS-UP-039,North,Uttar Pradesh,UP57,Padrauna(Kushi Nagar),1849,1529,0.2093,3639,0.0773,0.5081,0.4526,5.5472,13.2022,Kia,0.2214,0.3891,0.0,0.1497,0.2127,4.2098,Healthy: growing & gaining share
+MS-UP-040,North,Uttar Pradesh,UP58,Sant Kabir Nagar,700,670,0.0448,1665,0.0632,0.4204,0.4278,-0.7421,-1.8442,Tata Motors,4.7499,0.3891,0.0,0.0534,0.1929,-2.0712,Hidden risk: growing but losing share
+MS-UP-041,North,Uttar Pradesh,UP60,Ballia,1079,883,0.222,2905,0.1718,0.3714,0.3562,1.5237,5.0127,Toyota,1.1021,0.3891,51.0,0.203,0.2273,0.8151,Healthy: growing & gaining share
+MS-UP-042,North,Uttar Pradesh,UP61,Ghazipur,1270,1058,0.2004,3463,0.1071,0.3667,0.3382,2.8499,9.3281,Hyundai,0.451,0.3891,77.0,0.2022,0.2076,1.32,Healthy: growing & gaining share
+MS-UP-043,North,Uttar Pradesh,UP62,Jaunpur,1949,1767,0.103,4469,0.0425,0.4361,0.4122,2.3939,6.0546,Hyundai,0.4255,0.3891,0.0,0.0574,0.1821,0.8666,Healthy: growing & gaining share
+MS-UP-044,North,Uttar Pradesh,UP63,Mirzapur Rto,1008,870,0.1586,3023,0.0342,0.3334,0.2976,3.5804,12.4409,Toyota,0.5558,0.3891,168.0,0.1225,0.3039,3.9362,Healthy: growing & gaining share
+MS-UP-045,North,Uttar Pradesh,UP64,Sonbhadra,823,679,0.2121,4025,-0.0394,0.2045,0.1621,4.242,25.1456,Hyundai,2.0639,0.3891,743.0,0.1488,0.2701,4.0113,Healthy: growing & gaining share
+MS-UP-046,North,Uttar Pradesh,UP65,Varanasi Rto,4808,4514,0.0651,15066,0.1198,0.3191,0.3355,-1.6384,-5.4685,Hyundai,1.6455,0.3891,1054.0,0.097,0.2027,-2.4814,Hidden risk: growing but losing share
+MS-UP-047,North,Uttar Pradesh,UP66,Bhadohi(Sant Ravidas Nagar),729,615,0.1854,1816,0.1308,0.4014,0.3829,1.8493,5.4606,Tata Motors,3.4007,0.3891,0.0,0.1258,0.2505,1.2987,Healthy: growing & gaining share
+MS-UP-048,North,Uttar Pradesh,UP67,Chandauli,579,518,0.1178,1978,0.1056,0.2927,0.2895,0.3173,1.2115,Hyundai,1.6291,0.3891,191.0,0.072,0.2443,-0.4389,Healthy: growing & gaining share
+MS-UP-049,North,Uttar Pradesh,UP70,Prayagraj Rto,7406,6507,0.1382,17997,0.0903,0.4115,0.3942,1.7293,4.7828,Mahindra,2.0589,0.3891,0.0,0.1326,0.1992,0.8027,Healthy: growing & gaining share
+MS-UP-050,North,Uttar Pradesh,UP71,Fathehpur,794,755,0.0517,3097,0.1037,0.2564,0.2691,-1.2689,-5.2051,Mahindra,5.5661,0.3891,411.0,0.0447,0.264,-0.6412,Hidden risk: growing but losing share
+MS-UP-051,North,Uttar Pradesh,UP72,Pratapgarh,1485,1228,0.2093,3265,0.1521,0.4548,0.4333,2.1514,5.7202,Hyundai,0.3414,0.3891,0.0,0.1547,0.2624,2.9498,Healthy: growing & gaining share
+MS-UP-052,North,Uttar Pradesh,UP73,Kaushambi,533,494,0.0789,1202,0.08,0.4434,0.4438,-0.0418,-0.1017,Tata Motors,1.3683,0.3891,0.0,0.0,0.3135,1.3432,Hidden risk: growing but losing share
+MS-UP-053,North,Uttar Pradesh,UP74,Kannauj,1042,892,0.1682,2336,0.129,0.4461,0.4311,1.4935,3.9114,Mahindra,1.2356,0.3891,0.0,0.2052,0.2706,0.8513,Healthy: growing & gaining share
+MS-UP-054,North,Uttar Pradesh,UP75,Etawah,1568,1348,0.1632,3908,0.0931,0.4012,0.3771,2.4165,7.0058,Skoda-VW,0.2672,0.3891,0.0,0.0693,0.2582,3.0701,Healthy: growing & gaining share
+MS-UP-055,North,Uttar Pradesh,UP76,Farrukhabad,1215,960,0.2656,2602,0.1493,0.4669,0.424,4.292,11.6332,Kia,0.511,0.3891,0.0,0.178,0.2678,4.0936,Healthy: growing & gaining share
+MS-UP-056,North,Uttar Pradesh,UP77,Kanpur Dehat,1440,1147,0.2554,3282,0.1614,0.4388,0.4059,3.2883,9.409,Toyota,0.9416,0.3891,0.0,0.2869,0.2876,2.8168,Healthy: growing & gaining share
+MS-UP-057,North,Uttar Pradesh,UP78,Kanpur Nagar,7743,7348,0.0538,23499,0.0623,0.3295,0.3322,-0.2685,-0.8586,Toyota,1.702,0.3891,1400.0,0.0034,0.2007,-1.5745,Hidden risk: growing but losing share
+MS-UP-058,North,Uttar Pradesh,UP79,Auraiya,1222,934,0.3084,2863,0.2651,0.4268,0.4127,1.4099,4.3216,Tata Motors,1.4498,0.3891,0.0,0.2978,0.2714,0.5893,Healthy: growing & gaining share
+MS-UP-059,North,Uttar Pradesh,UP80,Agra Rto,7245,6622,0.0941,17664,0.1062,0.4102,0.4147,-0.4548,-1.2132,Kia,0.7597,0.3891,0.0,0.0504,0.2005,-0.5514,Hidden risk: growing but losing share
+MS-UP-060,North,Uttar Pradesh,UP81,Aligarh Rto,3345,2954,0.1324,9359,0.1287,0.3574,0.3562,0.1163,0.3685,Tata Motors,2.7665,0.3891,296.0,0.1751,0.2379,-0.7592,Healthy: growing & gaining share
+MS-UP-061,North,Uttar Pradesh,UP82,Etah,1582,1217,0.2999,3565,0.1628,0.4438,0.3969,4.6825,13.7165,Hyundai,1.0158,0.3891,0.0,0.1827,0.3222,3.4458,Healthy: growing & gaining share
+MS-UP-062,North,Uttar Pradesh,UP83,Ferozabad,2270,1907,0.1904,5136,0.1358,0.442,0.4217,2.0262,5.4571,Mahindra,2.6724,0.3891,0.0,0.1513,0.2624,1.002,Healthy: growing & gaining share
+MS-UP-063,North,Uttar Pradesh,UP84,Mainpuri,1832,1514,0.21,4123,0.153,0.4443,0.4234,2.0959,5.7075,Mahindra,0.9684,0.3891,0.0,0.153,0.2474,-0.1294,Healthy: growing & gaining share
+MS-UP-064,North,Uttar Pradesh,UP85,Mathura,4059,3612,0.1238,9944,0.1903,0.4082,0.4324,-2.4182,-6.6574,Mahindra,2.1818,0.3891,0.0,0.1004,0.2092,-2.3973,Hidden risk: growing but losing share
+MS-UP-065,North,Uttar Pradesh,UP86,Hathras,1100,981,0.1213,2840,0.0873,0.3873,0.3756,1.175,3.4015,Mahindra,0.9703,0.3891,5.0,0.101,0.2681,0.3377,Healthy: growing & gaining share
+MS-UP-066,North,Uttar Pradesh,UP87,Kasganj(Kashi Ram Nagar),805,634,0.2697,1767,0.1764,0.4556,0.4221,3.3471,9.3285,Hyundai,1.6813,0.3891,0.0,0.1784,0.2564,3.8018,Healthy: growing & gaining share
+MS-UP-067,North,Uttar Pradesh,UP90,Bandarto,655,510,0.2843,2008,0.2096,0.3262,0.3072,1.8966,7.4675,Skoda-VW,0.2675,0.3891,126.0,0.1207,0.3047,1.1431,Healthy: growing & gaining share
+MS-UP-068,North,Uttar Pradesh,UP91,Hamirpur(Up),492,397,0.2393,1423,0.1384,0.3457,0.3176,2.8148,10.0895,Mahindra,1.7658,0.3891,62.0,0.1517,0.2763,0.5501,Healthy: growing & gaining share
+MS-UP-069,North,Uttar Pradesh,UP92,Orai,1105,958,0.1534,3028,0.1324,0.3649,0.3583,0.6663,2.1059,Toyota,0.9829,0.3891,73.0,0.1092,0.2323,1.7476,Healthy: growing & gaining share
+MS-UP-070,North,Uttar Pradesh,UP93,Jhansirto,2402,2246,0.0695,6872,0.0997,0.3495,0.3594,-0.9883,-3.0239,Mahindra,3.7934,0.3891,272.0,0.0631,0.2586,-1.1176,Hidden risk: growing but losing share
+MS-UP-071,North,Uttar Pradesh,UP94,Lalitpur,401,374,0.0722,1382,0.1038,0.2902,0.2987,-0.8563,-3.1641,Mahindra,2.9609,0.3891,137.0,-0.1502,0.3184,-1.0603,Hidden risk: growing but losing share
+MS-UP-072,North,Uttar Pradesh,UP95,Mahoba,573,572,0.0017,1901,0.0764,0.3014,0.3239,-2.2476,-7.4696,Mahindra,3.1124,0.3891,167.0,0.1007,0.2518,-0.3447,Hidden risk: growing but losing share
+MS-UP-073,North,Uttar Pradesh,UP96,Chitrakoot,249,189,0.3175,1128,0.2575,0.2207,0.2107,1.0042,5.9935,Mahindra,2.2139,0.3891,190.0,0.1204,0.313,0.3083,Healthy: growing & gaining share
+MS-WB-001,East,West Bengal,WB1,Pvd Kolkata,5295,4856,0.0904,15994,0.0424,0.3311,0.3165,1.4566,4.7974,Tata Motors,2.715,0.342,175.0,0.0155,0.1723,0.818,Healthy: growing & gaining share
+MS-WB-002,East,West Bengal,WB13,Uluberia Arto,311,366,-0.1503,925,-0.108,0.3362,0.3529,-1.6725,-4.2269,Hyundai,2.6988,0.342,5.0,0.0376,0.4064,-0.3511,Clear decline: falling & losing share
+MS-WB-003,East,West Bengal,WB15,Hooghly Rto,1228,1168,0.0514,3477,0.1517,0.3532,0.3869,-3.3705,-10.0336,Mahindra,3.8401,0.342,0.0,0.1002,0.1623,-1.5507,Hidden risk: growing but losing share
+MS-WB-004,East,West Bengal,WB17,Srirampur Arto,828,972,-0.1481,2282,-0.1179,0.3628,0.3757,-1.2885,-3.0251,Tata Motors,2.3991,0.342,0.0,-0.1416,0.2284,-2.3648,Clear decline: falling & losing share
+MS-WB-005,East,West Bengal,WB18,Arambag Arto,389,442,-0.1199,832,-0.0766,0.4675,0.4906,-2.3018,-4.3328,Hyundai,5.5917,0.342,0.0,-0.1174,0.2364,-2.6071,Clear decline: falling & losing share
+MS-WB-006,East,West Bengal,WB19,Alipore Rto,974,900,0.0822,5400,0.0594,0.1804,0.1766,0.3796,2.2775,Tata Motors,1.7652,0.342,873.0,0.1174,0.202,0.2759,Healthy: growing & gaining share
+MS-WB-007,East,West Bengal,WB21,Basirhat Arto,359,373,-0.0375,528,-0.2024,0.6799,0.5634,11.648,16.4883,Toyota,0.3788,0.342,0.0,0.0565,0.1783,12.5063,Market-driven dip: falling but holding share
+MS-WB-008,East,West Bengal,WB23,Barrackpore Arto,2742,2593,0.0575,7213,-0.0316,0.3801,0.3481,3.2,8.9014,Toyota,0.4594,0.342,0.0,0.0886,0.2007,3.3206,Healthy: growing & gaining share
+MS-WB-009,East,West Bengal,WB25,Barasat Rto,2689,2812,-0.0437,8345,-0.1072,0.3222,0.3008,2.1384,6.3459,Skoda-VW,0.3998,0.342,165.0,0.0319,0.1745,3.7983,Market-driven dip: falling but holding share
+MS-WB-010,East,West Bengal,WB29,Tamluk Rto,668,577,0.1577,2293,0.1185,0.2913,0.2815,0.9858,3.9176,Hyundai,4.1196,0.342,116.0,0.2148,0.2245,2.6752,Healthy: growing & gaining share
+MS-WB-011,East,West Bengal,WB31,Contai Arto,620,522,0.1877,1385,0.0102,0.4477,0.3807,6.6909,17.7528,Toyota,1.5,0.342,0.0,0.1633,0.271,5.728,Healthy: growing & gaining share
+MS-WB-012,East,West Bengal,WB33,Paschim Midnapore Rto,769,730,0.0534,2726,0.0164,0.2821,0.2722,0.9913,3.7019,Kia,3.7928,0.342,163.0,0.184,0.199,0.2975,Healthy: growing & gaining share
+MS-WB-013,East,West Bengal,WB37,Paschim Burdwan Rto,996,1088,-0.0846,4325,-0.0285,0.2303,0.2444,-1.4096,-5.6032,Toyota,1.5629,0.342,483.0,-0.1265,0.2031,-2.098,Clear decline: falling & losing share
+MS-WB-014,East,West Bengal,WB39,Durgapore Arto,1387,1343,0.0328,4269,0.0054,0.3249,0.3163,0.8603,2.7346,Hyundai,2.2076,0.342,73.0,0.1198,0.1864,0.4525,Healthy: growing & gaining share
+MS-WB-015,East,West Bengal,WB41,Purba Burdwan Rto,825,862,-0.0429,2877,-0.0394,0.2868,0.2878,-0.1056,-0.3524,Mahindra,2.8356,0.342,159.0,0.0564,0.2237,1.0026,Clear decline: falling & losing share
+MS-WB-016,East,West Bengal,WB49,Jhargram Rto,478,429,0.1142,953,0.0336,0.5016,0.4653,3.6281,8.0597,Kia,1.6683,0.342,0.0,0.0718,0.22,2.601,Healthy: growing & gaining share
+MS-WB-017,East,West Bengal,WB5,Kasba Arto,3013,3105,-0.0296,8767,0.0155,0.3437,0.3597,-1.5991,-4.5151,Mahindra,2.5541,0.342,0.0,-0.031,0.169,-0.5889,Clear decline: falling & losing share
+MS-WB-018,East,West Bengal,WB51,Nadia Rto,978,932,0.0494,2656,-0.0093,0.3682,0.3476,2.0591,5.8681,Toyota,1.1756,0.342,0.0,0.1007,0.1786,2.3862,Healthy: growing & gaining share
+MS-WB-019,East,West Bengal,WB53,Birbhum Rto,247,281,-0.121,1341,0.1203,0.1842,0.2348,-5.0563,-24.1297,Mahindra,2.5836,0.342,212.0,-0.1849,0.2881,-4.6327,Clear decline: falling & losing share
+MS-WB-020,East,West Bengal,WB55,Purulia Rto,342,283,0.2085,1141,0.0887,0.2997,0.27,2.9699,11.974,Hyundai,0.6924,0.342,48.0,0.4818,0.4868,2.4036,Healthy: growing & gaining share
+MS-WB-021,East,West Bengal,WB57,Murshidabad Rto,684,680,0.0059,3240,-0.0146,0.2111,0.2068,0.4298,2.0481,Hyundai,1.3267,0.342,424.0,0.0212,0.1495,0.2798,Healthy: growing & gaining share
+MS-WB-022,East,West Bengal,WB59,Uttar Dinajpur Rto,274,311,-0.119,1262,0.0153,0.2171,0.2502,-3.3085,-13.4257,Tata Motors,2.6897,0.342,158.0,0.0465,0.2834,-5.1958,Clear decline: falling & losing share
+MS-WB-023,East,West Bengal,WB61,Dakshin Dinajpur Rto,250,251,-0.004,803,0.005,0.3113,0.3141,-0.281,-0.899,Tata Motors,1.1107,0.342,25.0,0.0,0.2226,-0.2806,Clear decline: falling & losing share
+MS-WB-024,East,West Bengal,WB63,Coochbehar Rto,693,707,-0.0198,1617,0.1183,0.4286,0.4889,-6.0364,-13.8059,Tata Motors,4.9984,0.342,0.0,-0.039,0.1741,-4.3667,Clear decline: falling & losing share
+MS-WB-025,East,West Bengal,WB65,Malda Rto,484,470,0.0298,2021,0.0176,0.2395,0.2367,0.2829,1.2164,Tata Motors,7.4026,0.342,207.0,0.16,0.1831,-1.4526,Healthy: growing & gaining share
+MS-WB-026,East,West Bengal,WB67,Bankura Rto,873,838,0.0418,2110,0.0014,0.4137,0.3977,1.6022,4.0342,Mahindra,2.4962,0.342,0.0,0.1802,0.1859,1.414,Healthy: growing & gaining share
+MS-WB-027,East,West Bengal,WB69,Alipurduar Rto,630,708,-0.1102,1506,-0.051,0.4183,0.4461,-2.7798,-5.913,Tata Motors,1.846,0.342,0.0,-0.0878,0.2838,-1.4855,Clear decline: falling & losing share
+MS-WB-028,East,West Bengal,WB7,Saltlake Arto,3948,3630,0.0876,10048,-0.0012,0.3929,0.3608,3.2079,8.8796,Mahindra,1.7294,0.342,0.0,0.059,0.169,2.9144,Healthy: growing & gaining share
+MS-WB-029,East,West Bengal,WB71,Jalpaiguri Rto,664,730,-0.0904,1681,-0.0345,0.395,0.4193,-2.4296,-5.5948,Tata Motors,4.2047,0.342,0.0,-0.0583,0.2276,-2.7489,Clear decline: falling & losing share
+MS-WB-030,East,West Bengal,WB73,Siliguri Arto,3325,3136,0.0603,9668,0.0111,0.3439,0.328,1.5953,4.9182,Tata Motors,1.1689,0.342,0.0,0.0532,0.1303,1.0498,Healthy: growing & gaining share
+MS-WB-031,East,West Bengal,WB76,Darjeeling Rto,478,283,0.689,815,0.5918,0.5865,0.5527,3.3769,9.7249,Toyota,5.2763,0.342,0.0,0.2618,0.4601,10.0073,Healthy: growing & gaining share
+MS-WB-032,East,West Bengal,WB87,Bishnupur Arto,292,257,0.1362,486,0.1854,0.6008,0.6268,-2.6006,-4.9179,Hyundai,7.3,0.342,0.0,0.1429,0.2863,-3.4139,Hidden risk: growing but losing share
+MS-WB-033,East,West Bengal,WB89,Kalyani Arto,445,506,-0.1206,1179,-0.053,0.3774,0.4064,-2.8987,-6.7541,Hyundai,5.7545,0.342,0.0,-0.0551,0.3401,-3.7767,Clear decline: falling & losing share
+MS-WB-034,East,West Bengal,WB9,Behala Arto,2093,2100,-0.0033,4085,-0.0598,0.5124,0.4833,2.9048,5.6506,Mahindra,2.8374,0.342,0.0,-0.0938,0.2063,1.6935,Market-driven dip: falling but holding share
+MS-WB-035,East,West Bengal,WB95,Baruipur Arto,704,607,0.1598,1587,0.04,0.4436,0.3978,4.5832,11.9829,Hyundai,3.8164,0.342,0.0,0.2473,0.2469,4.2287,Healthy: growing & gaining share
+MS-WB-036,East,West Bengal,WB97,Diamond Harbour Arto,253,284,-0.1092,701,-0.1595,0.3609,0.3405,2.0385,5.0317,Hyundai,2.3138,0.342,0.0,-0.0725,0.2841,3.6704,Market-driven dip: falling but holding share

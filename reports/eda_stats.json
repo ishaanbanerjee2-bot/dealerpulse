@@ -1,0 +1,267 @@
+{
+  "raw_rows": 2791564,
+  "raw_volume_m": 757.1,
+  "clean_rows": 2471583,
+  "clean_volume_m": 114.9,
+  "dropped_by_reason": {
+    "contaminated_office": {
+      "rows": 266122,
+      "volume": 557067131
+    },
+    "contaminated_office_month": {
+      "rows": 6084,
+      "volume": 2865898
+    },
+    "non_rto_office": {
+      "rows": 45067,
+      "volume": 80750250
+    },
+    "outlier_vs_baseline": {
+      "rows": 2145,
+      "volume": 1449327
+    }
+  },
+  "peak_inflation_x": 24.8,
+  "maruti_share_2019": 41.0,
+  "maruti_share_l12m": 35.9,
+  "brand_share_shift_pp": {
+    "Maruti Suzuki": -5.07,
+    "Hyundai": -2.31,
+    "Honda Cars": -2.11,
+    "Ford": -2.06,
+    "Renault": -1.21,
+    "Mahindra": 0.59,
+    "Skoda-VW": 0.67,
+    "MG Motor": 0.73,
+    "Toyota": 1.4,
+    "Tata Motors": 4.28,
+    "Kia": 4.97
+  },
+  "n_territories": 909,
+  "quadrant_counts": {
+    "Healthy: growing & gaining share": 501,
+    "Hidden risk: growing but losing share": 194,
+    "Clear decline: falling & losing share": 161,
+    "Market-driven dip: falling but holding share": 53
+  },
+  "pct_growing_but_losing_share": 21.3,
+  "pct_growth_below_market": 39.1,
+  "pct_positive_growth_but_below_market": 21.1,
+  "n_momentum_reversal": 17,
+  "headroom_total_units": 107853,
+  "headroom_top20_share_pct": 38.6,
+  "pct_territories_for_50pct_volume": 11.9,
+  "zone_summary": {
+    "Central": {
+      "territories": 56,
+      "units": 94071,
+      "market": 250363,
+      "units_p": 96494,
+      "hidden": 0.107,
+      "decline": 0.161,
+      "share": 0.376,
+      "growth": -0.025
+    },
+    "East": {
+      "territories": 85,
+      "units": 123802,
+      "market": 375486,
+      "units_p": 118765,
+      "hidden": 0.165,
+      "decline": 0.306,
+      "share": 0.33,
+      "growth": 0.042
+    },
+    "North": {
+      "territories": 325,
+      "units": 542222,
+      "market": 1489776,
+      "units_p": 474472,
+      "hidden": 0.323,
+      "decline": 0.169,
+      "share": 0.364,
+      "growth": 0.143
+    },
+    "North-East": {
+      "territories": 44,
+      "units": 72563,
+      "market": 171254,
+      "units_p": 66424,
+      "hidden": 0.182,
+      "decline": 0.159,
+      "share": 0.424,
+      "growth": 0.092
+    },
+    "South": {
+      "territories": 302,
+      "units": 351984,
+      "market": 965257,
+      "units_p": 316565,
+      "hidden": 0.103,
+      "decline": 0.172,
+      "share": 0.365,
+      "growth": 0.112
+    },
+    "West": {
+      "territories": 97,
+      "units": 352242,
+      "market": 992980,
+      "units_p": 323988,
+      "hidden": 0.309,
+      "decline": 0.124,
+      "share": 0.355,
+      "growth": 0.087
+    }
+  },
+  "festive_index_oct_nov": {
+    "Central": 1.25,
+    "East": 1.16,
+    "North": 1.15,
+    "North-East": 1.14,
+    "South": 1.03,
+    "West": 1.22
+  },
+  "festive_index_aug_sep": {
+    "Central": 0.97,
+    "East": 0.97,
+    "North": 0.9,
+    "North-East": 1.08,
+    "South": 1.15,
+    "West": 1.02
+  },
+  "peak_month_by_zone": {
+    "Central": 10,
+    "East": 10,
+    "North": 1,
+    "North-East": 10,
+    "South": 1,
+    "West": 10
+  },
+  "ts": {
+    "dealers": 1246,
+    "rta_offices": 53,
+    "dealer_type": {
+      "Automobile dealer (brand unknown)": 623,
+      "Body builder / fabricator": 307,
+      "Two-wheeler dealer": 128,
+      "Tractor / farm equipment": 110,
+      "EV dealer": 44,
+      "Car / CV dealer": 34
+    },
+    "pct_hyderabad_metro": 33.5,
+    "brand_inferred": 133
+  },
+  "examples_hidden_risk": [
+    {
+      "dealer_id": "MS-RJ-005",
+      "office_name": "Jaipur (First) Rto",
+      "state_name": "Rajasthan",
+      "units_l12m": 19482,
+      "sales_growth_yoy": 0.024,
+      "market_growth_yoy": 0.127,
+      "share_change_pp": -3.443,
+      "top_competitor_gainer": "Mahindra"
+    },
+    {
+      "dealer_id": "MS-GJ-001",
+      "office_name": "Ahmedabad",
+      "state_name": "Gujarat",
+      "units_l12m": 14524,
+      "sales_growth_yoy": 0.0,
+      "market_growth_yoy": 0.026,
+      "share_change_pp": -0.708,
+      "top_competitor_gainer": "Toyota"
+    },
+    {
+      "dealer_id": "MS-OR-009",
+      "office_name": "Bhubaneswar Rto",
+      "state_name": "Odisha",
+      "units_l12m": 11947,
+      "sales_growth_yoy": 0.001,
+      "market_growth_yoy": 0.028,
+      "share_change_pp": -0.977,
+      "top_competitor_gainer": "Tata Motors"
+    },
+    {
+      "dealer_id": "MS-BR-001",
+      "office_name": "Patna",
+      "state_name": "Bihar",
+      "units_l12m": 11801,
+      "sales_growth_yoy": 0.071,
+      "market_growth_yoy": 0.071,
+      "share_change_pp": -0.01,
+      "top_competitor_gainer": "Mahindra"
+    },
+    {
+      "dealer_id": "MS-GJ-032",
+      "office_name": "Vadodara",
+      "state_name": "Gujarat",
+      "units_l12m": 11695,
+      "sales_growth_yoy": 0.003,
+      "market_growth_yoy": 0.064,
+      "share_change_pp": -2.157,
+      "top_competitor_gainer": "Hyundai"
+    }
+  ],
+  "examples_clear_decline": [
+    {
+      "dealer_id": "MS-GJ-031",
+      "office_name": "Surat",
+      "state_name": "Gujarat",
+      "units_l12m": 10645,
+      "sales_growth_yoy": -0.011,
+      "market_growth_yoy": 0.051,
+      "share_change_pp": -1.866,
+      "top_competitor_gainer": "Tata Motors"
+    },
+    {
+      "dealer_id": "MS-JK-011",
+      "office_name": "Jammu Rto",
+      "state_name": "Jammu And Kashmir",
+      "units_l12m": 6673,
+      "sales_growth_yoy": -0.032,
+      "market_growth_yoy": 0.014,
+      "share_change_pp": -1.852,
+      "top_competitor_gainer": "Mahindra"
+    },
+    {
+      "dealer_id": "MS-RJ-018",
+      "office_name": "Udaipur Rto",
+      "state_name": "Rajasthan",
+      "units_l12m": 6449,
+      "sales_growth_yoy": -0.025,
+      "market_growth_yoy": 0.013,
+      "share_change_pp": -1.664,
+      "top_competitor_gainer": "Mahindra"
+    },
+    {
+      "dealer_id": "MS-MH-007",
+      "office_name": "Nashik",
+      "state_name": "Maharashtra",
+      "units_l12m": 6447,
+      "sales_growth_yoy": -0.009,
+      "market_growth_yoy": 0.013,
+      "share_change_pp": -0.608,
+      "top_competitor_gainer": "Hyundai"
+    },
+    {
+      "dealer_id": "MS-MP-032",
+      "office_name": "Gwalior Rto",
+      "state_name": "Madhya Pradesh",
+      "units_l12m": 5983,
+      "sales_growth_yoy": -0.302,
+      "market_growth_yoy": -0.207,
+      "share_change_pp": -5.326,
+      "top_competitor_gainer": "Mahindra"
+    }
+  ],
+  "top_competitor_gainer_counts": {
+    "Mahindra": 159,
+    "Tata Motors": 89,
+    "Toyota": 50,
+    "Hyundai": 48,
+    "Kia": 7,
+    "Skoda-VW": 1,
+    "Honda Cars": 1
+  }
+}

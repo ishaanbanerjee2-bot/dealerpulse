@@ -1,0 +1,52 @@
+{
+  "expected_share_model": "HistGradientBoosting, 5x5-fold out-of-fold, in-fold state encoding",
+  "features": [
+    "car_pen",
+    "tw_sh",
+    "tractor_sh",
+    "log_car",
+    "market_growth_yoy",
+    "state_enc"
+  ],
+  "cv_r2": 0.422,
+  "cv_mae_pp": 5.92,
+  "state_average_mae_pp": 6.68,
+  "state_average_r2": 0.241,
+  "synthetic_latest_month": {
+    "inventory_days": {
+      "0.1": 15.6,
+      "0.5": 41.2,
+      "0.9": 68.5
+    },
+    "aged_stock_pct": {
+      "0.1": 2.7,
+      "0.5": 9.5,
+      "0.9": 33.3
+    },
+    "payment_delay_days": {
+      "0.1": 0.8,
+      "0.5": 6.4,
+      "0.9": 18.3
+    },
+    "csi_score": {
+      "0.1": 76.3,
+      "0.5": 82.9,
+      "0.9": 89.0
+    },
+    "complaints_per_100_units": {
+      "0.1": 0.0,
+      "0.5": 1.0,
+      "0.9": 2.3
+    }
+  },
+  "target_achievement_l12m": {
+    "0.1": 0.821,
+    "0.5": 0.973,
+    "0.9": 1.163
+  },
+  "injected_events": {
+    "service_disruption": 37,
+    "credit_squeeze": 37,
+    "stock_push": 28
+  }
+}

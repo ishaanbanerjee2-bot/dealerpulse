@@ -1,0 +1,13 @@
+# environments & caches
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.DS_Store
+.claude/
+
+# raw source files are NOT published:
+#  - VAHAN file is 240 MB (over GitHub's 100 MB limit) -> re-download (see README)
+#  - original Telangana roster contains personal emails / phone numbers (PII); the cleaned copy without PII is kept
+data/raw/
+data/processed/vahan_cleaning_log.csv
