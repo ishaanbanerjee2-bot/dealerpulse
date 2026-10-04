@@ -23,6 +23,10 @@ st.set_page_config(page_title="DealerPulse · Dealer Attention Navigator", page_
 U.inject_css()
 
 DATA = Path(__file__).resolve().parents[1] / "data" / "app"
+# Streamlit's cache keys on a function's own code, not on the modules it calls: fingerprint the scoring engine
+# so that any change to engine.py invalidates cached scores (otherwise a redeploy keeps serving old results)
+import hashlib  # noqa: E402
+ENGINE_SIG = hashlib.sha1(Path(E.__file__).read_bytes()).hexdigest()[:12]
 VIEWS = ["Attention Board", "Dealer Deep-Dive", "Quick Assess", "Network Insights", "Method & Data"]
 VIEW_ICON = {"Attention Board": ":material/target:", "Dealer Deep-Dive": ":material/search_insights:",
              "Quick Assess": ":material/edit_note:", "Network Insights": ":material/insights:",
@@ -56,7 +60,7 @@ def load_upload(name: str, data: bytes) -> dict:
 
 
 @st.cache_data(show_spinner="Scoring the dealer network…", max_entries=8)
-def score_all(ds_key: str, weights_items: tuple, _hist: pd.DataFrame) -> pd.DataFrame:
+def score_all(ds_key: str, weights_items: tuple, _hist: pd.DataFrame, engine_sig: str = "") -> pd.DataFrame:
     w = dict(weights_items)
     parts = [E.score_dealers(g, w, volume_ref=g.units_l12m) for _, g in _hist.groupby("as_of")]
     return pd.concat(parts, ignore_index=True)
@@ -870,7 +874,7 @@ def main():
     CTX["mode"], CTX["ds"] = ds["mode"], ds
     hist, ops, panel, targets = ds["hist"], ds["ops"], ds["panel"], ds["targets"]
     zone, state, as_of, tiers, issues, weights = sidebar(ds)
-    allsc = score_all(ds["key"], tuple(sorted(weights.items())), hist)
+    allsc = score_all(ds["key"], tuple(sorted(weights.items())), hist, ENGINE_SIG)
     df = scope_frame(allsc, as_of, zone, state)
     scope_label = "All India" if zone == "All India" else (f"{zone} zone" if state == "All states" else f"{state} ({zone})")
     if ds["mode"] == "upload":
