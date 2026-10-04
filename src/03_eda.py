@@ -101,7 +101,7 @@ for k, c in QC.items():
 ax.axhline(0, color=INK2, lw=0.8); ax.axvline(0, color=INK2, lw=0.8)
 ax.set_xlim(-60, 100); ax.set_ylim(-20, 20)
 ax.set_xlabel("Maruti sales growth YoY (%)"); ax.set_ylabel("Change in Maruti car share (pp)")
-ax.set_title("Sales growth alone hides share loss — 925 territories (bubble = volume)")
+ax.set_title(f"Sales growth alone hides share loss — {len(dl)} territories (bubble = volume)")
 ax.legend(frameon=False, fontsize=8.5, loc="lower right")
 save(fig, "04_territory_quadrant.png")
 

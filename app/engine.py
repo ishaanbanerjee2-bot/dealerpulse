@@ -366,7 +366,8 @@ def primary_issue(flags: list[dict], score: float = float("nan"), pillars: dict 
     if codes & SALES_CODES and codes & FIN_CODES:
         return ROOT_CAUSE
     if risk:
-        return DIAGNOSIS[risk[0]["code"]]
+        top = risk[0]
+        return WEAKEST_PILLAR_ISSUE[top["pillar"]] if top["code"] == "WEAK_PILLAR" else DIAGNOSIS[top["code"]]
     if any(f["code"] == "MARKET_DIP" for f in flags):
         return "Market-driven dip"
     if _ok(score) and score < TIER_CUTS[1] and pillars:               # low score without a single alert
@@ -434,6 +435,20 @@ def score_dealers(raw: pd.DataFrame, weights: dict | None = None, volume_ref: pd
     m["n_flags"] = [sum(f["severity"] in ("high", "medium") for f in fl) for fl in flags]
     m["tier"] = [tier_from(s, fl) for s, fl in zip(m.health_score, flags)]
     pil = [{p: r[f"pillar_{p}"] for p in PILLARS} for _, r in m.iterrows()]
+    # a low overall score can come from several metrics each just short of their red line: no single alert fires,
+    # but a dealer in an attention tier must still get a reason and an action
+    for fl, tier, pp in zip(flags, m.tier, pil):
+        if tier in ("Critical", "Watch") and not _risk(fl):
+            valid = {k: v for k, v in pp.items() if _ok(v)}
+            if valid:
+                weak = min(valid, key=valid.get)
+                fl.append(dict(code="WEAK_PILLAR", title=f"Weak {PILLARS[weak].lower()}", severity="medium",
+                               pillar=weak, evidence=f"{PILLARS[weak]} scores {valid[weak]:.0f}/100 — several metrics "
+                               f"below norm, none past its red line yet.",
+                               action=f"Joint performance review of {PILLARS[weak].lower()}: agree 2–3 improvement "
+                                      f"targets for the next 60 days.",
+                               action_type="Corrective", owner="Area Sales Manager", horizon="60 days"))
+    m["n_flags"] = [sum(f["severity"] in ("high", "medium") for f in fl) for fl in flags]
     m["primary_issue"] = [primary_issue(fl, sc, pp) for fl, sc, pp in zip(flags, m.health_score, pil)]
     m["action_type"] = [_action_type(fl, iss) for fl, iss in zip(flags, m.primary_issue)]
     ref = volume_ref if volume_ref is not None and len(volume_ref) > 0 else m.units_l12m

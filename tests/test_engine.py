@@ -257,6 +257,8 @@ def test_network_invariants(network):
 def test_attention_dealers_always_have_an_explanation(network):
     att = network[network.tier.isin(["Critical", "Watch"])]
     assert (att.primary_issue != "On track").all()
+    assert att.action_type.isin(["Corrective", "Support"]).all(), "a flagged dealer always gets an action"
+    assert att.alerts.apply(lambda fl: any(a["severity"] in ("high", "medium") for a in fl)).all()
     for _, r in att.iterrows():
         assert E.summary_sentence(r)
 
