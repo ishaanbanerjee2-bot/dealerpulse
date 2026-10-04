@@ -8,7 +8,7 @@ ranks the ones that need a regional manager's attention, explains **why**, and r
 * **Synthetic data:** inventory, payment delays, service CSI and complaints are OEM-internal, so they are
   modelled. Each one is linked to the real sales data and clearly labelled in the app.
 
-**Live app:** _add your Streamlit link here after deploying_
+**Live app:** https://dealerpulse.streamlit.app · **Code:** https://github.com/ishaanbanerjee2-bot/dealerpulse
 
 ## Run it locally
 
